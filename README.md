@@ -1,4 +1,4 @@
-# Jaysen Naidoo's PublicText instance
+# Jaysen Naidoo (ZA) WikiWebLog & PublicText instance
 
 ## About Me
 
