@@ -1,4 +1,4 @@
 # Wiki home page
 
-Sample home page for the wiki.
-Links to [sample-page.md](sample-page.md) and [sample-page-2.md](sample-page-2.md).
+More about [PublicText](./publictext.md)
+See also notes on a [Bliki Site](bliki.md) that is a blog and wiki hybrid contained in publictext repos.
