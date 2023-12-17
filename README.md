@@ -1,9 +1,29 @@
-# My Public Text instance
+# Jaysen Naidoo's PublicText instance
 
-## Overview
-Public Text is an experimental platform combining the power of Git's version control with the dynamic world of public discourse, web browsing, social bookmarking, wikis and blogging. It's designed to enhance how we manage, share, and interact with information in a transparent, collaborative online space.
+## About Me
 
-see [Public Text](https://github.com/jaysen/publictext/) for more information.
+Jaysen Naidoo - dreams of public software. living in Johannesburg, South Africa.
+See the [About Me](/about.md) page for more information.
+
+## The WikiWeblog
+
+- [Wiki Section](/wiki/home.md)
+- [Blog Section](/blog/home.md)
+
+## MetaWeb Commons Section
+
+- bookmarks, annotations and wiki for the web. (coming soon)
+
+
+
+-------------------------------------------
+
+## What is PublicText?
+
+PublicText is an experimental platform combining the power of Git's version control with the dynamic world of public discourse, web browsing, social bookmarking, wikis and blogging. It's designed to enhance how we manage, share, and interact with information in a transparent, collaborative online space.
+
+See the [PublicText](https://github.com/jaysen/publictext/) repo for more information.
+
 
 ## Key Features of the ecosystem
 
