@@ -1,4 +1,4 @@
-# Working through DigitalRhizome co-op soon
+# 20240424 Working through DigitalRhizome co-op soon
 I am preparing to stop fulltime employment and to start working freelance via the DigitalRhizome worker-owned co-op.
 This will go into effect on the 15th of June, 2024. I will still do some contract work for my current employer, but I will be working on the [PublicTxt project](https://github.com/publictext) and the ZomeWorks suite for a large percentage of my time.
 
