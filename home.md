@@ -4,7 +4,7 @@
 
 PublicText is an experimental platform combining the power of Git's version control with the dynamic world of public discourse, web browsing, social bookmarking, wikis and blogging. It's designed to enhance how we manage, share, and interact with information in a transparent, collaborative online space.
 
-see the template and starter repo: [PublicText](https://github.com/jaysen/publictext/
+see the template and starter repo: [PublicText](https://github.com/jaysen/publictext/)
 
 ## WikiWeblog
 
