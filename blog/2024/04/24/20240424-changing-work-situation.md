@@ -6,4 +6,4 @@ Am excited, but also a bit nervous.
 
 If you need any interesting software dev done, give me a shout.
 
-UPDATE: This didn't play out as planned. Took another 6 month contract on 1 July. Publictxt delayed.
+**UPDATE**: This didn't play out as planned. Took another 6 month contract on 1 July. Publictxt delayed.
