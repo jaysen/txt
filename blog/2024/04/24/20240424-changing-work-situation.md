@@ -5,3 +5,5 @@ This will go into effect on the 15th of June, 2024. I will still do some contrac
 Am excited, but also a bit nervous. 
 
 If you need any interesting software dev done, give me a shout.
+
+UPDATE: This didn't play out as planned. Took another 6 month contract on 1 July. Publictxt delayed.
