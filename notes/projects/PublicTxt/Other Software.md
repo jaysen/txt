@@ -1,3 +1,3 @@
 - Terminus Db
-- NotesHub
+- NotesHub [20241011-NotesHub](/blog/2024/10/11/20241011-NotesHub.md)
 - 
