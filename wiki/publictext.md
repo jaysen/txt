@@ -7,7 +7,7 @@ Public Text is an experimental platform combining the power of Git's version con
 
 - **Plain text**: Using Markdown for simple, flexible content creation and editing. Tags and more complex metadata is stored using an open plaintext protocol. 
 - **Immutable Public Records**: Leveraging Git for transparent, reliable record-keeping.
--  **GIT Topic Branches**: Using different branches to allow following certain aspects of a repo. These use shared naming standards - see [Git Topic Branches]
+-  **GIT Topic Branches**: Using different branches to allow following certain aspects of a repo. These use shared naming standards - see [Git Topic Branches](GitTopicBranches.md)
 - **Consensus and Reputation Mechanisms**: Empowering community-driven content management and peer review.
 - **Fluid Control Settings**: Flexibility with public, semi-public, and private content settings.
 - **MetaWeb Commons Functionality**: A browser extension that integrates Git repositories that contain discussion and notes about web pages with the web browsing experience.
