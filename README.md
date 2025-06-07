@@ -20,7 +20,7 @@ See the [About Me](/about.md) page for more information.
 
 ## What is PublicText?
 
-PublicText is an experimental platform combining the power of Git's version control with the dynamic world of public discourse, web browsing, social bookmarking, wikis and blogging. It's designed to enhance how we manage, share, and interact with information in a transparent, collaborative online space.
+An idea for an ecosystem of content and knowledge graphs using git repos as a distributed storage and interoperability layer.
 
 See the [PublicText](https://github.com/jaysen/publictext/) repo for more information.
 
@@ -33,7 +33,7 @@ See the [PublicText](https://github.com/jaysen/publictext/) repo for more inform
 - **Feature Rich UI** Making all the other features easy to use, while storing as much data as possible in plaintext with PublicTxt Syntax
 - **Desktop and Mobile UI**: Accessible interfaces for diverse devices, enhancing user interaction, content discovery and creation, and community engagement.
 - **Fluid Community Controls**: Flexibility with public, semi-public, and private content settings.
-- **TerminusDb Backend**: Use richly featured, collaboration focused, versioned Graph Database like TerminusDb to store the Knowledge Graph  in memory for faster use of the graph in ecosystem applications
+- **TerminusDb Backend??**: Use richly featured, collaboration focused, versioned Graph Database like TerminusDb to store the Knowledge Graph  in memory for faster use of the graph in ecosystem applications
 - **Social Bookmarking and Blogging**: A standard for storing MetaWeb (SideWiki like) data about web resources. This to be used with  Interactive platforms for content creation and sharing.
 - **MetaWeb Commons Functionality**: A browser extension that integrates Git repositories that contain discussion and notes about web pages with the web browsing experience.
 - **Immutable Public Records**: Leveraging Git commits - possibly in combination with other forms of distributed ledgers - for transparent and reliable record-keeping.
