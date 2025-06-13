@@ -1,3 +1,5 @@
+# Gaza, and how the west was won
+
 This is how the Americas, Australia, Africa, and parts of Asia were colonized - through violent ethnic cleansing and genocide aimed at seizing land and resources.
 
 Then those responsible for these atrocities pretended they had evolved beyond that violence, seeking to secure their gains and maintain the status quo. They transitioned seamlessly from traditional military colonization to neo-colonization via multinational corporations.
