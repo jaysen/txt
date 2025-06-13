@@ -8,13 +8,13 @@ see the template and starter repo: [PublicText](https://github.com/jaysen/public
 
 ## WikiWeblog
 
-- [Wiki Section](/wiki/home.md)
-- [Blog Section](/blog/home.md)
+- [Wiki Section](wiki/home.md)
+- [Blog Section](blog/home.md)
 
 ## About Me
 
-- [About Me](/about.md)
+- [About Me](about.md)
 
 ## Projects
 
-- [Projects](/projects.md)
+- [Projects](projects.md)
