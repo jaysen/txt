@@ -2,7 +2,6 @@
 
 ## Recent Posts
 
-- [20250612 Gaza, and how the west was won](./20250612-Gaza-and-how-the-west-was-won.md)
 -  [20250612 Gaza, and how the west was won](20250612-Gaza-and-how-the-west-was-won.md)
 
 
