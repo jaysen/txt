@@ -1,4 +1,4 @@
-Repeated in a blog post [20251205 - Knowledge Graphs as Commons](20251205%20-%20Knowledge%20Graphs%20as%20Commons.md)
+Repeated in a blog post [20251205-Knowledge-Graphs-as-Commons](20251205-Knowledge-Graphs-as-Commons.md)
 
 #writing #publictext #knowledge-graphs #social-software #commons #info-politics
 
