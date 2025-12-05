@@ -1,21 +1,19 @@
-# a PublicText instance
+# a PublicTxt instance
 
 
-## WikiWeblog
+## Wiki-Weblog
 
 - [Wiki Section](wiki/home.md)
 - [Blog Section](blog/home.md)
+- [Notes](notes/home.md)
 
 ## About Me
 
 - [About Me](about.md)
+- [Projects](Projects.md)
 
-## Projects
 
-- [Projects](projects.md)
+-----
 
-## What is PublicText?
-
-PublicText is an experimental platform combining the power of Git's version control with the dynamic world of public discourse, web browsing, social bookmarking, wikis and blogging. It's designed to enhance how we manage, share, and interact with information in a transparent, collaborative online space. Currently in Concept Phase
-
-see the template and starter repo: [PublicText](https://github.com/jaysen/publictext/)
+[About PublicTxt](wiki/projects/PublicTxt/PublicTxt.md)
+[GitHub](https://github.com/publictxt/publictext)

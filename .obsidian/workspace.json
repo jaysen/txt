@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "33c16e2862508db0",
+        "id": "607ab81e0863fc84",
         "type": "tabs",
         "children": [
           {
-            "id": "dd34172a8e2772cd",
+            "id": "fb22c03c9a8dc8b0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "metaweb/wiki/sample-page.md",
-                "mode": "source",
-                "source": false
+                "aFile": "blog/home.md",
+                "bFile": "blog/home.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "sample-page"
+              "icon": "diff",
+              "title": "Diff: home"
             }
           }
         ]
@@ -95,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "metaweb/wiki/sample-page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for sample-page"
+              "title": "Backlinks"
             }
           },
           {
@@ -182,7 +181,7 @@
       {
         "id": "4e6f683d0dc82bef",
         "type": "tabs",
-        "dimension": 22.786647314949203,
+        "dimension": 22.786647314949207,
         "children": [
           {
             "id": "620409ed4b3704a8",
@@ -198,7 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 648.5
+    "width": 370.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,24 +208,39 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "markdown-importer:Open format converter": false,
       "random-note:Open random note": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dd34172a8e2772cd",
+  "active": "fb22c03c9a8dc8b0",
   "lastOpenFiles": [
     "blog/home.md",
-    "README.md",
-    "notes/sample.md",
-    "notes/Info politics/The WhatsApp Mess . 20240816.md",
-    "metaweb/sites/publictext.net/publictext.net.md",
     "blog/20250612-Gaza-and-how-the-west-was-won.md",
-    "wiki/publictext.md",
     "wiki/home.md",
     "home.md",
-    "blog/2024/20240424-changing-work-situation.md",
-    "metaweb/wiki/sample-page.md"
+    "wiki/projects/PublicTxt/Other Software.md",
+    "Untitled.canvas",
+    "Projects.md",
+    "wiki/projects/home.md",
+    "wiki/projects/SnapCipher.md",
+    "wiki/projects/PublicTxt/PublicTxt.md",
+    "metaweb/wiki/sample-page.md",
+    "metaweb/wiki/Obsidian.md.md",
+    "metaweb/sites/publictext.net/publictext.net.md",
+    "about.md",
+    "README.md",
+    "2024.md",
+    "blog/2024/home.md",
+    "CONTRIBUTING.md",
+    "notes/home.md",
+    "blog/2023/2023-Week50.md",
+    "blog/2023/12/09/20231209.md",
+    "blog/2023/12/17/20231217.md",
+    "blog/2023/12/17/another-post.md",
+    "blog/2024/20241205-human computed social networks.md",
+    "blog/2024/20241013-new-gaian-religion.md",
+    "blog/2024/20241011-NotesHub.md",
+    "notes/Social/New Gaian Religions.md"
   ]
 }

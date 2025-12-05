@@ -1,4 +1,4 @@
-[[Ganja]]
+#ganja  #soc
 We need that [[New Religion]]
 Not theistic 
 Packages values and beliefs, thematic social ideas.  

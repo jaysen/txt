@@ -1,11 +1,13 @@
-# Project Name: Public Text
+# Project Name: PublicTxt
 
 ## Overview
-Public Text is an experimental platform combining the power of Git's version control with the dynamic world of public discourse, web browsing, social bookmarking, wikis and blogging. It's designed to enhance how we manage, share, and interact with information in a transparent, collaborative online space.
+PublicTxt is aiming to be an experimental platform combining the power of Git's version control with the dynamic world of public discourse, web browsing, social bookmarking, wikis and blogging. It aims to enhance how we manage, share, and interact with information in a transparent, collaborative online space. 
+
+**Currently in Concept Phase**
 
 ## Key Features of the ecosystem
 
-- **Plain text**: Using Markdown for simple, flexible content creation and editing. Tags and more complex metadata is stored using an open plaintext protocol. 
+- **Plain text**: Using Markdown for simple, flexible content creation and editing. Tags and more complex metadata is stored using an open plain-text protocol. 
 - **Immutable Public Records**: Leveraging Git for transparent, reliable record-keeping.
 -  **GIT Topic Branches**: Using different branches to allow following certain aspects of a repo. These use shared naming standards - see [Git Topic Branches](GitTopicBranches.md)
 - **Consensus and Reputation Mechanisms**: Empowering community-driven content management and peer review.
