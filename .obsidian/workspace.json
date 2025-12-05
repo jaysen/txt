@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "607ab81e0863fc84",
+        "id": "2a328140742e38bf",
         "type": "tabs",
         "children": [
           {
-            "id": "fb22c03c9a8dc8b0",
+            "id": "a65c71066e4209b4",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "blog/home.md",
-                "bFile": "blog/home.md",
-                "aRef": ""
+                "file": "home.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: home"
+              "icon": "lucide-file",
+              "title": "home"
             }
           }
         ]
@@ -95,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for home"
             }
           },
           {
@@ -213,14 +214,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fb22c03c9a8dc8b0",
+  "active": "a65c71066e4209b4",
   "lastOpenFiles": [
+    "README.md",
+    "home.md",
+    "Untitled.canvas",
     "blog/home.md",
     "blog/20250612-Gaza-and-how-the-west-was-won.md",
     "wiki/home.md",
-    "home.md",
     "wiki/projects/PublicTxt/Other Software.md",
-    "Untitled.canvas",
     "Projects.md",
     "wiki/projects/home.md",
     "wiki/projects/SnapCipher.md",
@@ -229,7 +231,6 @@
     "metaweb/wiki/Obsidian.md.md",
     "metaweb/sites/publictext.net/publictext.net.md",
     "about.md",
-    "README.md",
     "2024.md",
     "blog/2024/home.md",
     "CONTRIBUTING.md",
@@ -240,7 +241,6 @@
     "blog/2023/12/17/another-post.md",
     "blog/2024/20241205-human computed social networks.md",
     "blog/2024/20241013-new-gaian-religion.md",
-    "blog/2024/20241011-NotesHub.md",
-    "notes/Social/New Gaian Religions.md"
+    "blog/2024/20241011-NotesHub.md"
   ]
 }
