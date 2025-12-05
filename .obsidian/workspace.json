@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home.md",
+                "file": "wiki/home.md",
                 "mode": "source",
                 "source": false
               },
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home.md",
+                "file": "wiki/home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,8 +216,8 @@
   },
   "active": "a65c71066e4209b4",
   "lastOpenFiles": [
-    "README.md",
     "home.md",
+    "README.md",
     "Untitled.canvas",
     "blog/home.md",
     "blog/20250612-Gaza-and-how-the-west-was-won.md",
