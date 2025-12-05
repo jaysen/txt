@@ -1,4 +1,6 @@
-#blog #writing #publictext #knowledge-graphs #social-software #commons #info-politics
+Repeated in a blog post [20251205 - Knowledge Graphs as Commons](20251205%20-%20Knowledge%20Graphs%20as%20Commons.md)
+
+#writing #publictext #knowledge-graphs #social-software #commons #info-politics
 
 # Knowledge Graphs as Commons
 
