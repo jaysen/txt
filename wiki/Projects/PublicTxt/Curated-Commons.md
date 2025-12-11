@@ -1,0 +1,1 @@
+an extension of [PublicTxt](PublicTxt.md) - using human computation to collectively curate the internet and all things.

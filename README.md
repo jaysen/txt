@@ -18,5 +18,5 @@ Living in Johannesburg, South Africa.
 
 -----
 
-More [About PublicTxt](wiki/projects/PublicTxt/PublicTxt.md), and its [GitHub repo](https://github.com/publictxt/publictext)
+More [About PublicTxt](PublicTxt.md), and its [GitHub repo](https://github.com/publictxt/publictext)
 See also notes on [Bliki Sites](bliki.md) - blog and wiki hybrids contained in public-text repos.

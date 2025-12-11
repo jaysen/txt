@@ -16,4 +16,4 @@
 
 -----
 
-More [About PublicTxt](wiki/projects/PublicTxt/PublicTxt.md) and its [GitHub repo](https://github.com/publictxt/publictext)
+More [About PublicTxt](PublicTxt.md) and its [GitHub repo](https://github.com/publictxt/publictext)

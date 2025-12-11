@@ -1,6 +1,6 @@
 
 ## Under development
-- [PublicTxt](wiki/projects/PublicTxt/PublicTxt.md)
+- [PublicTxt](PublicTxt.md)
 - [WikiTool](https://github.com/jaysen/WikiTool) 
 
 ## Previous work
@@ -10,4 +10,4 @@
 - SA Social Development Pension Systems
 
 ## Ideas to work on
-- [SnapCipher](wiki/projects/SnapCipher.md)
+- [SnapCipher](SnapCipher.md)
