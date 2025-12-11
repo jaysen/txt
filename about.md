@@ -20,7 +20,7 @@ Living in Johannesburg, South Africa.
 ---
 
 - [my hypothes.is](https://hypothes.is/users/jaysen) user page
-- [my social bookmarks](https://pinboard.in/u:jaysen) on https://pinboard.in
+- [my social bookmarks](https://pinboard.in/u:jaysen) on [pinboard.in](https://pinboard.in)
 
 ---
 
