@@ -1,6 +1,6 @@
 
 ## Under development
-- [PublicTxt](PublicTxt.md)
+- [PublicTxt](wiki/Projects/PublicTxt/PublicTxt.md)
 - [WikiTool](https://github.com/jaysen/WikiTool) 
 
 ## Previous work
