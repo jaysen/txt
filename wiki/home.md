@@ -1,5 +1,12 @@
-# Wiki home page
+# wiki home
+Pages on 
 
-More about [PublicTxt](projects/PublicTxt/PublicTxt.md)
+- [[Computer Science]]
+- [[Science]]
+- [[InfoPolitics]]
+- [[Politics]]
 
-See also notes on a [Bliki Site](bliki.md) that is a blog and wiki hybrid contained in public-text repos.
+- [[Social Software]]
+	- [PublicTxt](projects/PublicTxt/PublicTxt.md)  
+	- [[Curated Commons]]
+	- [[Social Bookmarking]]
