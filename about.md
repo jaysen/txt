@@ -1,26 +1,37 @@
 # About Me
 
-Jaysen Naidoo - dreams of public software. living in Johannesburg, South Africa.
+Jaysen Naidoo - whistler. dev. armchair science. dreams of public software.
+Living in Johannesburg, South Africa.
 
 ## online
+- [my wikiweblog and PublicText instance](https://github.com/jaysen/publictext-jaysen/)  - this txt instance
 
-- [@jaysen on twitter](http://twitter.com/jaysen)
-- [my facebook page](https://facebook.com/jaysenn)
+---
+
 - [@jaysen@hachyderm.io (mastodon)](https://hachyderm.io/@jaysen)
-- [jaysen@joindiaspora.com](https://joindiaspora.com/people/4cfca20a2c17431c6b001d3e)
+- [my facebook page](https://facebook.com/jaysenn)
+- [@jaysen on twitter](http://twitter.com/jaysen)
 
-- [my old blog](http://jaysenn.blogspot.com) of sorts
-- [my wikiweblog and PublicText instance](https://github.com/jaysen/publictext-jaysen/) 
+---
 
 - [github/jaysen](https://github.com/jaysen)
 - [stackoverflow](https://stackoverflow.com/users/714201/jaysen)
-- [keybase page](https://keybase.io/jaysen)
 
-- [my hypothes.is](https://hypothes.is/users/jaysen) userpage
-- [my social bookmarks](https://pinboard.in/u:jaysen)
+---
 
-- [my c2 wiki page](http://wiki.c2.com/?JaysenNaidoo) 
+- [my hypothes.is](https://hypothes.is/users/jaysen) user page
+- [my social bookmarks](https://pinboard.in/u:jaysen) on https://pinboard.in
+
+---
+
+- [my old blog](http://jaysenn.blogspot.com) of sorts
+
+
 - [my wikipedia userpage](https://en.wikipedia.org/wiki/User:JaysenNaidoo)
+- [jaysen@joindiaspora.com](https://joindiaspora.com/people/4cfca20a2c17431c6b001d3e) - dead now
+- [keybase page](https://keybase.io/jaysen) (old)
+- [my c2 wiki page](http://wiki.c2.com/?JaysenNaidoo) 
 
-## contact
-send me a direct message on [twitter](http://twitter.com/jaysen) or [mastodon](https://hachyderm.io/@jaysen) if you need to get in touch.
+
+## how to contact 
+Send me a direct message on [mastodon](https://hachyderm.io/@jaysen) or [twitter](http://twitter.com/jaysen) if you need to get in touch. Or, better yet, leave an issue or comment the [repo for this txt instance](https://github.com/jaysen/txt)
