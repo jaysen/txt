@@ -3,9 +3,7 @@
 
 - [Computer Science](Computer-Science/home.md)
 - [Science](Science/Science%20Home.md)
-- [[home]]
-- [[Politics]]
-
+- [Social & Political](Social/home.md)
 - [Social-Software](Computer-Science/Social-Software.md)
 	- [PublicTxt](PublicTxt.md) 
 	- [Curated-Commons](Projects/PublicTxt/Curated-Commons.md)
