@@ -15,6 +15,7 @@ Living in Johannesburg, South Africa.
 - [Blog Section](blog/home.md)
 - [Notes Section](notes/home.md) - nothing yet
 - Posts Section - (microblogging) - coming soon
+
 -----
 
 More [About PublicTxt](wiki/projects/PublicTxt/PublicTxt.md), and its [GitHub repo](https://github.com/publictxt/publictext)
