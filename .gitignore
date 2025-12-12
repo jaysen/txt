@@ -5,3 +5,5 @@ _site/
 /.obsidian/workspace.json
 *.gitkeep
 
+
+.obsidian/plugins/obsidian-git/data.json
