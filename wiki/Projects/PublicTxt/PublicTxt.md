@@ -1,4 +1,4 @@
-# Project Name: Public Text / PublicTxt
+# Project PublicTxt
 
 ## Overview
 
