@@ -2,8 +2,8 @@
 
 ## Recent posts
 
-- [20251205-Knowledge Graphs as Commons](20251205-Knowledge-Graphs-as-Commons.md)
-- [20250612-Gaza and how the west was won](20250612-Gaza-and-how-the-west-was-won.md)
+- [20251205 - Knowledge Graphs as Commons](20251205-Knowledge-Graphs-as-Commons.md)
+- [20250612 - Gaza and how the west was won](20250612-Gaza-and-how-the-west-was-won.md)
 
 
 ## Older posts
@@ -12,5 +12,5 @@
 
 
 ## Other  blogging
-- [jaysenn.blogspot.com](https://jaysenn.blogspot.com) - Odd blogging there since 2004!
-	-  [ ] - todo.someday: copy over those posts to this txt space. 
+- [jaysenn.blogspot.com](https://jaysenn.blogspot.com) - odd blogging there since 2004!
+	-  [ ]   todo.someday: copy over those posts to this txt space. 
