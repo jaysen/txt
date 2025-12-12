@@ -1,6 +1,6 @@
 ## This Bliki Site 
 - A blog and wiki hybrid
-  - see https://martinfowler.com/bliki/WhatIsaBliki.html 
+  - see [https://martinfowler.com/bliki/WhatIsaBliki.html](https://martinfowler.com/bliki/WhatIsaBliki.html)
 - using Github repo and/or Github pages.
 - with Jekyll or similar to convert md to html using templates.
 - Combining it with an Obsidian.md vault
