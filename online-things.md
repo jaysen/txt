@@ -1,9 +1,4 @@
-# About Me
-
-Jaysen Naidoo - whistler. dev. armchair science. dreams of public software.
-Living in Johannesburg, South Africa.
-
-## online
+# online things
 - [my wikiweblog and PublicText instance](https://github.com/jaysen/publictext-jaysen/)  - this txt instance
 
 ---

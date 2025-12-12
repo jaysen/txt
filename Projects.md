@@ -2,6 +2,7 @@
 ## Under development
 - [PublicTxt](wiki/Projects/PublicTxt/PublicTxt.md)
 - [WikiTool](https://github.com/jaysen/WikiTool) 
+- [CuratedCommons](wiki/Projects/PublicTxt/CuratedCommons.md)
 
 ## Previous work
 - Port Maputo Asset Maintenance system
@@ -10,4 +11,5 @@
 - SA Social Development Pension Systems
 
 ## Ideas to work on
-- [SnapCipher](SnapCipher.md)
+- [SnapCipher](wiki/Projects/SnapCipher.md)
+- ...

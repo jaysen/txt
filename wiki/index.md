@@ -6,5 +6,5 @@
 - [Social & Political](Social/index.md)
 - [Social-Software](Computer-Science/Social-Software.md)
 	- [PublicTxt](Projects/PublicTxt/PublicTxt.md)
-	- [Curated-Commons](Projects/PublicTxt/Curated-Commons.md)
+	- [CuratedCommons](Projects/PublicTxt/CuratedCommons.md)
 	- [Social-Bookmarking]()
