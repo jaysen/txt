@@ -1,15 +1,15 @@
-# Jaysen Naidoo's bliki & public-txt instance
+# Jaysen Naidoo's bliki & public txt instance
 
 ## about
 
-Jaysen Naidoo, a 50 odd year old mostly-male, living in Johannesburg, South Africa. Software developer by trade -currently taking a break from contract work to experiment with a few ideas for public software... 
+Jaysen Naidoo, a 50 odd year old mostly-male, living in Johannesburg, South Africa. Software developer by trade - currently taking a break from contract work to experiment with a few ideas for public software... 
 
 Spend time on and thinking about:
 - free-software, free-culture and info-politics; 
 - new-work and worker owned co-ops; 
 - social software and public information infrastructure;
-- armchair science - evolution; life; neuroscience; cosmology; physics; complexity.
 - the human project and the political
+- armchair science - evolution; life; neuroscience; cosmology; physics; complexity.
 
 See also:
 - [Online things](online-things.md)
@@ -27,3 +27,4 @@ See also:
 
 More [about PublicTxt](wiki/Projects/PublicTxt/PublicTxt.md), and its [GitHub repo](https://github.com/publictxt/publictext)
 See also notes on [bliki](wiki/bliki.md) - blog and wiki hybrids contained in public-text repos.
+

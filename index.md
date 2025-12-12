@@ -1,4 +1,4 @@
-# Jaysen Naidoo's bliki & public-txt instance
+# Jaysen Naidoo's bliki & public txt instance
 
 ## about
 
@@ -8,8 +8,8 @@ Spend time on and thinking about:
 - free-software, free-culture and info-politics; 
 - new-work and worker owned co-ops; 
 - social software and public information infrastructure;
-- armchair science - evolution; life; neuroscience; cosmology; physics; complexity.
 - the human project and the political
+- armchair science - evolution; life; neuroscience; cosmology; physics; complexity.
 
 See also:
 - [Online things](online-things.md)
