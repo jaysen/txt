@@ -2,10 +2,17 @@
 
 ## about
 
-I'm Jaysen Naidoo - whistler. dev. armchair science. dreams of public software.
-Living in Johannesburg, South Africa.
+Jaysen Naidoo, a 50 odd year old mostly-male, living in Johannesburg, South Africa. Software developer by trade - currently taking a break from contract work to experiment with a few ideas for public software... 
 
-- [About Me](online-things.md)
+Spend time on and thinking about:
+- free-software, free-culture and info-politics; 
+- new-work and worker owned co-ops; 
+- social software and public information infrastructure;
+- armchair science - evolution; life; neuroscience; cosmology; physics; complexity.
+- the human project and the political
+
+See also:
+- [Online things](online-things.md)
 - [Projects](Projects.md)
 
 
@@ -19,4 +26,5 @@ Living in Johannesburg, South Africa.
 -----
 
 More [about PublicTxt](wiki/Projects/PublicTxt/PublicTxt.md), and its [GitHub repo](https://github.com/publictxt/publictext)
-See also notes on [Bliki Sites](bliki.md) - blog and wiki hybrids contained in public-text repos.
+See also notes on [bliki](wiki/bliki.md) - blog and wiki hybrids contained in public-text repos.
+

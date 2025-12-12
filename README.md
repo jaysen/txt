@@ -2,9 +2,16 @@
 
 ## about
 
-I'm Jaysen Naidoo - whistler. dev. armchair science. dreams of public software.
-Living in Johannesburg, South Africa.
+Jaysen Naidoo, a 50 odd year old mostly-male, living in Johannesburg, South Africa. Software developer by trade -currently taking a break from contract work to experiment with a few ideas for public software... 
 
+Spend time on and thinking about:
+- free-software, free-culture and info-politics; 
+- new-work and worker owned co-ops; 
+- social software and public information infrastructure;
+- armchair science - evolution; life; neuroscience; cosmology; physics; complexity.
+- the human project and the political
+
+See also:
 - [Online things](online-things.md)
 - [Projects](Projects.md)
 

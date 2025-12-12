@@ -1,3 +1,4 @@
+I'm currently taking a break from contract work to experiment with a few ideas for public software...
 
 ## Under development
 - [PublicTxt](wiki/Projects/PublicTxt/PublicTxt.md)
