@@ -5,6 +5,7 @@
 Jaysen Naidoo, a 50 odd year old mostly-male, living in Johannesburg, South Africa. Software developer by trade - currently taking a break from contract work to experiment with a few ideas for public software... 
 
 Spend time on and thinking about:
+
 - free-software, free-culture and info-politics; 
 - new-work and worker owned co-ops; 
 - social software and public information infrastructure;
@@ -17,6 +18,7 @@ See also:
 
 
 ## Content
+I'm slowly migrating content here, so its a bit empty right now.
 
 - [Wiki](wiki/index.md) - linked wiki pages
 - [Blog](blog/index.md) - weblogging
