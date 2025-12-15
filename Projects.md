@@ -9,6 +9,7 @@ I'm currently taking a break from contract work to experiment with a few ideas f
 - Port Maputo Asset Maintenance system
 - Municipal Sustainability Tooling
 - Algorithmic Labour Dispute Assistant
+- CIPC trademark subsystem
 - SA Social Development Pension Systems
 
 ## Ideas to work on
