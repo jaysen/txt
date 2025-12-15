@@ -1,11 +1,10 @@
 # online things
-- [my wikiweblog and PublicText instance](https://github.com/jaysen/publictext-jaysen/)  - this txt instance
-
----
 
 - [@jaysen@hachyderm.io (mastodon)](https://hachyderm.io/@jaysen)
-- [my facebook page](https://facebook.com/jaysenn)
+- [bluesky](https://bsky.app/profile/jaysenn.bsky.social)
+- [facebook](https://facebook.com/jaysenn)
 - [@jaysen on twitter](http://twitter.com/jaysen)
+- [threads](https://www.threads.com/@jaynthemerry)
 
 ---
 
@@ -13,18 +12,25 @@
 - [stackoverflow](https://stackoverflow.com/users/714201/jaysen)
 
 ---
+- [chess.com/member/jaysen](https://www.chess.com/member/jaysen) 
+- [lichess.org/@/jaysenn](https://lichess.org/@/jaysenn)
+
 
 - [my hypothes.is](https://hypothes.is/users/jaysen) user page
 - [my social bookmarks](https://pinboard.in/u:jaysen) on [pinboard.in](https://pinboard.in)
 
----
-
 - [my old blog](http://jaysenn.blogspot.com) of sorts
+- [my wiki-weblog and PublicText instance](https://github.com/jaysen/publictext-jaysen/)  - this txt instance
 
 
-- [keybase page](https://keybase.io/jaysen) (old)
-- [my c2 wiki page](http://wiki.c2.com/?JaysenNaidoo) 
 
-
-## how to contact 
+---
+## contact 
 Send me a direct message on [mastodon](https://hachyderm.io/@jaysen) or [twitter](http://twitter.com/jaysen) if you need to get in touch. Or, better yet, leave an issue or comment the [repo for this txt instance](https://github.com/jaysen/txt)
+
+
+
+
+
+
+---

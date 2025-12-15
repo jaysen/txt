@@ -2,15 +2,16 @@
 
 ## about
 
-Jaysen Naidoo, a 50 odd year old mostly-male, living in Johannesburg, South Africa. Software developer by trade - currently taking a break from contract work to experiment with a few ideas for public software... 
+Jaysen Naidoo, living in Johannesburg, South Africa. Software developer by trade - currently taking a break from contract work to experiment with a few ideas for public software... 
 
 Spend time on and thinking about:
 
 - free-software, free-culture and info-politics; 
-- new-work and worker owned co-ops; 
 - social software and public information infrastructure;
 - the human project and the political
 - armchair science - evolution; life; neuroscience; cosmology; physics; complexity.
+- new-work and worker owned co-ops;
+- chess
 
 See also:
 - [Online things](online-things.md)

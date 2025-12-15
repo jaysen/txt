@@ -3,7 +3,7 @@ _site/
 .jekyll-metadata
 
 /.obsidian/workspace.json
+
 *.gitkeep
-
-
-.obsidian/plugins/obsidian-git/data.json
+.obsidian/plugins/obsidian-git/
+.obsidian/plugins/wikilinks-to-mdlinks-obsidian/
