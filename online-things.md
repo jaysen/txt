@@ -10,15 +10,14 @@
 
 - [github/jaysen](https://github.com/jaysen)
 - [stackoverflow](https://stackoverflow.com/users/714201/jaysen)
+- [my hypothes.is](https://hypothes.is/users/jaysen) user page
+- [my social bookmarks](https://pinboard.in/u:jaysen) on [pinboard.in](https://pinboard.in)
 
 ---
 - [chess.com/member/jaysen](https://www.chess.com/member/jaysen) 
 - [lichess.org/@/jaysenn](https://lichess.org/@/jaysenn)
 
-
-- [my hypothes.is](https://hypothes.is/users/jaysen) user page
-- [my social bookmarks](https://pinboard.in/u:jaysen) on [pinboard.in](https://pinboard.in)
-
+---
 - [my old blog](http://jaysenn.blogspot.com) of sorts
 - [my wiki-weblog and PublicText instance](https://github.com/jaysen/publictext-jaysen/)  - this txt instance
 
