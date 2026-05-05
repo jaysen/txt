@@ -51,15 +51,7 @@ The experiment is in early stages. Links to software repositories for tooling th
 - **TerminusDb Backend**: Use richly featured, collaboration focused, versioned Graph Database like TerminusDb to store the Knowledge Graph  in memory for faster use of the graph in ecosystem applications
 - **Consensus and Reputation Mechanisms**: Empowering community-driven content management and peer review.
 
-## Public Text Template
-
-### Using this Repository to work or play with the format
-
-- This repo should also function as a template of the format. Although it also holds a wiki and other content about the entire PublicTxt idea. If  
-- This repository should be able to be used with custom software, like the hoped for browser extension and other tooling.
-- Suggest changes via pull requests, issues, comments, or by forking the repository and creating your own version of the template.
-
-### Directory Structure
+## Directory Structure
 
 The directory structure for a Public Text repository is as follows:
 
