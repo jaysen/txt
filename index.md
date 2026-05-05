@@ -2,7 +2,7 @@
 
 ## about
 
-Jaysen Naidoo, living in Johannesburg, South Africa. Software developer by trade - currently taking a break from contract work to experiment with a few ideas for public software... 
+Jaysen Naidoo, living in Johannesburg, South Africa. Software developer by trade. Currently taking on contract work while working on a few public software ideas.
 
 Spend time on and thinking about:
 

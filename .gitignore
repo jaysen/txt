@@ -7,3 +7,5 @@ _site/
 *.gitkeep
 .obsidian/plugins/obsidian-git/
 .obsidian/plugins/wikilinks-to-mdlinks-obsidian/
+
+.trash/
