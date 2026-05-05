@@ -1,10 +1,6 @@
-
+[Wiki home](../index.md) -> [Science home](index.md) -> [Neuroscience](Neuroscience.md)
 
 #brain #sci #bio 
-
-back to [Neuroscience](Neuroscience.md) 
-
-
 
 ## The Attention Schema Theory of Consciousness ...
 - [Attention-Schema-Theory-of-Consciousness](brain/Attention-Schema-Theory-of-Consciousness.md)
