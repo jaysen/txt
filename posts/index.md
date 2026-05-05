@@ -19,3 +19,12 @@ Economic democracy vs Capitalism
 ### 2026/04/24
 Owen Jones video on "Israel's vilest crime yet". Too awful for words but we bear witness
 [Facebook](https://www.facebook.com/jaysenn/posts/pfbid033TWojJB5AaGWxXQZFwzoELTquFKCUgQBAxyJvwWDuppiHCD94uvzVnGThDacY5Bnl), [Mastodon](https://hachyderm.io/@jaysen/116458003343356659)
+
+## 2026/03
+### 2026/03/17
+make greed shameful again
+[Mastodon](https://hachyderm.io/@jaysen/116242926117372403) [Facebook](https://www.facebook.com/jaysenn/posts/pfbid0QNqjdP5WDX2w9fhDGnenCeNKZCwfxTfzXwKSbJtqyafmHFjWi7Ch8CFnKNZfHu4Al)
+
+### 2026/03/13
+Boycott the USA. In any way you can - travel, services, products. It doesn't have to be complete, just what you can afford to do.
+[Mastodon](https://hachyderm.io/@jaysen/116220644037941917)
