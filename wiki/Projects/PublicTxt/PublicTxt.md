@@ -1,3 +1,5 @@
+see the repo here [https://github.com/publictxt/publictext](https://github.com/publictxt/publictext)
+
 # Project PublicTxt
 
 ## Overview
