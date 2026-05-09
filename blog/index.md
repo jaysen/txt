@@ -1,7 +1,7 @@
 # Web-logging
 
 ## Recent posts
-
+- [20260509-CuratedCommons-Open-Aggregation-for-the-Open-Web](20260509-CuratedCommons-Open-Aggregation-for-the-Open-Web.md)
 - [20260424 - Multiverse testability still feels off](20260424-multiverse-testability-still-feels-off.md)
 - [20251205 - Knowledge Graphs as Commons](20251205-Knowledge-Graphs-as-Commons.md)
 - [20250612 - Gaza and how the west was won](20250612-Gaza-and-how-the-west-was-won.md)
