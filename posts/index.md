@@ -1,5 +1,10 @@
 Toots, tweets, threads, micro-blogs - most done on other platforms and manually (for now) duplicated here.
 
+
+### 20260724
+Is Capitalism Broken, or Working Perfectly [[../wiki/Social/Clara-Mattei]] of [[../wiki/Social/Forum-for-Economic-Emancipation]]
+[Facebook](https://www.facebook.com/jaysenn/posts/pfbid0PHSDn7sysEx1xGXaTtK2kRgRPFmTT3qTUX64G67dqc3w5PoDayn1wtRfqP9s8RtUl)
+
 ### 20260504
 Economic democracy vs Capitalism  
 (YouTube warning)  

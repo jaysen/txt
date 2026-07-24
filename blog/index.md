@@ -1,6 +1,7 @@
 # Web-logging
 
 ## Recent posts
+- [20260724-Clara-Mattei-on-Economic-Democracy-Interview](20260724-Clara-Mattei-on-Economic-Democracy-Interview.md)
 - [20260509-CuratedCommons-Open-Aggregation-for-the-Open-Web](20260509-CuratedCommons-Open-Aggregation-for-the-Open-Web.md)
 - [20260424 - Multiverse testability still feels off](20260424-multiverse-testability-still-feels-off.md)
 - [20251205 - Knowledge Graphs as Commons](20251205-Knowledge-Graphs-as-Commons.md)
