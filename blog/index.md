@@ -1,17 +1,5 @@
 # Web-logging
 
-## Recent posts
-- [20260915-Our-tools-are-still-broken](20260915-Our-tools-are-still-broken.md)
-- [20260724-Clara-Mattei-on-Economic-Democracy-Interview](20260724-Clara-Mattei-on-Economic-Democracy-Interview.md)
-- [20260509-CuratedCommons-Open-Aggregation-for-the-Open-Web](20260509-CuratedCommons-Open-Aggregation-for-the-Open-Web.md)
-- [20260424 - Multiverse testability still feels off](20260424-multiverse-testability-still-feels-off.md)
-- [20251205 - Knowledge Graphs as Commons](20251205-Knowledge-Graphs-as-Commons.md)
-- [20250612 - Gaza and how the west was won](20250612-Gaza-and-how-the-west-was-won.md)
-
-## Older posts
-
-- [2024](2024/home)
-
 ## Other  blogging
 
 - [jaysenn.blogspot.com](https://jaysenn.blogspot.com) - odd blogging there since 2004!
