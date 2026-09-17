@@ -14,14 +14,15 @@ Spend time on and thinking about:
 - chess
 
 See also:
+
 - Recent Things
-	- [20260509-CuratedCommons-Open-Aggregation-for-the-Open-Web](blog/20260509-CuratedCommons-Open-Aggregation-for-the-Open-Web.md)
-	- [PublicTxt](wiki/Projects/PublicTxt/PublicTxt.md)
+  - [20260509-CuratedCommons-Open-Aggregation-for-the-Open-Web](blog/20260509-CuratedCommons-Open-Aggregation-for-the-Open-Web.md)
+  - [PublicTxt](wiki/Projects/PublicTxt/PublicTxt.md)
 - [Online things](online-things.md)
 - [Projects](Projects.md)
 
-
 ## Content
+
 I'm slowly migrating content here, so its a bit empty right now.
 
 - [Wiki](wiki/index.md) - linked wiki pages
