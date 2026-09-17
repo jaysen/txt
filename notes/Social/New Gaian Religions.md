@@ -7,4 +7,4 @@ We have to evolve, now, again, through this latest upcoming crisis, if we are to
 
 Any religion that doesn't teach us the love, respect and responsibilities for the complex ecosystem that has birthed us and on which we depend, is no longer fit for purpose 
 
-There's a [[Ministry of the Future]] reference here that should be checked. 
+There's a [Ministry of the Future](#) reference here that should be checked. 
