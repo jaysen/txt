@@ -1,7 +1,7 @@
 Toots, tweets, threads, micro-blogs - most done on other platforms and manually (for now) duplicated here.
 
 ### 20260724
-Is Capitalism Broken, or Working Perfectly - [Clara Mattei](../wiki/Social/Clara-Mattei) of [Forum-for-Economic-Emancipation](../wiki/Social/Forum-for-Economic-Emancipation)
+Is Capitalism Broken, or Working Perfectly - [Clara Mattei](../wiki/Social/Clara-Mattei) of [Forum for Economic Emancipation](../wiki/Social/Forum%20for%20Economic%20Emancipation.md)
 [Facebook](https://www.facebook.com/jaysenn/posts/pfbid0PHSDn7sysEx1xGXaTtK2kRgRPFmTT3qTUX64G67dqc3w5PoDayn1wtRfqP9s8RtUl)
 
 ### 20260504

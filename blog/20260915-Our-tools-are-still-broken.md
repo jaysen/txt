@@ -1,3 +1,7 @@
+---
+tags:
+  - blog
+---
 
 ## We can't fix the tools we use until we properly own them - and we can properly own them.
 

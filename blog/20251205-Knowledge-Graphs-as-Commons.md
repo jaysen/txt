@@ -1,3 +1,7 @@
+---
+tags:
+  - blog
+---
 # Knowledge Graphs as Commons
 
 #blog #writing #publictext #knowledge-graphs #social-software #commons #info-politics

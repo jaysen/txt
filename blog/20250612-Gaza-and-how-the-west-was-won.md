@@ -1,3 +1,7 @@
+---
+tags:
+  - blog
+---
 # Gaza, and how the west was won
 
 This is how the Americas, Australia, Africa, and parts of Asia were colonized - through violent ethnic cleansing and genocide aimed at seizing land and resources.

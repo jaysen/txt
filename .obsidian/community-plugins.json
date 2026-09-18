@@ -9,5 +9,7 @@
   "tag-wrangler",
   "templater-obsidian",
   "obsidian-outliner",
-  "wikilinks-to-mdlinks-obsidian"
+  "wikilinks-to-mdlinks-obsidian",
+  "multi-tag",
+  "tag-page-md"
 ]

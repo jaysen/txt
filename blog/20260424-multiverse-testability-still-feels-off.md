@@ -1,3 +1,7 @@
+---
+tags:
+  - blog
+---
 # The “Near-Optimal” Trap: Why Multiverse Testability Still Feels Like a Shell Game
 
 I’ve been watching the recent buzz around "testable" multiverse models - specifically the idea that we can prove the existence of an inflationary multiverse by showing our universe is "near-optimal" for life.. Déjà vu.

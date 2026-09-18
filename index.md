@@ -32,6 +32,7 @@ I'm slowly migrating content here, so its a bit empty right now.
 
 -----
 
-More [about PublicTxt](wiki/Projects/PublicTxt/PublicTxt.md), and its [GitHub repo](https://github.com/publictxt/publictext)
+Find out more about [PublicTxt](wiki/Projects/PublicTxt/PublicTxt.md),  
+and its [GitHub repo](https://github.com/publictxt/publictext)
 See also notes on [bliki](wiki/bliki.md) - blog and wiki hybrids contained in public-text repos.
 

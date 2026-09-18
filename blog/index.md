@@ -1,3 +1,7 @@
+---
+tags:
+  - blog
+---
 # Web-logging
 
 ## Other  blogging

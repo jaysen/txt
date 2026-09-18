@@ -60,7 +60,7 @@ The directory structure for a Public Text repository is as follows:
 - **blog**: Contains blog posts
   - **year** (eg 2023)
     - **month** (eg 01)
-      - **day** (eg 01)
+      - **day** (eg 01) - optional 
         - date.md: (eg 20231217.md) Contains the blog post
         - title.md: other posts for the day
 - **wiki**: Contains wiki pages
