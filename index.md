@@ -1,25 +1,11 @@
 # Jaysen Naidoo's bliki & public txt instance
 
-## about
-
-Jaysen Naidoo, living in Johannesburg, South Africa. Software developer by trade. Currently taking on contract work while working on a few public software ideas.
-
-Spend time on and thinking about:
-
-- free-software, free-culture and info-politics; 
-- social software and public information infrastructure;
-- the human project and the political
-- armchair science - evolution; life; neuroscience; cosmology; physics; complexity.
-- new-work and worker owned co-ops;
-- chess
-
-See also:
-
 - Recent Things
-  - [20260509-CuratedCommons-Open-Aggregation-for-the-Open-Web](blog/20260509-CuratedCommons-Open-Aggregation-for-the-Open-Web.md)
-  - [PublicTxt](wiki/Projects/PublicTxt/PublicTxt.md)
-- [Online things](online-things.md)
+	- [PublicTxt-Hugo](wiki/Projects/PublicTxt/PublicTxt-Hugo.md)
+	- [20260509-CuratedCommons-Open-Aggregation-for-the-Open-Web](blog/2026/20260509-CuratedCommons-Open-Aggregation-for-the-Open-Web.md)
+	- [PublicTxt](wiki/Projects/PublicTxt/PublicTxt.md)
 - [Projects](Projects.md)
+- [About](About.md)
 
 ## Content
 
@@ -29,10 +15,9 @@ I'm slowly migrating content here, so its a bit empty right now.
 - [Blog](blog/index.md) - weblogging
 - [Notes](notes/home.md) - nothing yet
 - [Posts](posts/index.md) - Toots, tweets, threads, micro-blogs - all can get duplicated here.
+- [Bookmarks](bookmarks/) - Web bookmarks and annotations
 
 -----
+Find out more about [PublicTxt](wiki/Projects/PublicTxt/PublicTxt.md), and its [GitHub repo](https://github.com/publictxt/publictext).
 
-Find out more about [PublicTxt](wiki/Projects/PublicTxt/PublicTxt.md),  
-and its [GitHub repo](https://github.com/publictxt/publictext)
-See also notes on [bliki](wiki/bliki.md) - blog and wiki hybrids contained in public-text repos.
 

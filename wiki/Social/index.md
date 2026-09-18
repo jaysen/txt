@@ -6,5 +6,5 @@ Nothing much here yet - migration in progress
 
 
 blog posts:  
-- [20260724-Clara-Mattei-on-Economic-Democracy-Interview](../../blog/20260724-Clara-Mattei-on-Economic-Democracy-Interview.md)
-- [20250612-Gaza-and-how-the-west-was-won](20250612-Gaza-and-how-the-west-was-won.md)
+- [20260724-Clara-Mattei-on-Economic-Democracy-Interview](../../blog/2026/20260724-Clara-Mattei-on-Economic-Democracy-Interview.md)
+- [20250612-Gaza-and-how-the-west-was-won](../../blog/2025/20250612-Gaza-and-how-the-west-was-won.md)

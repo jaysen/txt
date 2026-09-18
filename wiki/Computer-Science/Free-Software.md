@@ -1,4 +1,4 @@
-[Wiki home](../index.md) -> [Computer Science](index.md)
+#compsci #floss #software 
 
 [CopyLeft](CopyLeft.md)
 

@@ -1,4 +1,3 @@
-[Wiki home](../index.md) 
 
 # Computer Science things
 
@@ -8,5 +7,6 @@
 
 - [Projects](../../Projects.md)
 	- [PublicTxt](../Projects/PublicTxt/PublicTxt.md)
-	- WikiTool
-	- 
+	- [WikiTools](../Projects/PublicTxt/WikiTools.md)
+	- [PublicTxt-Hugo](../Projects/PublicTxt/PublicTxt-Hugo.md)
+	- [Obsidian Search Facets Plugin](Obsidian-Search-Facets-Plugin.md)

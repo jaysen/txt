@@ -1,20 +1,13 @@
-## This Bliki Site 
 - A blog and wiki hybrid
   - see [https://martinfowler.com/bliki/WhatIsaBliki.html](https://martinfowler.com/bliki/WhatIsaBliki.html)
 - using Github repo and/or Github pages.
 - with Jekyll or similar to convert md to html using templates.
 - Combining it with an Obsidian.md vault
-
-
-
-
-
 ------------------------------
 
 # Notes for working on Git based Blikis
 
 ## Plain Github Repo Option
-- this is currently what I'm using
 - blog and wiki files in a github repo
 - linking between files using markdown links
 - no static site generation
@@ -23,6 +16,7 @@
 - Jekyll - used by Github pages, and I've used it before...
 - Pelican (Python!)
 - Hugo
+	- this is currently what I'm using
 
 ## Combining with Obsidian.md
 - [Obsidian.md](https://obsidian.md/) is a markdown based note taking app

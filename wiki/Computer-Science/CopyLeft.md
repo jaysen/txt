@@ -1,5 +1,3 @@
-[Wiki home](../index.md) -> [Computer Science](index.md)
-
 Copyleft is ==a licensing practice that uses copyright law to grant users the right to freely modify, share, and redistribute creative works or software, provided that all derivative works are released under the same license terms==. Coined by [Richard Stallman](Richard-Stallman.md) in the 1980s, it reverses traditional copyright to ensure software remains open, with the GNU General Public License (GPL) being a primary example.
 
 **Common Copyleft Licenses**
