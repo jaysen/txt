@@ -12,3 +12,5 @@ But the ongoing genocide in Gaza, coupled with unwavering Western support, expos
 
 There are 32 billion cubic meters of natural gas and an estimated 1.1 billion barrels of oil off the coast of Gaza.
 Perhaps the myth of western freedom extending to brown people simply wasn't worth it to them again...
+
+#soc #political #palestine #imperialism
