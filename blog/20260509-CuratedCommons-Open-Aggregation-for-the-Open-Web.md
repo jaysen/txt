@@ -1,6 +1,4 @@
 ---
-tags:
-  - blog
 ---
 # Curated Commons: Open Aggregation for the Open Web
 

@@ -1,6 +1,4 @@
 ---
-tags:
-  - blog
 ---
 # Web-logging
 

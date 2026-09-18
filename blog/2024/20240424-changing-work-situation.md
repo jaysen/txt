@@ -1,6 +1,4 @@
 ---
-tags:
-  - blog
 ---
 # 20240424 Working through DigitalRhizome co-op soon
 I am preparing to stop fulltime employment and to start working freelance via the DigitalRhizome worker-owned co-op.

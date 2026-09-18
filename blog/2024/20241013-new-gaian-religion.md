@@ -1,6 +1,4 @@
 ---
-tags:
-  - blog
 ---
 #ganja  #soc #ideas 
 Maybe we need new religions

@@ -1,6 +1,4 @@
 ---
-tags:
-  - blog
 ---
 # Gaza, and how the west was won
 

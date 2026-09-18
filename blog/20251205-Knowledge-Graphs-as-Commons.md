@@ -1,6 +1,4 @@
 ---
-tags:
-  - blog
 ---
 # Knowledge Graphs as Commons
 

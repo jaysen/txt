@@ -1,6 +1,4 @@
 ---
-tags:
-  - blog
 ---
 # 20260724-Clara-Mattei-on-Economic-Democracy-Interview
 

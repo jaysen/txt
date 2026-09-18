@@ -1,6 +1,4 @@
 ---
-tags:
-  - blog
 ---
 # The “Near-Optimal” Trap: Why Multiverse Testability Still Feels Like a Shell Game
 
