@@ -12,8 +12,8 @@ Spend time on and thinking about:
 - armchair science - evolution; life; neuroscience; cosmology; physics; complexity.
 
 See also:
-- [Online things](online%20things.md)
-- [Projects](Projects.md)
+- [Online-things](Online-things.md)
+- [Projects](wiki/Projects/Projects.md)
 
 
 ## Content

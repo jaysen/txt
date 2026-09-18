@@ -12,4 +12,4 @@ Spend time on and thinking about:
 - chess
 
 See also:
-- [Online things](online%20things.md)
+- [Online-things](Online-things.md)
