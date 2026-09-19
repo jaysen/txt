@@ -1,14 +1,10 @@
 # Jaysen Naidoo's bliki & public txt instance
-I'm migrating content here from 
+A [bliki](wiki/Knowledge-Management/bliki.md) and [PublicTxt](wiki/Projects/PublicTxt/PublicTxt.md) instance of Jaysen Naidoo, living in Johannesburg, South Africa. Software developer by trade - currently taking a break on contract work and experimenting with a few  public software projects. 
 
-- Recent Things
-	- [PublicTxt-Hugo](wiki/Projects/PublicTxt/PublicTxt-Hugo.md)
-	- [20260509-CuratedCommons-Open-Aggregation-for-the-Open-Web](blog/2026/20260509-CuratedCommons-Open-Aggregation-for-the-Open-Web.md)
-	- [PublicTxt](wiki/Projects/PublicTxt/PublicTxt.md)
 - [Projects](wiki/Projects/Projects.md)
-- [About](About.md)
+- [Bio](Bio.md)
+- [Online things](Online-things.md)
 
------
 Find out more about [PublicTxt](wiki/Projects/PublicTxt/PublicTxt.md) and its [GitHub repo](https://github.com/publictxt/publictext)
 
 

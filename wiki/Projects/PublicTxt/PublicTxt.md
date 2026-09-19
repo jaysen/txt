@@ -15,7 +15,6 @@ The experiment is in early stages. Links to software repositories for tooling th
 	- Uses Hugo for static site generation
 	- Pagefind for search - Pagefind is a fully static search library that aims to perform well on large sites, while using as little of your users’ bandwidth as possible, and without hosting any infrastructure.
 	- Python for pre-processing
-	- see [jaysen.co.za](https://jaysen.co.za) for a working example
 - [WikiTool](https://github.com/jaysen/WikiTool) In-progress. Multiplatform .NET Tool for handling multiple wikis
 	- Core Wiki Libraries
 	- Converts between Wiki formats and Wiki-Syntax
