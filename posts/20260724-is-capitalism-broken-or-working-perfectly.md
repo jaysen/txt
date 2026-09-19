@@ -7,4 +7,3 @@ Is Capitalism Broken, or Working Perfectly - [Clara Mattei](../wiki/Social/Clara
 
 [Facebook](https://www.facebook.com/jaysenn/posts/pfbid0PHSDn7sysEx1xGXaTtK2kRgRPFmTT3qTUX64G67dqc3w5PoDayn1wtRfqP9s8RtUl)
 
-[Back to posts index](index.md)

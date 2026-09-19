@@ -6,4 +6,3 @@ Boycott the USA. In any way you can - travel, services, products. It doesn't hav
 
 [Mastodon](https://hachyderm.io/@jaysen/116220644037941917)
 
-[Back to posts index](index.md)

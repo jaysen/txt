@@ -7,4 +7,3 @@
 
 [Facebook](https://www.facebook.com/jaysenn/posts/pfbid0PTyzMHnatGUNKo9PFHzqTAnF5UzWtUPqmhz6jUBkBwvFbUCm5THESXRdXgm3fk7Xl)
 
-[Back to posts index](index.md)
