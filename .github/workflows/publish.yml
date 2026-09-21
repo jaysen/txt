@@ -60,7 +60,8 @@ jobs:
       - name: Build
         env:
           HUGO_BASEURL: https://jaysen.co.za/
-          HUGO_TITLE: "Jaysen Naidoo PublicTxt instance"
+          HUGO_TITLE: "Jaysen Naidoo: PublicTxt instance"
+          HUGO_PARAMS_SHORTTITLE: "jaysen - txt"
           HUGO_PARAMS_DESCRIPTION: "A PublicTxt repository — browsable, searchable, plain-text first."
         run: sh site/scripts/build.sh ../txt
 
