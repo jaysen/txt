@@ -1,6 +1,5 @@
 ---
 bookmark: https://locusmag.com/feature/commentary-cory-doctorow-technopolitics/
-Created: "20260921"
 ---
 
 # 20260921 TechnoPolitics - Cory Doctorow
