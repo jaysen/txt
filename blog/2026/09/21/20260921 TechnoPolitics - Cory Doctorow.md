@@ -1,3 +1,7 @@
+---
+bookmark: https://locusmag.com/feature/commentary-cory-doctorow-technopolitics/
+Created: "20260921"
+---
 #info-politics #ai #compsci #CoryDoctorow #article #political 
 
 ![](./18378321848729087020.jpg)
@@ -6,7 +10,7 @@ https://locusmag.com/feature/commentary-cory-doctorow-technopolitics/
 
 Cory Doctorow's Locus commentary "Technopolitics" argues that opposition to AI should focus on the political and economic conditions surrounding it, not the technology itself.  
   
-Key Arguments (mostly an AI generated summary)  
+## Key Arguments (mostly an AI generated summary)  
   
 · Distinguish between two types of "anti-AI": Being against AI-generated slop, disinformation, corporate con jobs, and environmental harm is reasonable. Being against the underlying statistical techniques or language models themselves is "weird."  
   
