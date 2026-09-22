@@ -67,6 +67,8 @@ jobs:
           HUGO_TITLE: "Jaysen Naidoo: PublicTxt instance"
           HUGO_PARAMS_SHORTTITLE: "jaysen - txt"
           HUGO_PARAMS_DESCRIPTION: "A PublicTxt repository — browsable, searchable, plain-text first."
+          HUGO_PARAMS_AUTHOR: "Jaysen Naidoo"
+          HUGO_PARAMS_MASTODON: "https://hachyderm.io/@jaysen"
         run: sh site/scripts/build.sh --source ../txt
 
       - name: Upload artifact
