@@ -6,4 +6,5 @@ tags:
 
 - [Obsidian.md](../Projects/PublicTxt/Obsidian.md)
 - [WikidPad](WikidPad)
-- [Dendron](Dendron)
+- [Dendron](Dendron) and Foam
+

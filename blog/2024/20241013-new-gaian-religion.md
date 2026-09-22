@@ -1,6 +1,6 @@
 ---
 ---
-#ganja  #soc #ideas 
+#ganja  #social #ideas 
 Maybe we need new religions
 Potentially non-theistic 
 Packages values and beliefs, thematic social ideas.  

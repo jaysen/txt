@@ -10,7 +10,7 @@
 	- [Evolution](Science/Evolution.md)
 	- [Physics](Science/Physics.md)
 - [Social & Political](Social/index.md)
-- [Social-Software](Computer-Science/Social-Software.md)
+- [Social-Software](Software/Social-Software.md)
 	- [PublicTxt](Projects/PublicTxt/PublicTxt.md)
 	- [CuratedCommons](Projects/PublicTxt/CuratedCommons.md)
 	- [Social Bookmarking](Knowledge-Management/Social-Bookmarking.md)

@@ -1,5 +1,5 @@
 - [[Obsidian.md]]
 - [[Tools/Hugo]] 
 	- [Pagefind](Tools/Pagefind.md)
-- [ActivityPub](Tools/ActivityPub.md)
+- [ActivityPub](../../Software/ActivityPub.md)
 - Terminus Db

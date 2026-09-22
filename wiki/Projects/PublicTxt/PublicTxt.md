@@ -1,6 +1,10 @@
+---
+bookmark: https://github.com/publictxt/publictext
+---
 see the repo here [https://github.com/publictxt/publictext](https://github.com/publictxt/publictext)
 
-# Project PublicTxt
+# Project PublicTxt 
+- [[Project publictxt]]
 
 ## Overview
 
@@ -23,6 +27,7 @@ The experiment is in early stages. Links to software repositories for tooling th
 	- Core libraries, and feature based services  
 	- Git and Database Infrastructure projects  
 	- Avalonia Desktop & Blazor Web Apps
+- [Obsidian-Search-Facets-Plugin](Obsidian-Search-Facets-Plugin)
 
 ## Core Features
 

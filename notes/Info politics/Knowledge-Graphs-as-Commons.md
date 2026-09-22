@@ -1,6 +1,6 @@
 Repeated in a blog post [20251205-Knowledge-Graphs-as-Commons](../../blog/2025/20251205-Knowledge-Graphs-as-Commons.md)
 
-#writing #publictext #knowledge-graphs #social-software #commons #info-politics
+#writing #publictxt #knowledge-graphs #social-software #commons #info-politics
 
 # Knowledge Graphs as Commons
 
