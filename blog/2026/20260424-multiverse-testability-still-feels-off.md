@@ -22,4 +22,4 @@ But this "near-optimal" test still feels like a bit of a shell game. Just as wit
 - My post on the above - [Natural Selection of Universes (2006)](https://jaysenn.blogspot.com/2006/10/natural-selection-of-universes.html)
 - [New Scientist: Why Quantum Physics Says There’s a Multiverse (April 2026)](https://www.newscientist.com/video/2523898-why-quantum-physics-says-theres-a-multiverse/)
 
-#cosmology #sci 
+#cosmology #sci #multiverse
