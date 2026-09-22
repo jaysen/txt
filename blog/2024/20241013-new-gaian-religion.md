@@ -1,4 +1,5 @@
 ---
+updated: 2024-10-13T01:48:05+02:00
 ---
 #ganja  #social #ideas 
 Maybe we need new religions
@@ -7,6 +8,6 @@ Packages values and beliefs, thematic social ideas.
 We have to evolve, now, again, through this latest upcoming crisis, if we are to avoid cultural evolution's next culling - this one perhaps terminal.
 Any religion that doesn't teach us the love, respect and responsibilities for the complex ecosystem that has birthed us and on which we depend, is no longer fit for purpose 
 
-There's a [[Ministry of the Future]] reference here that should be checked. 
+There's a [Ministry of the Future](../../wiki/Content/Books/Ministry%20of%20the%20Future.md) reference here that should be checked. 
 
 
