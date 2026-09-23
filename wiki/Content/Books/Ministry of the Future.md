@@ -1,7 +1,9 @@
+#book #content #fiction #climate 
+
   ![cover|150](http://books.google.com/books/content?id=KnS0DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 # The Ministry for the Future  
-
-by [[Kim Stanley Robinson]]
+by [Kim Stanley Robinson](Kim%20Stanley%20Robinson)
+https://www.goodreads.com/book/show/50998056-the-ministry-for-the-future
 
 ## Synopsis
 Established in 2025, the purpose of the new organization was simple: To advocate for the world's future generations and to protect all living creatures, present and future. It soon became known as the Ministry for the Future, and this is its story.  
@@ -15,3 +17,5 @@ It is a novel both immediate and impactful, desperate and hopeful in equal measu
 ## quotes
 Time for the long post-colonial subalternity to end
 Enough is a Feast
+
+

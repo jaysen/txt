@@ -3,7 +3,7 @@ bookmark: https://locusmag.com/feature/commentary-cory-doctorow-technopolitics/
 ---
 
 # 20260921 TechnoPolitics - Cory Doctorow
-#info-politics #ai #compsci #CoryDoctorow #article #political 
+#infopolitics #ai #compsci #CoryDoctorow #article #political 
 
 ![](./18378321848729087020.jpg)
 

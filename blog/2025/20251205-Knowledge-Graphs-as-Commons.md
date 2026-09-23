@@ -2,7 +2,7 @@
 ---
 # Knowledge Graphs as Commons
 
-#blog #writing #publictxt #knowledge-graphs #social-software #commons #info-politics
+#blog #writing #publictxt #knowledge-graphs #social-software #commons #infopolitics
 
 ## We under-share
 
