@@ -13,4 +13,4 @@ Its just going to take us some time to realise that all the complaints that we h
 
 Note, that public projects can be run as open foundations, also potentially funded by advertising, and the other models that fuel the platform capitalists - but with full transparency - so that users can choose the platforms that meet their ethical and privacy needs. Federated social software means that users will still be able to connect to each other, regardless of these choices.
 
-#social-software #commons
+#social-software #commons #freeculture #floss #infopolitics #copyleft #compsci #writing
