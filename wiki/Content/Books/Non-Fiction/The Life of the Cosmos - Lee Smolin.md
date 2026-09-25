@@ -24,7 +24,7 @@ dateDone:
 
 # The Life of the Cosmos  
 
-by [Lee Smolin](Lee%20Smolin.md)
+by [Lee Smolin](../../../Science/cosmology/Lee%20Smolin.md)
 
 ## Description: 
 A leading cosmologist at work today offers a new theory of the universe that is at once elegant and comprehensive. 4 linecuts.
