@@ -3,7 +3,7 @@
 #brain #sci #bio 
 
 ## The Attention Schema Theory of Consciousness ...
-- [Attention-Schema-Theory-of-Consciousness](brain/Attention-Schema-Theory-of-Consciousness.md)
+- [Attention-Schema-Theory-of-Consciousness](Attention-Schema-Theory-of-Consciousness.md)
 	- [Michael Graziano](Michael-Graziano.md) [Rethinking Consciousness - Michael S A Graziano](Rethinking-Consciousness-Michael-Graziano.md)
 - [What is Consciousness?](https://www.youtube.com/watch?v=H8twgvcA-Ko)
 - [Why is Consciousness So Baffling?](https://www.youtube.com/watch?v=ILwF2fQa-Yg)

@@ -6,5 +6,5 @@ science things ...
 - [Neuroscience](brain/Neuroscience.md)
 - [Evolution](Evolution.md), [Life](life.md)
 - [Complexity](Complexity.md)
-- [Cosmology](Cosmology.md)
+- [Cosmology](cosmology/)
 - [Physics](Physics.md)

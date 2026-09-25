@@ -6,7 +6,7 @@
 - [Computer Science](Computer-Science/index.md)
 - [Science](Science/index.md)
 	- [Neuroscience](Science/brain/Neuroscience.md)
-	- [Cosmology](Science/Cosmology.md)
+	- [home](Science/cosmology/home.md)
 	- [Evolution](Science/Evolution.md)
 	- [Physics](Science/Physics.md)
 - [Social & Political](Social/index.md)
