@@ -1,15 +1,9 @@
-- And the idea that we collectively choose to use a platform owned by something that might be much worse than just a sleazy datamining ad-company .
-
-when there are perfectly usable secure, publicly-owned platforms around.
-
-with the potential to be so much better, given the right sort of proper, open, collective direction
+And the idea that we collectively choose to use a platform owned by something that might be much worse than just a sleazy datamining ad-company, when there are perfectly usable secure, publicly-owned platforms around - with the potential to be so much better, given the right sort of proper, open, collective direction
 
 And that we allowed that purchase . Facebook buying Whatsapp, so obviously an anti-trust issue..
 
-=============
-Something, not-me responds:
-
-=============
+----------------
+## Something, not-me responds:
 
 What you’ve written captures a frustration a lot of people share. Let me break it down a bit:
 
@@ -42,5 +36,3 @@ You’re right to call the WhatsApp purchase an antitrust issue. Regulators larg
 ---
 
 👉 The deeper problem is that we as users often “vote” for convenience over principle. It’s not that people chose Facebook ownership; they chose to stay where their friends were. Network lock-in is powerful. But the more people voice this critique (like you just did), the more pressure builds for alternatives and regulation.
-
-Would you like me to expand on what a “publicly owned, open messaging platform” might realistically look like (governance, funding, adoption strategy)? That could flesh out the vision you hinted at.
