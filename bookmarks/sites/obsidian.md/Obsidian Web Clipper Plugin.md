@@ -9,6 +9,8 @@ tags:
   - clippings
   - "#obsidian"
   - "#plugin"
+  - pkm
+rating: "4"
 ---
 ## Easily capture pages and metadata to durable files you can read offline.
 
