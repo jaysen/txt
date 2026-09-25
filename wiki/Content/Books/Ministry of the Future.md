@@ -15,7 +15,7 @@ It is a novel both immediate and impactful, desperate and hopeful in equal measu
 
 
 ## quotes
-Time for the long post-colonial subalternity to end
-Enough is a Feast
+- Time for the long post-colonial subalternity to end
+- Enough is a Feast
 
 
