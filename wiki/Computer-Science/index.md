@@ -7,5 +7,5 @@
 - [Projects](../Projects/Projects.md)
 	- [PublicTxt](../Projects/PublicTxt/PublicTxt.md)
 	- [WikiTools](../Projects/PublicTxt/WikiTools.md)
-	- [PublicTxt-Hugo](../Projects/PublicTxt/PublicTxt-Hugo.md)
+	- [PublicTxt-Pages](../Projects/PublicTxt/PublicTxt-Pages.md)
 	- [Obsidian Search Facets Plugin](Obsidian-Search-Facets-Plugin.md)
