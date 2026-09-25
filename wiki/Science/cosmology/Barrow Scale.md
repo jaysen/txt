@@ -1,6 +1,6 @@
 ---
 tags:
-  - "#cosmology"
+  - cosmology
   - sci
 ---
 The [Barrow scale](https://www.britannica.com/science/Barrow-scale) classifies technological civilizations by their ability to manipulate matter at increasingly smaller, microdimensional scales rather than capturing large-scale energy. 

@@ -9,5 +9,5 @@ Works directly against a standard Obsidian-style Markdown vault
 - relative links, 
 - inline `#hashtags`, 
 - folder-derived types 
-- with minimal reliance on PublicTxt-specific syntax transforms.
+- with minimal reliance on [PublicTxt](PublicTxt.md)-specific syntax transforms.
 
