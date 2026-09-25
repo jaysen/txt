@@ -1,4 +1,4 @@
-- [[Obsidian.md]]
+- [[Tools/Obsidian/Obsidian.md]]
 - [[Tools/Hugo]] 
 	- [Pagefind](Tools/Pagefind.md)
 - [ActivityPub](../../Software/ActivityPub.md)

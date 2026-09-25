@@ -1,0 +1,20 @@
+{
+  "folder": "wiki/Content/Books",
+  "fileNameFormat": "",
+  "frontmatter": "",
+  "content": "",
+  "useDefaultFrontmatter": true,
+  "defaultFrontmatterKeyType": "Camel Case",
+  "templateFile": "wiki/Projects/PublicTxt/Tools/Obsidian/Templates/book-search.tpl",
+  "serviceProvider": "google",
+  "naverClientId": "",
+  "naverClientSecret": "",
+  "localePreference": "default",
+  "apiKey": "AIzaSyAyAnu4VVE30sGEXbhvSKIaUpHfs4c9yrw",
+  "openPageOnCompletion": true,
+  "showCoverImageInSearch": false,
+  "enableCoverImageSave": false,
+  "enableCoverImageEdgeCurl": true,
+  "coverImagePath": "",
+  "askForLocale": true
+}

@@ -2,7 +2,7 @@ Contract work and public software
 
 ## Under development
 - [PublicTxt](wiki/Projects/PublicTxt/PublicTxt.md)
-	- [Obsidian PublicTxt Plugin](PublicTxt/Obsidian%20Search%20Facets%20Plugin.md)
+	- [Obsidian PublicTxt Plugin](PublicTxt/Tools/Obsidian/Obsidian%20Search%20Facets%20Plugin.md)
 	- [publictext.net](../../bookmarks/sites/publictext.net/publictext.net.md)
 - [CuratedCommons](PublicTxt/CuratedCommons.md)
 - [WikiTool](https://github.com/jaysen/WikiTool) 

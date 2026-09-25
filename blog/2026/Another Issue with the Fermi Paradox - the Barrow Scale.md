@@ -1,17 +1,13 @@
 ---
-created: "20260925"
+created: "2026-09-25"
 tags:
   - cosmology
   - sci
   - freeculture
----
----
 bookmark: https://www.youtube.com/watch?v=QW_jlUn4gA8
-tags:
-  - cosmology
-  - fermi
-  - future
+rating: 4
 ---
+
 The Fermi Paradox assumes that if advanced civilizations existed, we would see them. This assumes a particular model of progress: that civilizations consume ever more energy and expand ever further into space. The Kardashev Scale formalizes this view, categorizing civilizations by energy use at planetary, stellar, and galactic scales. Under this framework, advanced civilizations should be visible. Their absence is what makes the paradox puzzling.
 
 But advanced civilizations might not expand outward at all. They might advance inward, into the very small. Rather than building larger structures, they could pursue mastery over increasingly microscopic scales—molecules, atoms, subatomic particles, and eventually the quantum vacuum. Such a civilization would need precision, not scale.

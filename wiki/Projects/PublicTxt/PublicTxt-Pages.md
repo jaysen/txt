@@ -1,7 +1,7 @@
 ---
 bookmark: https://github.com/publictxt/publictxt-pages
 ---
-#publictxt #compsci #dev 
+#publictxt #compsci #dev #project 
 
 **Static-site generator with dynamic client-side layer - Python preprocessing, Hugo build, Pagefind search & JS faceted browse for PublicTxt/Obsidian repos.**
 
