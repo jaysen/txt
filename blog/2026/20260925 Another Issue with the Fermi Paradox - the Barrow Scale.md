@@ -7,7 +7,6 @@ tags:
 bookmark: https://www.youtube.com/watch?v=QW_jlUn4gA8
 rating: 4
 ---
-
 The Fermi Paradox assumes that if advanced civilizations existed, we would see them. This assumes a particular model of progress: that civilizations consume ever more energy and expand ever further into space. The Kardashev Scale formalizes this view, categorizing civilizations by energy use at planetary, stellar, and galactic scales. Under this framework, advanced civilizations should be visible. Their absence is what makes the paradox puzzling.
 
 But advanced civilizations might not expand outward at all. They might advance inward, into the very small. Rather than building larger structures, they could pursue mastery over increasingly microscopic scales—molecules, atoms, subatomic particles, and eventually the quantum vacuum. Such a civilization would need precision, not scale.
@@ -18,7 +17,7 @@ If this trend holds, technological maturity may lead not to galactic empires but
 
 This is another reason the [Fermi Paradox](../../wiki/Science/cosmology/Fermi%20Paradox.md) may not be a paradox at all. We search for macro-scale signals because that reflects our own trajectory. The absence of evidence may reflect the limits of our search parameters, not the absence of other civilizations.
 
-![Kurzgesagt - The Barrow Scale](https://www.youtube.com/watch?v=QW_jlUn4gA8https://www.youtube.com/watch?v=QW_jlUn4gA8)
+![Kurzgesagt - The Barrow Scale](https://www.youtube.com/watch?v=QW_jlUn4gA8)
 
 ---
-see also [[Why the Fermi Paradox Isnt]]
+see also [Why the Fermi Paradox isnt](Why%20the%20Fermi%20Paradox%20isnt)
