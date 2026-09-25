@@ -1,3 +1,13 @@
+---
+rating: "4"
+bookmark: https://spectrum.ieee.org/doctorow-interoperability
+tags:
+  - "#social-software"
+  - "#infopolitics"
+  - "#compsci"
+  - "#CoryDoctorow"
+---
+# Solving social with forced interoperability - Cory Doctorow
 The social networks we use are spaces where our interactions and their reach are very prone to manipulation. It's easy enough to rig a public feed to dampen certain messages and amplify others for profit or politics - and we would not be able to tell. 
 
 The damping of a message wouldn't have to be applied for those in the 'bubble' that already agree with it .. but is very effective when applied to those outside that bubble.

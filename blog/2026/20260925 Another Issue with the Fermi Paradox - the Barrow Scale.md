@@ -12,7 +12,7 @@ The Fermi Paradox assumes that if advanced civilizations existed, we would see t
 
 But advanced civilizations might not expand outward at all. They might advance inward, into the very small. Rather than building larger structures, they could pursue mastery over increasingly microscopic scales—molecules, atoms, subatomic particles, and eventually the quantum vacuum. Such a civilization would need precision, not scale.
 
-This is the argument made in the following [Kurzgesagt](../../wiki/Science/Kurzgesagt.md) video exploring the [Barrow Scale](#). 
+This is the argument made in the following [Kurzgesagt](../../wiki/Science/Kurzgesagt.md) video exploring the [Barrow Scale](../../wiki/Science/cosmology/Barrow%20Scale.md). 
 ![Kurzgesagt - The Barrow Scale](https://www.youtube.com/watch?v=QW_jlUn4gA8)
 Where Kardashev measures control over large-scale energy, Barrow measures control over small-scale matter. The tiers include control over biology and DNA for bio-engineering, atomic manipulation for nanobots and programmable matter, nuclear control for near-infinite energy, and quantum vacuum control with the speculative possibility of creating new universes. The video notes that human history supports this pattern - our most transformative innovations came from mastering smaller scales, not building larger things.
 

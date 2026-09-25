@@ -1,6 +1,7 @@
 ---
 updated: 2024-10-13T01:48:05+02:00
 ---
+# New Gaian religions 
 #ganja  #social #ideas 
 Maybe we need new religions
 Potentially non-theistic 
