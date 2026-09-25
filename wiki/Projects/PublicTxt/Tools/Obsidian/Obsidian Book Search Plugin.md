@@ -1,5 +1,10 @@
+#obsidian #plugin #pkm #km 
+
+[obsidian-book-search-plugin](https://github.com/anpigon/obsidian-book-search-plugin)
+using the following as book-search-template:
+
+```
 ---
-publish: off
 title: {{title}}
 subtitle: {{subtitle}}
 author: [{{author}}]
@@ -32,6 +37,4 @@ Ended:
 
 
 ## Quotes
-
-
-
+```
