@@ -1,4 +1,5 @@
 ---
+rating: "4"
 ---
 
 ## We can't fix the tools we use until we properly own them - and we can properly own them.

@@ -1,4 +1,5 @@
 ---
+rating: "2"
 ---
 # Gaza, and how the west was won
 

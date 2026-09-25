@@ -1,4 +1,5 @@
 ---
+rating: "4"
 ---
 # Curated Commons: Open Aggregation for the Open Web
 

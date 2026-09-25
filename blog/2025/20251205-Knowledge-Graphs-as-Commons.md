@@ -1,4 +1,5 @@
 ---
+rating: "5"
 ---
 # Knowledge Graphs as Commons
 
