@@ -2,6 +2,7 @@
 category: comp-sci
 rating: "3"
 ---
+# Human-like Motivation in LLMs
 #ai #brain #cs 
 
 - I think I'm adjusting my take on AI requiring emotional systems similar to those in evolved brains to have intrinsic motivation.  

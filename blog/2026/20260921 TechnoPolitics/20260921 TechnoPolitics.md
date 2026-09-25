@@ -6,7 +6,7 @@ rating: "5"
 # 20260921 TechnoPolitics - Cory Doctorow
 #infopolitics #ai #compsci #CoryDoctorow #article #political 
 
-![](./18378321848729087020.jpg)
+![](18378321848729087020.jpg)
 
 https://locusmag.com/feature/commentary-cory-doctorow-technopolitics/
 
