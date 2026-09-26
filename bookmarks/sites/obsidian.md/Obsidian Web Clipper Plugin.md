@@ -1,8 +1,6 @@
 ---
 title: Obsidian Web Clipper
 bookmark: https://obsidian.md/clipper
-author:
-published:
 created: 2026-09-25
 description: Highlight and capture web pages in your favorite browser. Save anything and everything with just one click.
 tags:
