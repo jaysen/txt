@@ -1,3 +1,6 @@
+---
+category: Political
+---
 #book #content #fiction #climate 
 
   ![cover|150](http://books.google.com/books/content?id=KnS0DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)

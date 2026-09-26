@@ -7,7 +7,10 @@ tags:
   - channel
   - sci
   - video
+category: Science
 ---
-[Science](index.md) Youtube Channel  
+
+[Science](index.md) Youtube Channel
+
 web: https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q
-#channel #sci #video
+#channel #sci #video #content

@@ -2,6 +2,7 @@
 tags:
   - knowledge-management
   - social-software
+category: Tech
 ---
 [Folksonomies](Folksonomies) and human computation.
 

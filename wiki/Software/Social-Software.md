@@ -1,3 +1,6 @@
+---
+category: Tech
+---
 # Social Software
 
 ## Federated Social Software - Fediverse

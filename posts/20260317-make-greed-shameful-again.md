@@ -1,3 +1,6 @@
+---
+category: Politics
+---
 # Make greed shameful again
 
 ### 2026-03-17

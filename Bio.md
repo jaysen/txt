@@ -1,3 +1,6 @@
+---
+category: Personal
+---
 Jaysen Naidoo, living in Johannesburg, South Africa. Software developer by trade. Currently taking on contract work while working on a few public software ideas.
 
 Spend time on and thinking about:

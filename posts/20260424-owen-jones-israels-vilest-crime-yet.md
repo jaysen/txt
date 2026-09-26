@@ -1,3 +1,6 @@
+---
+category: Politics
+---
 # Owen Jones on Israel's vilest crime yet
 
 ### 2026-04-24

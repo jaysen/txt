@@ -1,9 +1,15 @@
+---
+category: Tech
+---
+# The WhatsApp Mess
+
 And the idea that we collectively choose to use a platform owned by something that might be much worse than just a sleazy datamining ad-company, when there are perfectly usable secure, publicly-owned platforms around - with the potential to be so much better, given the right sort of proper, open, collective direction
 
 And that we allowed that purchase . Facebook buying Whatsapp, so obviously an anti-trust issue..
 
 ----------------
-## Something, not-me responds:
+
+## Something, not-me responds
 
 What you’ve written captures a frustration a lot of people share. Let me break it down a bit:
 

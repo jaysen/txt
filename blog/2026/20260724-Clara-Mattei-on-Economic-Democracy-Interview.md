@@ -1,4 +1,5 @@
 ---
+category: Politics
 ---
 # Clara Mattei on Economic-Democracy - Interview
 Excellent conversation. AI summary of [this youtube extract](https://www.youtube.com/watch?v=fyb4HsJC4T0) below. Full video at [https://substack.com/@theteanetwork/note/p-204802946](https://substack.com/@theteanetwork/note/p-204802946?utm_id=97758_v0_s00_e0_tv2_a1dennhb6kgix2)

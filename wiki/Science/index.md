@@ -1,5 +1,7 @@
-
-# Science home 
+---
+category: Science
+---
+# Science home
 
 science things ...
 

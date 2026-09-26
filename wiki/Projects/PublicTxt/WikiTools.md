@@ -1,5 +1,6 @@
 ---
 bookmark: https://github.com/jaysen/WikiTool
+category: Project
 ---
 #publictxt #dev #compsci 
 

@@ -1,3 +1,6 @@
+---
+category: Politics
+---
 # Tobacco and vape marketing
 
 ### 2026-04-26

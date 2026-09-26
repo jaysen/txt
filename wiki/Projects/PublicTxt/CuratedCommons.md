@@ -1,5 +1,6 @@
 ---
 bookmark: https://github.com/publictxt/curated-commons
+category: Project
 ---
 _A PublicTxt project post_ - an extension of [PublicTxt](PublicTxt.md) - using human computation to collectively curate the internet and all things.
 #publictxt #km #knowledge-management #social-software #social-bookmarking #metaweb

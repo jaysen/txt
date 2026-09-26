@@ -73,6 +73,7 @@ jobs:
           HUGO_PARAMS_EDITURL: ${{ github.server_url }}/${{ github.repository }}/edit/${{ github.ref_name }}/
           # Footer edit-link label; defaults to "Edit this page" if unset.
           HUGO_PARAMS_FOOTER_EDIT: "Improve this page"
+          HUGO_PARAMS_CATEGORIES_LIST: '["Project", "Personal", "Tech", "Politics", "Science", "CompSci", "Art", "Content"]'
         run: sh site/scripts/build.sh --source ../txt
 
       - name: Upload artifact

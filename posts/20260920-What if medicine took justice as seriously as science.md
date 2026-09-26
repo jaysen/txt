@@ -5,6 +5,7 @@ tags:
   - medicine
   - social
   - political
+category: Politics
 ---
 # What if Medicine took justice as seriously as science? 
 “Over time, trying to answer that question became my life’s work. Now it has a name: Justice-Based Medicine. At its heart is a simple proposition: justice is not an optional extra to good medicine, it is part of the treatment.”

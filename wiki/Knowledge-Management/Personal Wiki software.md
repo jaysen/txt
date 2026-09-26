@@ -1,8 +1,7 @@
 ---
-tags:
-  - knowledge-management
+category: Tech 
 ---
-#software #wiki #pkm #km
+#software #wiki #pkm
 
 - [Obsidian.md](../Projects/PublicTxt/Tools/Obsidian/Obsidian.md.md)
 - [WikidPad](WikidPad)

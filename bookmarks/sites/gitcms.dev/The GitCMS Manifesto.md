@@ -6,8 +6,9 @@ description: Why your content belongs in Git, not locked behind a database.
 tags:
   - clippings
   - git
-  - "#knowledge-management"
+  - knowledge-management
   - social-software
+category: Tech
 ---
 Below is the [gitcms.dev](gitcms.dev.md) Manifesto:
 

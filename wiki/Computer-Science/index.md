@@ -1,3 +1,6 @@
+---
+category: CompSci
+---
 # Computer Science things
 
 - [Social-Software](../Software/Social-Software.md)

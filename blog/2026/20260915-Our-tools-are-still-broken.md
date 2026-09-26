@@ -1,5 +1,6 @@
 ---
 rating: "4"
+category: Tech
 ---
 # Our tools are still broken - regular reminder
 ## We can't fix the tools we use until we properly own them - and we can properly own them.

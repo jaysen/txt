@@ -7,10 +7,11 @@ created: 2026-09-25
 description: Highlight and capture web pages in your favorite browser. Save anything and everything with just one click.
 tags:
   - clippings
-  - "#obsidian"
-  - "#plugin"
+  - obsidian
+  - plugin
   - pkm
 rating: "4"
+category: Tech
 ---
 ## Easily capture pages and metadata to durable files you can read offline.
 

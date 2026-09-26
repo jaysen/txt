@@ -2,12 +2,16 @@
 rating: "4"
 bookmark: https://spectrum.ieee.org/doctorow-interoperability
 tags:
-  - "#social-software"
-  - "#infopolitics"
-  - "#compsci"
-  - "#CoryDoctorow"
+  - social-software
+  - infopolitics
+  - compsci
+  - CoryDoctorow
+  - copyleft
+  - freeculture
+category: Tech
 ---
 # Solving social with forced interoperability - Cory Doctorow
+
 The social networks we use are spaces where our interactions and their reach are very prone to manipulation. It's easy enough to rig a public feed to dampen certain messages and amplify others for profit or politics - and we would not be able to tell. 
 
 The damping of a message wouldn't have to be applied for those in the 'bubble' that already agree with it .. but is very effective when applied to those outside that bubble.
@@ -17,16 +21,16 @@ So the people that share a certain idea would be mostly talking to themselves. U
 
 This potential subversion of our new public space(s) cannot easily be avoided or even detected while we use platforms whose source code isn't open for inspection.
 
-An idea being called forced interoperability might offer a path to a possible solution. 
-https://spectrum.ieee.org/doctorow-interoperability
+An idea being called forced interoperability might offer a path to a possible solution.
+[spectrum.ieee.org/doctorow-interoperability](https://spectrum.ieee.org/doctorow-interoperability)
 
-Right now there are multiple social networking platforms available that adopt open standards that allow for a federated approach -like Mastodon and the Fediverse- so that different platforms running different software can access the same public space. Most are publicly owned (copyleft) and therefore have public feed algorithms that are open to inspection . 
+Right now there are multiple social networking platforms available that adopt open standards that allow for a federated approach -like Mastodon and the Fediverse- so that different platforms running different software can access the same public space. Most are publicly owned ([copyleft](/wiki/Computer-Science/CopyLeft.md)) and therefore have public feed algorithms that are open to inspection.
 
 All of these function quite well but suffer a seemingly insurmountable downside - public spaces work best when they are ubiquitous, and so there's a very very big disincentive to leave the platforms with the largest populations
 
 Forced interoperability is the idea that we solve this knot of a problem by legislating to force the existing monopolies to adopt those open standards so that open platforms we chose can work seamlessly with the Facebooks, Twitters and Instagrams.
 
-The EU is already doing this for messaging - https://www.theverge.com/2022/3/24/22995431/european-union-digital-markets-act-imessage-whatsapp-interoperable
+The EU is already doing this for messaging - [theverge.com-european-union-digital-markets-act-imessage-whatsapp-interoperable](https://www.theverge.com/2022/3/24/22995431/european-union-digital-markets-act-imessage-whatsapp-interoperable)
 
 China seems to have implemented some of it in their networks.
 
@@ -38,5 +42,3 @@ This won't immediately solve that public feed manipulation problem. If everyone 
 
 But if the idea of freedom from that manipulation grows... without any downsides..
 We could see populations voting with their feet on the type of public space they want
-
-#copyleft #freeculture #infopolitics #political #social #social-software 

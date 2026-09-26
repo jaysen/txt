@@ -6,6 +6,7 @@ tags:
   - git
   - sw
   - paid
+category: Tech
 ---
 - [[PublicTxt]] like offering - without the collaboration.
 - Also very AI and Agent happy

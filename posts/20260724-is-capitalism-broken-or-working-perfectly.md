@@ -1,4 +1,6 @@
-
+---
+category: Politics
+---
 # Is Capitalism Broken, or Working Perfectly
 
 ### 2026-07-24

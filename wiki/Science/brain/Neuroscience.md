@@ -1,3 +1,5 @@
-[Wiki home](../index.md) -> [Science home](index.md) 
+---
+category: Science
+---
 
 [Consciousness](Consciousness.md)

@@ -1,5 +1,6 @@
 ---
-r: "2"
+rating: "2"
+category: Science
 ---
 # The “Near-Optimal” Trap: Why Multiverse Testability Still Feels Like a Shell Game
 

@@ -1,3 +1,6 @@
+---
+category: Personal
+---
 # come on.. let's be alive for a little bit.. If we hate it we can always die later
 
 ### 2026-04-26

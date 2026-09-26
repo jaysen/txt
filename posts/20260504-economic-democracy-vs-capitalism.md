@@ -1,4 +1,6 @@
-
+---
+category: Politics
+---
 # Economic democracy vs Capitalism
 
 ### 2026-05-04

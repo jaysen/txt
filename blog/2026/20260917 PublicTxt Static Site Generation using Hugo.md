@@ -1,5 +1,11 @@
+---
+rating: 5
+category: Project
+---
+
 # PublicTxt Static Site Generation using Hugo
-#dev #publictxt #project 
+
+#dev #publictxt #project
 
 Static site generation for [PublicTxt](../../wiki/Projects/PublicTxt/PublicTxt.md) using [Hugo](../../wiki/Projects/PublicTxt/Tools/Hugo.md)
 

@@ -1,5 +1,6 @@
 ---
 rating: "4"
+category: Project
 ---
 # Curated Commons: Open Aggregation for the Open Web
 

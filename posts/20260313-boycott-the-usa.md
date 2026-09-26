@@ -1,3 +1,6 @@
+---
+category: Politics
+---
 # Boycott the USA
 
 ### 2026-03-13

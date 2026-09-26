@@ -1,5 +1,9 @@
+---
+category: Project
+---
+
 - [[Tools/Obsidian/Obsidian.md]]
-- [[Tools/Hugo]] 
-	- [Pagefind](Tools/Pagefind.md)
+- [[Tools/Hugo]]
+  - [Pagefind](Tools/Pagefind.md)
 - [ActivityPub](../../Software/ActivityPub.md)
 - Terminus Db

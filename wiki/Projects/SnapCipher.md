@@ -1,8 +1,14 @@
+---
+category: Project
+---
+
 # SnapCipher (Concept Phase)
 
 see the placeholder git repo here: https://github.com/jaysen/SnapCipher
 
-**SnapCipher** is a tool for encoding and decoding secret messages using photos of abstract or scrambled images—no access to the original file required. Designed for physical and digital use, it enables secure, offline visual communication with just a smartphone and a key.
+**SnapCipher** is planned as a tool for encoding and decoding secret messages using photos of abstract or scrambled images—no access to the original file required. Designed for physical and digital use, it enables secure, offline visual communication with just a smartphone and a key.
+
+#idea #dev #project #compsci
 
 ---
 
