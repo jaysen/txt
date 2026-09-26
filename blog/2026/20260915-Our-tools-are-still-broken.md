@@ -1,9 +1,10 @@
 ---
 rating: "4"
-category: Tech
+category: [Tech, Politics]
 ---
 # Our tools are still broken - regular reminder
-## We can't fix the tools we use until we properly own them - and we can properly own them.
+
+## We can't fix the tools we use until we properly own them - and we can properly own them
 
 **Regular Reminder - Our tools Are Broken:** social networking tools and other information infrastructure that are not publicly owned (and by that I mean licensed under the General Public License or Copylefted -see [http://en.wikipedia.org/wiki/Copyleft](https://en.wikipedia.org/wiki/Copyleft?fbclid=IwcGRvZgVleHRuA2FlbQIxMABicmlkETFRZ2JRT2hSVVBxeEF2d3g0c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHh3RHUlKYaKb3N7gezKH4_QrFMWBxErOT7JJ8h1ovls8lexxzUFRJM4Hlhhk_aem_OYS__w2ena817xp2DbpoKg)) are almost by definition fundamentally broken. Because anything less than public ownership severely limits the extent to which we can use, fix, experiment, and grow these into useful universal assets .. This is especially true in the long term.
 

@@ -1,5 +1,5 @@
 ---
-category: Tech
+category: [Tech, Politics]
 ---
 # The WhatsApp Mess
 
