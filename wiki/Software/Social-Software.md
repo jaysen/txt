@@ -1,5 +1,5 @@
 ---
-category: Tech
+category: [Tech, CompSci]
 ---
 # Social Software
 

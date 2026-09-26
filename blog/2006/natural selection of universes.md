@@ -5,7 +5,7 @@ tags:
   - sci
   - writing
   - evolution
-category: sci
+category: Science
 rating: "4"
 ---
 Why is the universe the way it is - why are the fundamental properties of elementary particles and forces just such that complexity can arise? Shift the values of these fundamental properties around just a bit and things don't work out so well.. a universe with even slightly varying properties either doesn't survive very long or ends up very empty with no ability for complexity of any sort to arise.  

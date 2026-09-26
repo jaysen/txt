@@ -1,5 +1,5 @@
 ---
-category: Project
+category: [Project, Tech]
 ---
 
 - [[Tools/Obsidian/Obsidian.md]]

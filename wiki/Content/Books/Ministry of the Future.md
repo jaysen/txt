@@ -1,5 +1,5 @@
 ---
-category: Political
+category: Politics
 ---
 #book #content #fiction #climate 
 

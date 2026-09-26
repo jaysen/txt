@@ -4,7 +4,7 @@ tags:
   - wiki
   - blog
   - pkm
-category: Tech
+category: [Tech, CompSci]
 ---
 - A blog and wiki hybrid
   - see [https://martinfowler.com/bliki/WhatIsaBliki.html](https://martinfowler.com/bliki/WhatIsaBliki.html)

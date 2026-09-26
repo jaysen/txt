@@ -1,5 +1,5 @@
 ---
-category: Tech 
+category: [Tech, CompSci]
 ---
 #software #wiki #pkm
 

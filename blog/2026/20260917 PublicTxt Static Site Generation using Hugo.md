@@ -1,6 +1,6 @@
 ---
 rating: 5
-category: Project
+category: [Project, Tech]
 ---
 
 # PublicTxt Static Site Generation using Hugo
