@@ -2,7 +2,7 @@
 title: The Real Don Quixote
 bookmark: https://www.radiolab.org/podcast/real-don-quixote
 author:
-created: 2026-09-28
+created: 2015-02-24
 description: Everybody’s heard of the book Don Quixote, but we had no idea how totally insane—and how stirringly modern—Miguel Cervante’s masterpiece really was.
 tags:
   - clippings

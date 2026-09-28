@@ -2,7 +2,7 @@
 title: Your Friendly Neighborhood Hookworms
 bookmark: https://www.radiolab.org/podcast/your-friendly-neighborhood-hookworms
 author:
-created: 2026-09-28
+created: 2026-05-15
 description: A whole other can of worms.
 tags:
   - clippings
@@ -20,7 +20,7 @@ But is it possible to have *too few* worms? Science wonders if deworming oursel
 
 ----
 ## my notes
-Revisiting two of the stories from one of my favourite episodes of theirs: [Parasites - Radiolab](Parasites%20-%20Radiolab.md)
+Revisiting two of the stories from one of my favourite episodes of theirs: [Radiolab 20090907 - Parasites](Radiolab%2020090907%20-%20Parasites.md)
 
 
 ## summary (llm)

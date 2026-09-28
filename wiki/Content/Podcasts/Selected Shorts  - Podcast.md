@@ -1,5 +1,4 @@
 ---
-title: Selected Shorts | Episodes, Schedule, Tour
 bookmark: https://symphonyspace.org/selected-shorts
 author:
 created: 2026-09-28

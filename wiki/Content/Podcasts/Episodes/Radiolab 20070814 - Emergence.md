@@ -2,7 +2,7 @@
 title: Emergence
 bookmark: https://www.radiolab.org/podcast/91500-emergence
 author:
-created: 2026-09-28
+created: 2007-08-14
 description: What happens when there is no leader? We look at the bottom-up logic of cities, Google, and even our brains.
 tags:
   - clippings
@@ -25,5 +25,5 @@ We gaze down at the bottom-up logic of cities, Google, and even our very own bra
 
 
 ----
-on of :: [Radiolab Podcasts](Radiolab%20Podcasts.md) 
+one of :: [Radiolab Podcasts](Radiolab%20Podcasts.md) 
 - Rebroadcasted : https://www.radiolab.org/podcast/276577-rebroadcast-emergence
