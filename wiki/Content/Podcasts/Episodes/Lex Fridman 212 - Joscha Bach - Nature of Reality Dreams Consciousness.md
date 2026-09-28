@@ -11,7 +11,7 @@ tags:
   - long-form
 ---
 
-[Lex Fridman Podcast](wiki/Content/Podcasts/Lex%20Fridman%20Podcast.md) Interview with [Joscha Bach](Joscha%20Bach)
+[Lex Fridman Podcast](wiki/Content/Podcasts/Lex%20Fridman%20Podcast.md) Interview with [Joscha Bach](../../Joscha%20Bach.md)
 
 ## Log
 Listened first on 2021/08/22

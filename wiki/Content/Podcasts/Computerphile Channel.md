@@ -12,6 +12,6 @@ category:
   - CompSci
   - Content
 ---
-Videos all about computers and computer stuff. Sister channel of [Numberphile channel](Numberphile%20channel).
+Videos all about computers and computer stuff. Sister channel of [Numberphile Channel](Numberphile%20Channel).
 
 

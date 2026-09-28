@@ -2,7 +2,6 @@
 category: Personal
 tags:
   - journal
-publish: off
 ---
-## {{date:dddd, Do MMMM, YYYY}}
+# {{date:YYYY/MM/DD}} - {{date:dddd}}
 - 
