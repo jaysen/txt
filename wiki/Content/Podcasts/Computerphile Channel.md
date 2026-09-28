@@ -4,9 +4,9 @@ tags:
   - video
   - channel
   - content
-  - cs
   - youtube
   - podcast
+  - compsci
 rating: 5
 category:
   - CompSci

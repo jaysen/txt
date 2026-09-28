@@ -17,8 +17,8 @@ tags:
 - [Big Picture Science - Podcast](Big%20Picture%20Science%20-%20Podcast.md)
 - [Quirks & Quarks - Podcast](Quirks%20&%20Quarks%20-%20Podcast.md)
 - Neuroscience
-	- [Brain-Inspired -Podcast](Brain-Inspired%20-Podcast.md)
-	- [Brain Science - Podcast](Brain%20Science%20-%20Podcast.md)
+	- [Brain-Inspired Podcast](Brain-Inspired%20Podcast.md)
+	- [Brain Science Podcast](Brain%20Science%20Podcast.md)
 ---
 ### CompSci Podcasts
 - [Software Engineering Radio – The Podcast for Professional Software Developers](Software%20Engineering%20Radio%20–%20The%20Podcast%20for%20Professional%20Software%20Developers.md)

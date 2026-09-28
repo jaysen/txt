@@ -1,6 +1,10 @@
 ---
 rating: "4"
-category: [Tech, Politics]
+category:
+  - Tech
+  - Politics
+collections:
+  - posts
 ---
 # Our tools are still broken - regular reminder
 

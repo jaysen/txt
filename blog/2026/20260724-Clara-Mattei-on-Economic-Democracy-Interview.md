@@ -1,5 +1,17 @@
 ---
 category: Politics
+facebook:
+  - https://www.facebook.com/jaysenn/posts/pfbid0PHSDn7sysEx1xGXaTtK2kRgRPFmTT3qTUX64G67dqc3w5PoDayn1wtRfqP9s8RtUl
+collections:
+  - posts
+tags:
+  - anti-capitalism
+  - political
+  - economics
+  - long-form
+  - interview
+  - rated
+rating: "4"
 ---
 # Clara Mattei on Economic-Democracy - Interview
 Excellent conversation. AI summary of [this youtube extract](https://www.youtube.com/watch?v=fyb4HsJC4T0) below. Full video at [https://substack.com/@theteanetwork/note/p-204802946](https://substack.com/@theteanetwork/note/p-204802946?utm_id=97758_v0_s00_e0_tv2_a1dennhb6kgix2)

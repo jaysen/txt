@@ -3,9 +3,14 @@ bookmark: https://locusmag.com/feature/commentary-cory-doctorow-technopolitics/
 rating: "4"
 category: Politics
 facebook: https://www.facebook.com/jaysenn/posts/pfbid02YfZEJ3imchXJjjqkuiQdQAp8VRwnX5k1jLcsrvK1bnt4JCMUjq7UT5mMvH7Anhoel
+tags:
+  - political
+  - infopolitics
+  - tech
+  - ai
+  - compsci
 ---
 # TechnoPolitics - Cory Doctorow
-#infopolitics #ai #compsci #CoryDoctorow #article #political 
 
 ![](18378321848729087020.jpg)
 

@@ -2,15 +2,28 @@
 category: Politics
 tags:
   - economic-democracy
+  - anti-capitalism
+  - economics
+  - political
+  - youtube
+  - content
+  - podcast
 mastodon: https://hachyderm.io/@jaysen/116510047170845925
+created: 2026-05-04
+bookmark: https://youtu.be/n6HFghr9DGQ?si=HwkzK2VMbOim-tJ8
+channel: "[Novara Media Channel](../wiki/Content/Podcasts/Novara%20Media%20Channel.md)"
 ---
 # Economic democracy vs Capitalism
 
-### 2026-05-04
+![](https://youtu.be/n6HFghr9DGQ?si=HwkzK2VMbOim-tJ8)
 
-(YouTube warning)
+Economic democracy vs Capitalism  
+(YouTube warning)  
+[https://youtu.be/n6HFghr9DGQ?si=HwkzK2VMbOim-tJ8](https://youtu.be/n6HFghr9DGQ?si=HwkzK2VMbOim-tJ8 "https://youtu.be/n6HFghr9DGQ?si=HwkzK2VMbOim-tJ8")  
 
-[https://youtu.be/n6HFghr9DGQ?si=HwkzK2VMbOim-tJ8](https://youtu.be/n6HFghr9DGQ?si=HwkzK2VMbOim-tJ8 "https://youtu.be/n6HFghr9DGQ?si=HwkzK2VMbOim-tJ8")
 
-[Mastodon](https://hachyderm.io/@jaysen/116510047170845925)
+---
+## notes
+[Clara-Mattei](../wiki/Social/Clara-Mattei.md) of the [Forum for Economic Emancipation](../wiki/Social/Forum%20for%20Economic%20Emancipation.md) 
+
 
