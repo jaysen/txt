@@ -2,6 +2,7 @@
 category: Politics
 tags:
   - economic-democracy
+mastodon: https://hachyderm.io/@jaysen/116510047170845925
 ---
 # Economic democracy vs Capitalism
 

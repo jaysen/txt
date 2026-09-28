@@ -9,6 +9,7 @@ created: 2024-08-16
 collections:
   - notes
   - blog
+facebook: https://www.facebook.com/jaysenn/posts/pfbid02oxfppKS4m5jemwvvAtMLCsZA4Be8bMtRzQd6t8ZjX1PRtiwcoR9iZvCrS8ZY54TCl
 ---
 # The WhatsApp Mess
 

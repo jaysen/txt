@@ -3,6 +3,11 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "collections": "multitext"
+    "collections": "multitext",
+    "facebook": "multitext",
+    "twitter": "multitext",
+    "mastodon": "multitext",
+    "category": "multitext",
+    "substack": "multitext"
   }
 }

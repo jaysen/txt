@@ -8,6 +8,7 @@ collections:
   - blog
   - posts
 created: 2021-02-05
+facebook: https://www.facebook.com/jaysenn/posts/10158564164746487
 ---
  If you allow yourself to get taxed appropriately, and limit inheritance to the extent that will allow everyone decent housing, food, education and intellectual nourishment - all kids will inherent a healthy world with no need for fear and separation.
  
