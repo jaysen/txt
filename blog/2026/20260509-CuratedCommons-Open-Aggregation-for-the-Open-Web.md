@@ -1,6 +1,14 @@
 ---
 rating: "4"
 category: Project
+types:
+  - notes
+tags:
+  - project
+  - publictxt
+  - social-software
+  - social-bookmarking
+  - infopolitics
 ---
 # Curated Commons: Open Aggregation for the Open Web
 

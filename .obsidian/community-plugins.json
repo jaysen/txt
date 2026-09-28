@@ -7,10 +7,11 @@
   "obsidian-minimal-settings",
   "obsidian-style-settings",
   "tag-wrangler",
-  "templater-obsidian",
   "obsidian-outliner",
   "wikilinks-to-mdlinks-obsidian",
   "multi-tag",
   "tag-page-md",
-  "obsidian-book-search-plugin"
+  "obsidian-book-search-plugin",
+  "templater-obsidian",
+  "dataview"
 ]

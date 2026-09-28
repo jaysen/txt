@@ -11,7 +11,7 @@ tags:
 
 ### Long-Form General
 - [Lex Fridman Podcast](Lex%20Fridman%20Podcast.md)
-
+---
 ### Science Podcasts
 - [Radiolab Podcasts](Radiolab%20Podcasts.md)
 - [Big Picture Science - Podcast](Big%20Picture%20Science%20-%20Podcast.md)
@@ -19,15 +19,15 @@ tags:
 - Neuroscience
 	- [Brain-Inspired -Podcast](Brain-Inspired%20-Podcast.md)
 	- [Brain Science - Podcast](Brain%20Science%20-%20Podcast.md)
-
+---
 ### CompSci Podcasts
 - [Software Engineering Radio – The Podcast for Professional Software Developers](Software%20Engineering%20Radio%20–%20The%20Podcast%20for%20Professional%20Software%20Developers.md)
 - [Computerphile Channel](Computerphile%20Channel.md)
-
+---
 ### Fiction 
 - [Selected Shorts  - Podcast](Selected%20Shorts%20%20-%20Podcast.md)
 
-
+---
 ## Some Noteworthy Podcast Episodes
 - [Lex Fridman 101 - Joscha Bach - Artificial Consciousness and the Nature of Reality](Episodes/Lex%20Fridman%20101%20-%20Joscha%20Bach%20-%20Artificial%20Consciousness%20and%20the%20Nature%20of%20Reality.md)
 - [Lex Fridman 212 - Joscha Bach - Nature of Reality Dreams Consciousness](Episodes/Lex%20Fridman%20212%20-%20Joscha%20Bach%20-%20Nature%20of%20Reality%20Dreams%20Consciousness.md)

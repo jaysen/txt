@@ -6,7 +6,7 @@ Excellent conversation. AI summary of [this youtube extract](https://www.youtube
 
 In this conversation, economist [Clara Mattei](../../wiki/Social/Clara-Mattei.md) argues that the systemic issues attributed to capitalism—such as extreme inequality, austerity, and ecological crisis—are not failures or "bugs" in the system, but rather its intended design.
 
-[Does Capitalism Need You Poor? - Clara Mattei](https://www.youtube.com/watch?v=fyb4HsJC4T0)
+![Does Capitalism Need You Poor? - Clara Mattei](https://www.youtube.com/watch?v=fyb4HsJC4T0)
 
 ## Key themes from the discussion include:
 

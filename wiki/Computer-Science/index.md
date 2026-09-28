@@ -3,7 +3,7 @@ category: CompSci
 ---
 # Computer Science things
 
-- [Social-Software](../Software/Social-Software.md)
+- [index](../Software/Social%20Software/index.md)
 - [Free-Software](Free-Software.md)
 	- [CopyLeft](CopyLeft.md)
 

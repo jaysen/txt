@@ -1,5 +1,5 @@
 ---
-title: "mtdvio/every-programmer-should-know: A collection of (mostly) technical things every software developer should know about"
+title: "every-programmer-should-know: A collection of (mostly) technical things every software developer should know about"
 bookmark: https://github.com/mtdvio/every-programmer-should-know
 author:
 created: 2026-09-28
@@ -9,8 +9,12 @@ tags:
   - dev
   - compsci
   - list
-category: CompSci
+  - learning
+category:
+  - CompSci
+  - Content
 ---
+# A collection of (mostly) technical things every software developer should know about
 ## Every Programmer Should Know 🤔
 
 A collection of (mostly) technical things every software developer should know.

@@ -4,11 +4,11 @@ subtitle:
 author:
   - Lee Smolin
 tags:
-  - books
   - content
   - cosmology
   - non-fiction
   - sci
+  - book
 genre: []
 isbn: 0195126645 9780195126648
 coverUrl: http://books.google.com/books/content?id=hV_nCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
