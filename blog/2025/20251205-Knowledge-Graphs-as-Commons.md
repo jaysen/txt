@@ -3,7 +3,7 @@ rating: "5"
 category:
   - Tech
   - CompSci
-types: notes
+collections: notes
 ---
 # Knowledge Graphs as Commons
 

@@ -1,5 +1,7 @@
 ---
 category: Politics
+tags:
+  - economic-democracy
 ---
 # Economic democracy vs Capitalism
 
