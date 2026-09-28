@@ -12,5 +12,5 @@ Spend time on and thinking about:
 - chess
 
 See also:
-- [Online-things](Online-things.md)
 - [Projects](wiki/Projects/Projects.md)
+- [Online-things](Online-things.md)

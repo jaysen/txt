@@ -44,7 +44,7 @@ Dmitry's Twitter: https://twitter.com/dmkorkin
 
 
 ## notes 
-- [[2-Areas/sci/Proteins]] have modular components
+- [Proteins](Proteins) have modular components
 - protein domain
 
 #sci #bio #content #evolution 

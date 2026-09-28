@@ -10,15 +10,18 @@ tags:
   - ai
   - long-form
 ---
-
 [Lex Fridman Podcast](wiki/Content/Podcasts/Lex%20Fridman%20Podcast.md) Interview with [Joscha Bach](../../Joscha%20Bach.md)
 
+![](https://www.youtube.com/watch?v=rIpUf-Vy2JA)
 ## Log
 Listened first on 2021/08/22
 
 ## Notes
 - We are software running on a ape's brain
 - [Consciousness](wiki/Science/brain/Consciousness.md) control system for attention.
+
+I like this guy. 
+Later in the interview he argues against lex's capitalist bias nicely ??
 
 ## Summary (ai)
 This conversation features *Joscha Bach*, a cognitive scientist and AI researcher, discussing the nature of consciousness, reality, and artificial intelligence with *Lex Fridman*.
