@@ -70,9 +70,8 @@ jobs:
           HUGO_PARAMS_AUTHOR: "Jaysen Naidoo"
           HUGO_PARAMS_MASTODON: "https://hachyderm.io/@jaysen"
           # "Edit this page" links: this repo's edit URL on the branch being built.
+          HUGO_PARAMS_FOOTER_TEXT: "[PublicTxt](https://github.com/publictxt/publictext), plain-text knowledge, published with [publictxt-pages](https://github.com/publictxt/publictxt-pages)"
           HUGO_PARAMS_EDITURL: ${{ github.server_url }}/${{ github.repository }}/edit/${{ github.ref_name }}/
-          # Footer edit-link label; defaults to "Edit this page" if unset.
-          HUGO_PARAMS_FOOTER_EDIT: "Improve this page"
           HUGO_PARAMS_CATEGORIES_LIST: '["Project", "Personal", "Tech", "Politics", "Science", "CompSci", "Art", "Content"]'
         run: sh site/scripts/build.sh --source ../txt
 

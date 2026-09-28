@@ -1,4 +1,5 @@
 {
   "folder": "blog/2026",
-  "format": "YYYYMMDD"
+  "format": "YYYYMMDD",
+  "template": "wiki/Projects/PublicTxt/Tools/Obsidian/Templates/daily-blog.tpl.md"
 }

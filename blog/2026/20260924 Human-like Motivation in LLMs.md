@@ -4,7 +4,7 @@ rating: "3"
 ---
 # Human-like Motivation in LLMs
 
-#ai #brain #cs
+#ai #brain #compsci
 
 - I think I'm adjusting my take on AI requiring emotional systems similar to those in evolved brains to have intrinsic motivation.  
 - Sentience mimicking language models, trained on a human corpus, could possibly mimic human motivation found there  
