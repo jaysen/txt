@@ -14,7 +14,7 @@ Spends time on and thinking about:
 - [free-Software](wiki/Computer-Science/Free-Software.md), free-culture and info-politics; 
 - [Social Software](wiki/Software/Social%20Software/Social%20Software.md) and public information infrastructure;
 - the human project and the political
-- armchair [science](wiki/Science/Science.md) - [evolution](wiki/Science/Evolution.md); life; [neuroscience](wiki/Science/brain/brain.md); [cosmology](wiki/Science/cosmology/cosmology.md); [physics](wiki/Science/Physics.md); [complexity](Complexity).
+- armchair [science](wiki/Science/index.md) - [evolution](wiki/Science/Evolution.md); life; [neuroscience](wiki/Science/brain/index.md); [index](wiki/Science/cosmology/index.md); [physics](wiki/Science/Physics.md); [complexity](Complexity).
 - new-work and worker owned co-ops;
 - [Chess](Chess)
 - [Go game](Go%20game)

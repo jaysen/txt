@@ -2,7 +2,6 @@
 category:
   - CompSci
 ---
-
 ## Pages tagged #compsci 
 ```dataview
 LIST FROM #compsci
