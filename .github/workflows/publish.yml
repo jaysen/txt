@@ -72,8 +72,8 @@ jobs:
           # "Edit this page" links: this repo's edit URL on the branch being built.
           HUGO_PARAMS_FOOTER_TEXT: "[PublicTxt](https://github.com/publictxt/publictext), plain-text knowledge, published with [publictxt-pages](https://github.com/publictxt/publictxt-pages)"
           HUGO_PARAMS_EDITURL: ${{ github.server_url }}/${{ github.repository }}/edit/${{ github.ref_name }}/
-          HUGO_PARAMS_CATEGORIES_ENABLED: "false"
-          #HUGO_PARAMS_CATEGORIES_LIST: '["Project", "Personal", "Tech", "Politics", "Science", "CompSci", "Art", "Content"]'
+          HUGO_PARAMS_CATEGORIES_ENABLED: "true"
+          HUGO_PARAMS_CATEGORIES_LIST: '["Project", "Personal", "Tech", "Politics", "Science", "CompSci", "Art", "Content"]'
         run: sh site/scripts/build.sh --source ../txt
 
       - name: Upload artifact
