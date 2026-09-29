@@ -1,3 +1,5 @@
 ---
 category: Science
+tags:
+  - sci
 ---

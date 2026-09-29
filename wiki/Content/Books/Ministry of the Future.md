@@ -1,5 +1,7 @@
 ---
 category: Politics
+tags:
+  - content
 ---
 #book #content #fiction #climate 
 

@@ -4,6 +4,8 @@ category:
   - CompSci
 aliases:
   - Social Networking
+tags:
+  - software
 ---
 # Social Software
 

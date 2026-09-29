@@ -1,5 +1,7 @@
 ---
 category: Tech
+tags:
+  - social-software
 ---
 # human computed social networks
 

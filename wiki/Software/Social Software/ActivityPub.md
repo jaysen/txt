@@ -1,3 +1,5 @@
 ---
 category: Tech
+tags:
+  - software
 ---

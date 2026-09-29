@@ -1,5 +1,7 @@
 ---
 category: Tech
+tags:
+  - compsci
 ---
 #copyleft #floss #compsci 
 

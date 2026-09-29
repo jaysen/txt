@@ -1,5 +1,9 @@
 ---
-category: [Tech, CompSci]
+category:
+  - Tech
+  - CompSci
+tags:
+  - knowledge-management
 ---
 #software #wiki #pkm
 

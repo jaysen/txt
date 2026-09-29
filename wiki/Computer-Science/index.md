@@ -1,5 +1,7 @@
 ---
 category: CompSci
+tags:
+  - compsci
 ---
 # Computer Science things
 

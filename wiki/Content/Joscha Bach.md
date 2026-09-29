@@ -4,6 +4,7 @@ tags:
   - ai
   - brain
   - rated
+  - content
 rating: "4"
 ---
 ## links

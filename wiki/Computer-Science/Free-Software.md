@@ -1,5 +1,7 @@
 ---
 category: Tech
+tags:
+  - compsci
 ---
 #compsci #floss #software 
 
