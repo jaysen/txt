@@ -9,11 +9,11 @@
 # repo and is checked out at build time, so upgrading the site is a one-line
 # ref change below.
 #
-# Edit the env: block in the Build step below for your own site — SITE_TITLE
-# and SITE_DESCRIPTION override hugo.toml's `title` and `params.description`
-# via Hugo's built-in HUGO_-prefixed environment variable config overrides
-# (https://gohugo.io/configuration/introduction/#configure-with-environment-variables),
-# so no fork of hugo.toml is needed per content repo.
+# Site settings (title, description, categories, filter chips, …) live in
+# this repo's settings/site.toml, merged over publictxt-pages' hugo.toml.
+# The Build step's env: keeps only what depends on the deploy — HUGO_-prefixed
+# variables override both files
+# (https://gohugo.io/configuration/introduction/#configure-with-environment-variables).
 
 name: Publish site
 
@@ -64,16 +64,8 @@ jobs:
       - name: Build
         env:
           HUGO_BASEURL: https://jaysen.co.za/
-          HUGO_TITLE: "Jaysen Naidoo: PublicTxt instance"
-          HUGO_PARAMS_SHORTTITLE: "jaysen - txt"
-          HUGO_PARAMS_DESCRIPTION: "A PublicTxt repository — browsable, searchable, plain-text first."
-          HUGO_PARAMS_AUTHOR: "Jaysen Naidoo"
-          HUGO_PARAMS_MASTODON: "https://hachyderm.io/@jaysen"
           # "Edit this page" links: this repo's edit URL on the branch being built.
-          HUGO_PARAMS_FOOTER_TEXT: "[PublicTxt](https://github.com/publictxt/publictext), plain-text knowledge, published with [publictxt-pages](https://github.com/publictxt/publictxt-pages)"
           HUGO_PARAMS_EDITURL: ${{ github.server_url }}/${{ github.repository }}/edit/${{ github.ref_name }}/
-          HUGO_PARAMS_CATEGORIES_ENABLED: "true"
-          HUGO_PARAMS_CATEGORIES_LIST: '["Project", "Personal", "Tech", "Politics", "Science", "CompSci", "Art", "Content"]'
         run: sh site/scripts/build.sh --source ../txt
 
       - name: Upload artifact
