@@ -8,7 +8,12 @@ tags:
   - CoryDoctorow
   - copyleft
   - freeculture
-category: [Tech, Politics]
+category:
+  - Tech
+  - Politics
+collections:
+  - notes
+  - blog
 ---
 # Solving social with forced interoperability - Cory Doctorow
 

@@ -1,6 +1,9 @@
 ---
 rating: "2"
 category: Science
+tags:
+  - cosmology
+  - sci
 ---
 # The “Near-Optimal” Trap: Why Multiverse Testability Still Feels Like a Shell Game
 
