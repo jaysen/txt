@@ -6,7 +6,9 @@ tags:
   - git
   - paid
   - software
-category: Tech
+category:
+  - Tech
+  - CompSci
 ---
 - [[PublicTxt]] like offering - without the collaboration.
 - Also very AI and Agent happy

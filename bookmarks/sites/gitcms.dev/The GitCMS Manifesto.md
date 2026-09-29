@@ -8,7 +8,9 @@ tags:
   - git
   - knowledge-management
   - social-software
-category: Tech
+category:
+  - Tech
+  - CompSci
 ---
 Below is the [gitcms.dev](gitcms.dev.md) Manifesto:
 

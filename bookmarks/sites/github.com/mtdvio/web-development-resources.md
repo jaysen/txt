@@ -10,6 +10,8 @@ tags:
   - dev/web
   - list
   - compsci
+category:
+  - CompSci
 ---
 # web-development-resources: A list of useful resources for Web Developers
 ## Web Development Resources

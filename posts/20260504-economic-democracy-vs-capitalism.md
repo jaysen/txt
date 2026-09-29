@@ -12,6 +12,7 @@ mastodon: https://hachyderm.io/@jaysen/116510047170845925
 created: 2026-05-04
 bookmark: https://youtu.be/n6HFghr9DGQ?si=HwkzK2VMbOim-tJ8
 channel: "[Novara Media Channel](../wiki/Content/Podcasts/Novara%20Media%20Channel.md)"
+rating: "4"
 ---
 # Economic democracy vs Capitalism
 

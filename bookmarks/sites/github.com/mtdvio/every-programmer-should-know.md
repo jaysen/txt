@@ -12,7 +12,6 @@ tags:
   - learning
 category:
   - CompSci
-  - Content
 ---
 # A collection of (mostly) technical things every software developer should know about
 ## Every Programmer Should Know 🤔
