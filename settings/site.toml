@@ -16,7 +16,7 @@ title = "Jaysen Naidoo: PublicTxt instance"
 
   [params.categories]
     enabled = true
-    list = ["Project", "Personal", "Tech", "Politics", "Science", "CompSci", "Art", "Content"]
+    list = ["Project", "Personal", "Tech", "Politics", "Science", "CompSci", "Content", "Other"]
 
   # Filter chips, in this order.
   [[params.chipFacets]]

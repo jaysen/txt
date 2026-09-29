@@ -1,7 +1,10 @@
 ---
 category: Personal
+aliases:
+  - jaysen
+  - Jaysen Naidoo
 ---
-Jaysen Naidoo, living in Johannesburg, South Africa. Software developer by trade. Currently taking on contract work while working on a few public software ideas.
+Jaysen Naidoo, living in [Johannesburg](wiki/Places/Johannesburg.md), South Africa. Software developer by trade. Currently taking on contract work while working on a few public software ideas.
 
 Spend time on and thinking about:
 - free-software, free-culture and info-politics; 

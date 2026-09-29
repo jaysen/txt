@@ -9,4 +9,4 @@ category:
 ---
 [Folksonomies](Folksonomies.md) and human computation.
 
-- [CuratedCommons](../../Projects/PublicTxt/CuratedCommons.md)
+- [CuratedCommons](../../../Projects/PublicTxt/CuratedCommons.md)

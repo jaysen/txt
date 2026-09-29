@@ -5,7 +5,7 @@ tags:
 ---
 #compsci #floss #software 
 
-[CopyLeft](CopyLeft.md)
+[CopyLeft](../Computer-Science/CopyLeft.md)
 [Federated Social Software - Fediverse](Federated%20Social%20Software%20-%20Fediverse)
 
 [20260915-Our-tools-are-still-broken](../../blog/2026/20260915-Our-tools-are-still-broken.md)
