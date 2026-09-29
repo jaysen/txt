@@ -2,6 +2,8 @@
 tags:
   - cosmology
   - sci
+category:
+  - Science
 ---
 The [Barrow scale](https://www.britannica.com/science/Barrow-scale) classifies technological civilizations by their ability to manipulate matter at increasingly smaller, microdimensional scales rather than capturing large-scale energy. 
 
@@ -26,4 +28,5 @@ Proposed in 1998 by English physicist and cosmologist [John D. Barrow](https://w
 ## see also
 - [Kardashev Scale](Kardashev%20Scale.md)
 - [Fermi Paradox](Fermi%20Paradox.md)
+- [Why the Fermi Paradox isnt](../../../posts/2017/Why%20the%20Fermi%20Paradox%20isnt/Why%20the%20Fermi%20Paradox%20isnt.md)
 - [Another Issue with the Fermi Paradox - the Barrow Scale](../../../blog/2026/20260925%20Another%20Issue%20with%20the%20Fermi%20Paradox%20-%20the%20Barrow%20Scale.md)

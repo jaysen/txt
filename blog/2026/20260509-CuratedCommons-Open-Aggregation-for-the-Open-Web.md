@@ -51,7 +51,7 @@ This isn't incidental. It's the whole point. When infrastructure is free and ope
 
 Decentralized curation raises a real question: how do you know whose curation to trust?
 
-[[PublicTxt]]'s community features build reputation from transparent contribution history stored in Git. Every annotation, every edit, every curated collection is versioned and attributable. Reputation emerges from the record of what someone has contributed, not from a score assigned by an algorithm. Communities can weight voices according to their own standards - peer review for research communities, editorial judgment for journalism, consensus mechanisms for open collectives.
+[[../../wiki/Projects/PublicTxt/Project PublicTxt]]'s community features build reputation from transparent contribution history stored in Git. Every annotation, every edit, every curated collection is versioned and attributable. Reputation emerges from the record of what someone has contributed, not from a score assigned by an algorithm. Communities can weight voices according to their own standards - peer review for research communities, editorial judgment for journalism, consensus mechanisms for open collectives.
 
 No central authority decides whose voice matters. The community does.
 

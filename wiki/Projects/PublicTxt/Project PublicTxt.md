@@ -1,11 +1,16 @@
 ---
 bookmark: https://github.com/publictxt/publictext
 category: Project
+tags:
+  - project
+  - dev
+  - publictxt
+  - compsci
+rating: 4
 ---
 see the repo here [https://github.com/publictxt/publictext](https://github.com/publictxt/publictext)
 
 # Project PublicTxt 
-- [[Project publictxt]]
 
 ## Overview
 
@@ -16,15 +21,15 @@ The core idea is simple: Desktop and Web applications that sync between local an
 The experiment is in early stages. Links to software repositories for tooling that works with these plain-text repositories to follow.
 
 ## Linked Repositories
-- [PublicTxt-Pages](PublicTxt-Pages.md) - Static site interface for browsing/searching an public repository (PublicTxt or otherwise).
+- [PublicTxt-Pages](PublicTxt-Pages.md) **Static-site generator with dynamic client-side layer - Python preprocessing, Hugo build, Pagefind search & JS faceted browse for PublicTxt/Obsidian repos.**
 	- Uses Hugo for static site generation
 	- Pagefind for search - Pagefind is a fully static search library that aims to perform well on large sites, while using as little of your users’ bandwidth as possible, and without hosting any infrastructure.
 	- Python for pre-processing
-- [WikiTool](https://github.com/jaysen/WikiTool) In-progress. Multiplatform .NET Tool for handling multiple wikis
+- [WikiTool](https://github.com/jaysen/WikiTool) In-progress. **Multiplatform .NET Tool for handling multiple wikis**
 	- Core Wiki Libraries
 	- Converts between Wiki formats and Wiki-Syntax
 	- Copy between wikis based on search, tag expressions (tag1 + tag2 - tag3), attributes.
-- [PublicTxt.net](https://github.com/publictxt/publictxt.net) An in-progress .NET implementation with:
+- [PublicTxt.net](https://github.com/publictxt/publictxt.net) An **in-progress .NET implementation** with:
 	- Core libraries, and feature based services  
 	- Git and Database Infrastructure projects  
 	- Avalonia Desktop & Blazor Web Apps
@@ -103,4 +108,3 @@ The directory structure for a Public Text repository is as follows:
 ## Contributing
 - See [CONTRIBUTING.md](CONTRIBUTING.md) for information on contributing to this project.
 
-#publictxt #dev #project

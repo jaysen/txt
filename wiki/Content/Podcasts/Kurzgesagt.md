@@ -10,7 +10,7 @@ tags:
 category: Science
 ---
 
-[Science](index.md) Youtube Channel
+[Science](../../../home.md) Youtube Channel
 
 web: https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q
 #channel #sci #video #content

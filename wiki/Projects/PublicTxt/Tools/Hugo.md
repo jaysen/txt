@@ -3,4 +3,4 @@ bookmark: https://gohugo.io/
 ---
 #dev #compsci #publictxt 
 
-used in [PublicTxt](PublicTxt.md). See [PublicTxt-Pages](../PublicTxt-Pages.md)
+used in [Project PublicTxt](../Project%20PublicTxt.md). See [PublicTxt-Pages](../PublicTxt-Pages.md)

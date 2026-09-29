@@ -24,7 +24,7 @@ What you’ve written captures a frustration a lot of people share. Let me break
 
 1. **WhatsApp, Facebook (Meta), and surveillance capitalism**
 
-When [Facebook](../wiki/Software/Social%20Software/Facebook.md) bought [WhatsApp](WhatsApp) in 2014, it raised huge antitrust concerns. WhatsApp’s founders had promised strong privacy and minimal monetization, but once under Facebook ownership, the pressure to exploit user data for profit grew. That’s why your phrase “worse than a sleazy data-mining ad company” hits hard: Facebook/Meta doesn’t just monetize ads, it builds a massive behavioral profiling system that feeds into broader ecosystems of influence and surveillance.
+When [Facebook](../../wiki/Software/Social%20Software/Facebook.md) bought [WhatsApp](WhatsApp) in 2014, it raised huge antitrust concerns. WhatsApp’s founders had promised strong privacy and minimal monetization, but once under Facebook ownership, the pressure to exploit user data for profit grew. That’s why your phrase “worse than a sleazy data-mining ad company” hits hard: Facebook/Meta doesn’t just monetize ads, it builds a massive behavioral profiling system that feeds into broader ecosystems of influence and surveillance.
 
 2. **Encryption vs. platform ownership**
 

@@ -18,13 +18,13 @@ See also:
 
 ## Content
 
-- [Wiki](wiki/index.md) - linked wiki pages
+- [Wiki](wiki/wiki.md) - linked wiki pages
 - [Blog](blog/index.md) - weblogging
 - [Notes](notes/home.md) - nothing yet
-- [Posts](posts/index.md) - Toots, tweets, threads, micro-blogs - all can get duplicated here.
+- [Posts](posts/posts.md) - Toots, tweets, threads, micro-blogs - all can get duplicated here.
 
 -----
 
-More [about PublicTxt](wiki/Projects/PublicTxt/PublicTxt.md), and its [GitHub repo](https://github.com/publictxt/publictext)
+More [about PublicTxt](wiki/Projects/PublicTxt/Project%20PublicTxt.md), and its [GitHub repo](https://github.com/publictxt/publictext)
 See also notes on [bliki](wiki/Knowledge-Management/bliki.md) - blog and wiki hybrids contained in public-text repos.
 

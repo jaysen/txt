@@ -16,5 +16,5 @@ tags:
 
 ## Evolutionary journey to consciousness
 
-- [Kurzgesagt](../Kurzgesagt.md) [The Origin of Consciousness – How Unaware Things Became Aware](https://www.youtube.com/watch?v=H6u0VBqNBQ8)
+- [Kurzgesagt](../../Content/Podcasts/Kurzgesagt.md) [The Origin of Consciousness – How Unaware Things Became Aware](https://www.youtube.com/watch?v=H6u0VBqNBQ8)
   - https://sites.google.com/view/sources-consciousness

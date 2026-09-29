@@ -25,7 +25,7 @@ category: Personal
 
 ## content
 
-- [Podcast listing](wiki/Content/Podcasts/index.md) (incomplete)
+- [Podcast listing](wiki/Content/Podcasts/Podcasts.md) (incomplete)
 
 ## contact
 

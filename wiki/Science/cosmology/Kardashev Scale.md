@@ -1,8 +1,8 @@
 ---
 tags:
   - sci
+  - cosmology
 ---
-#cosmology #sci
 The [Kardashev scale](https://en.wikipedia.org/wiki/Kardashev_scale) is a method for measuring a civilization's technological advancement based on the amount of energy it can harness and use. 
 
 Soviet astronomer Nikolai Kardashev proposed the scale in 1964.
@@ -19,4 +19,3 @@ Soviet astronomer Nikolai Kardashev proposed the scale in 1964.
 ## See also 
 - [Barrow Scale](Barrow%20Scale.md)
 - [Fermi Paradox](Fermi%20Paradox.md)
-- [Another Issue with the Fermi Paradox - the Barrow Scale](../../../blog/2026/20260925%20Another%20Issue%20with%20the%20Fermi%20Paradox%20-%20the%20Barrow%20Scale.md)

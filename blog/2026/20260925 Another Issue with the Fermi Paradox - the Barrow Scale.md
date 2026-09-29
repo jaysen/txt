@@ -14,7 +14,7 @@ The Fermi Paradox assumes that if advanced civilizations existed, we would see t
 
 But advanced civilizations might not expand outward at all. They might advance inward, into the very small. Rather than building larger structures, they could pursue mastery over increasingly microscopic scales—molecules, atoms, subatomic particles, and eventually the quantum vacuum. Such a civilization would need precision, not scale.
 
-This is the argument made in the following [Kurzgesagt](../../wiki/Science/Kurzgesagt.md) video exploring the [Barrow Scale](../../wiki/Science/cosmology/Barrow%20Scale.md). 
+This is the argument made in the following [Kurzgesagt](../../wiki/Content/Podcasts/Kurzgesagt.md) video exploring the [Barrow Scale](../../wiki/Science/cosmology/Barrow%20Scale.md). 
 ![Kurzgesagt - The Barrow Scale](https://www.youtube.com/watch?v=QW_jlUn4gA8)
 Where Kardashev measures control over large-scale energy, Barrow measures control over small-scale matter. The tiers include control over biology and DNA for bio-engineering, atomic manipulation for nanobots and programmable matter, nuclear control for near-infinite energy, and quantum vacuum control with the speculative possibility of creating new universes. The video notes that human history supports this pattern - our most transformative innovations came from mastering smaller scales, not building larger things.
 
@@ -23,4 +23,4 @@ If this trend holds, technological maturity may lead not to galactic empires but
 This is another reason the [Fermi Paradox](../../wiki/Science/cosmology/Fermi%20Paradox.md) may not be a paradox at all. We search for macro-scale signals because that reflects our own trajectory. The absence of evidence may reflect the limits of our search parameters, not the absence of other civilizations.
 
 ---
-see also [Why the Fermi Paradox isnt](Why%20the%20Fermi%20Paradox%20isnt)
+see also [Why the Fermi Paradox isnt](../../posts/2017/Why%20the%20Fermi%20Paradox%20isnt/Why%20the%20Fermi%20Paradox%20isnt.md)

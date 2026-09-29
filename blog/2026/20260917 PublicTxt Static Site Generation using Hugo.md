@@ -9,7 +9,7 @@ category:
 
 #dev #publictxt #project
 
-Static site generation for [PublicTxt](../../wiki/Projects/PublicTxt/PublicTxt.md) using [Hugo](../../wiki/Projects/PublicTxt/Tools/Hugo.md)
+Static site generation for [Project PublicTxt](../../wiki/Projects/PublicTxt/Project%20PublicTxt.md) using [Hugo](../../wiki/Projects/PublicTxt/Tools/Hugo.md)
 
 - Static site interface for browsing/searching an public repository (PublicTxt or otherwise).
 - Uses [Hugo](../../wiki/Projects/PublicTxt/Tools/Hugo.md) for static site generation
