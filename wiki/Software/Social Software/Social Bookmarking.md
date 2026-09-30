@@ -12,7 +12,7 @@ category:
 - [Folksonomies](Folksonomies.md) and [human computation](human%20computation).
 
 ## projects
-- [Project PublicTxt](../../Projects/PublicTxt/Project%20PublicTxt.md)
+- [Project PublicTxt](../../../Projects/PublicTxt/Project%20PublicTxt.md)
 - [CuratedCommons](../../../Projects/PublicTxt/CuratedCommons.md)
 
 

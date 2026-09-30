@@ -1,7 +1,7 @@
 ---
 bookmark: https://www.youtube.com/watch?v=rIpUf-Vy2JA
 channel: "[[wiki/Content/Podcasts/Lex Fridman Podcast|Lex Fridman Podcast]]"
-rating: "5"
+rating: "4"
 tags:
   - content
   - rated
@@ -10,7 +10,7 @@ tags:
   - ai
   - long-form
 ---
-[Lex Fridman Podcast](wiki/Content/Podcasts/Lex%20Fridman%20Podcast.md) Interview with [Joscha Bach](../../Joscha%20Bach.md)
+[Lex Fridman Podcast](wiki/Content/Podcasts/Lex%20Fridman%20Podcast.md) Interview with [Joscha Bach](../../../People/Joscha%20Bach.md)
 
 ![](https://www.youtube.com/watch?v=rIpUf-Vy2JA)
 ## Log

@@ -15,6 +15,7 @@ collections:
   - blog
   - posts
   - notes
+rating: 4
 ---
 # infopolitics teaser  
 

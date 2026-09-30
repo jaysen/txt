@@ -1,5 +1,5 @@
 ---
-rating: "4"
+rating: "3"
 category:
   - Tech
   - Politics

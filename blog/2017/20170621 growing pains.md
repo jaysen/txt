@@ -10,6 +10,7 @@ tags:
 collections:
   - blog
   - notes
+rating: 3
 ---
 "The tribes and clans of early man never left us, they just expanded outward like ripples in a pond, becoming more intricate." - without losing too much of their easy use of violence and coercion.  
   

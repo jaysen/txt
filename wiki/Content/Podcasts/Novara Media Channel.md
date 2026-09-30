@@ -8,4 +8,5 @@ tags:
   - political
   - UK
   - youtube
+rating: "4"
 ---

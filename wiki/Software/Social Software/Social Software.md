@@ -12,7 +12,7 @@ tags:
 #social-software 
 
 ## Federated Social Software - Fediverse
-- [ActivityPub](../../Computer-Science/ActivityPub.md) and the #fediverse 
+- [ActivityPub](../../../Computer-Science/ActivityPub.md) and the #fediverse 
 - [Mastodon](Mastodon.md)
 - [Social Bookmarking - Lemmy](Lemmy.md)
 - PixelFed
@@ -32,11 +32,11 @@ tags:
 ## writing
 
 - [Knowledge-Graphs-as-Commons](../../../notes/Info%20politics/Knowledge-Graphs-as-Commons.md)
-- [Our tools are still broken](../../../blog/2026/20260915%20Our%20tools%20are%20still%20broken.md)
+- [Our tools are still broken](../../../../blog/2026/20260915%20Our%20tools%20are%20still%20broken.md)
 
 ## working on
 
-- [Project PublicTxt](../../Projects/PublicTxt/Project%20PublicTxt.md)
+- [Project PublicTxt](../../../Projects/PublicTxt/Project%20PublicTxt.md)
 - [CuratedCommons](../../../Projects/PublicTxt/CuratedCommons.md)
 
 

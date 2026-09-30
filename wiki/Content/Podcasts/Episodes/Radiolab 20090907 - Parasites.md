@@ -13,7 +13,7 @@ tags:
   - episode
   - rated
 channel: "[[../Radiolab Podcasts|Radiolab Podcasts]]"
-rating: "5"
+rating: "4"
 ---
 What's gotten into you? In this hour, Radiolab uncovers a world full of parasites.
 

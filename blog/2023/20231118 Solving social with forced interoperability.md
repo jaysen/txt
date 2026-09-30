@@ -1,5 +1,5 @@
 ---
-rating: "4"
+rating: "3"
 bookmark: https://spectrum.ieee.org/doctorow-interoperability
 tags:
   - social-software

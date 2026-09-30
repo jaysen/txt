@@ -8,7 +8,7 @@ tags:
   - cosmology
   - non-fiction
   - sci
-  - book
+  - books
 genre: []
 isbn: 0195126645 9780195126648
 coverUrl: http://books.google.com/books/content?id=hV_nCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
@@ -25,7 +25,7 @@ category: Science
 
 # The Life of the Cosmos  
 
-by [Lee Smolin](../../../Science/cosmology/Lee%20Smolin.md)
+by [Lee Smolin](../../../People/Lee%20Smolin.md)
 
 ## Description: 
 A leading cosmologist at work today offers a new theory of the universe that is at once elegant and comprehensive. 4 linecuts.

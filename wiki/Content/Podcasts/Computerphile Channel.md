@@ -7,7 +7,7 @@ tags:
   - youtube
   - podcast
   - compsci
-rating: 5
+rating: 4
 category:
   - CompSci
   - Content

@@ -15,7 +15,7 @@ tags:
 category:
   - Content
   - Science
-rating: "5"
+rating: "3"
 ---
 What happens when there is no leader? Starlings, bees, and ants manage just fine. In fact, they form staggeringly complicated societies -- all without a Toscanini to conduct them into harmony. This hour of Radiolab, we ask how this happens.
 

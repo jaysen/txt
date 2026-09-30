@@ -18,7 +18,7 @@ The Fermi paradox is the contradiction between the high statistical probability 
 The physics of information limits how a galactic empire could function. The Milky Way is roughly **100,000 light-years across**. Because information cannot travel faster than the speed of light, the time delay creates a massive decentralized barrier:
 
 - **The Communication Lag:** If a colony on the other side of the galaxy sends a distress signal, it takes 100,000 years to arrive, and the reply takes another 100,000 years.
-- **The "Feudal" Universe:** Because coordination is physically restricted by light travel time, a singular, interconnected galactic civilization is an atmospheric impossibility. Any colony sent out would instantly diverge culturally, biologically, and technologically, transforming a unified empire into isolated, independent evolutionary branches that might choose isolation over expansion. [[1](https://www.seti.org/research/seti-101/fermi-paradox/)] - see [Why the Fermi Paradox isnt](../../../posts/2017/Why%20the%20Fermi%20Paradox%20isnt/Why%20the%20Fermi%20Paradox%20isnt.md)
+- **The "Feudal" Universe:** Because coordination is physically restricted by light travel time, a singular, interconnected galactic civilization is an atmospheric impossibility. Any colony sent out would instantly diverge culturally, biologically, and technologically, transforming a unified empire into isolated, independent evolutionary branches that might choose isolation over expansion. [[1](https://www.seti.org/research/seti-101/fermi-paradox/)] - see [Why the Fermi Paradox isnt](../../../posts/2017/Why%20the%20Fermi%20Paradox%20isnt.md)
 
 ### Our Galaxy Could Be an Outlier
 When evaluating the Fermi Paradox, we assume the Milky Way is a standard template for astrobiology. However, our galaxy may be an astronomical anomaly. [[1](https://en.wikipedia.org/wiki/Fermi_paradox)]
@@ -35,7 +35,7 @@ The standard [Kardashev scale](https://kardashev.fandom.com/wiki/Kardashev_scale
 
 ## links
 - [Kardashev Scale](Kardashev%20Scale.md)
-- [Why the Fermi Paradox isnt](../../../posts/2017/Why%20the%20Fermi%20Paradox%20isnt/Why%20the%20Fermi%20Paradox%20isnt.md)
+- [Why the Fermi Paradox isnt](../../../posts/2017/Why%20the%20Fermi%20Paradox%20isnt.md)
 - [20260925 Another Issue with the Fermi Paradox - the Barrow Scale](../../../blog/2026/20260925%20Another%20Issue%20with%20the%20Fermi%20Paradox%20-%20the%20Barrow%20Scale.md)
 
 

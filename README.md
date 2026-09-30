@@ -18,10 +18,10 @@ See also:
 
 ## Content
 
-- [Wiki](wiki/wiki.md) - linked wiki pages
-- [Blog](blog/index.md) - weblogging
+- [Wiki](wiki/_index.md) - linked wiki pages
+- [Blog](blog/_index.md) - weblogging
 - [Notes](notes/home.md) - nothing yet
-- [Posts](posts/posts.md) - Toots, tweets, threads, micro-blogs - all can get duplicated here.
+- [Posts](posts/_index.md) - Toots, tweets, threads, micro-blogs - all can get duplicated here.
 
 -----
 

@@ -11,7 +11,12 @@ web-links: https://discourse.numenta.org/t/sparse-distributed-representations/21
 category:
   - Science
 ---
-- beautiful idea. see [HTM](wiki/Science/brain/Hierarchical%20Temporal%20Memory.md)
+- beautiful idea. 
+	- **Distributed Semantics:** Meaning is not stored in a single specific bit, but is spread across the entire active population. Each active bit represents a specific semantic attribute or feature of the data. 
+	- **Robustness to Noise and Damage:** Because information is distributed, losing or altering a few bits (subsampling or noise) does not destroy the overall meaning, allowing the system to recognize patterns despite errors
+	- **Overlap and Similarity:** Comparing two SDRs via a bitwise overlap (intersection) instantly reveals how much semantic meaning they share; a high number of overlapping active bits indicates high similarity
+	- **Union Operations:** Combining multiple SDRs using a bitwise OR operation creates a composite representation that preserves group semantic properties, making it useful for simultaneous predictions or overlapping memories.
+- see [HTM](wiki/Science/brain/Hierarchical%20Temporal%20Memory.md)
 - an idea of representation in the [Neocortex](wiki/Science/brain/Neocortex.md)
 
 ---

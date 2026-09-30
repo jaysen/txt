@@ -1,6 +1,8 @@
 ---
-category: [CompSci, Science]
-rating: "3"
+category:
+  - CompSci
+  - Science
+rating: "2"
 ---
 # Human-like Motivation in LLMs
 

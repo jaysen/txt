@@ -5,7 +5,7 @@ tags:
   - content
   - podcast
 ---
-# Podcasts
+# Podcasts listing
 #podcast 
 
 ## Podcast Channels:
@@ -15,18 +15,18 @@ tags:
 ---
 ### Science Podcasts
 - [Radiolab Podcasts](Radiolab%20Podcasts.md)
-- [Big Picture Science - Podcast](Big%20Picture%20Science%20-%20Podcast.md)
-- [Quirks & Quarks - Podcast](Quirks%20&%20Quarks%20-%20Podcast.md)
+- [Big Picture Science Podcast](Big%20Picture%20Science%20Podcast.md)
+- [Quirks & Quarks Podcast](Quirks%20&%20Quarks%20Podcast.md)
 - Neuroscience
 	- [Brain-Inspired Podcast](Brain-Inspired%20Podcast.md)
 	- [Brain Science Podcast](Brain%20Science%20Podcast.md)
 ---
 ### CompSci Podcasts
-- [Software Engineering Radio – The Podcast for Professional Software Developers](Software%20Engineering%20Radio%20–%20The%20Podcast%20for%20Professional%20Software%20Developers.md)
+- [Software Engineering Radio Podcast](Software%20Engineering%20Radio%20Podcast.md)
 - [Computerphile Channel](Computerphile%20Channel.md)
 ---
 ### Fiction 
-- [Selected Shorts  - Podcast](Selected%20Shorts%20%20-%20Podcast.md)
+- [Selected Shorts Podcast](Selected%20Shorts%20Podcast.md)
 
 ---
 ## Some Noteworthy Podcast Episodes

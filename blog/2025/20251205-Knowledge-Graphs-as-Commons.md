@@ -1,5 +1,5 @@
 ---
-rating: "5"
+rating: "3"
 category:
   - Tech
   - CompSci
