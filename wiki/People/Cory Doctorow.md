@@ -10,6 +10,10 @@ tags:
   - infopolitics
   - copyleft
   - CoryDoctorow
+category:
+  - Tech
+  - Science
+  - Content
 ---
 Cory Doctorow ([craphound.com](https://craphound.com)) is a science fiction author, activist and journalist. He is the author of dozens of books, most recently **ENSHITTIFICATION: WHY EVERYTHING SUDDENLY GOT WORSE AND WHAT TO DO ABOUT IT** (nonfiction); and the novel **PICKS AND SHOVELS**. His next book is **THE REVERSE CENTAUR’S GUIDE TO LIFE AFTER AI** (June 2026). Born in Toronto, Canada, he lives in Los Angeles and London.
 

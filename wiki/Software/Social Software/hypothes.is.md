@@ -12,6 +12,8 @@ tags:
   - social-bookmarking
 bookmark: https://web.hypothes.is/
 rating: 4
+category:
+  - Tech
 ---
 A sidebar annotating the web, like [SideWiki](SideWiki) should have been.  
   

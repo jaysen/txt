@@ -1,5 +1,7 @@
 ---
-category: Tech
+category:
+  - Tech
+  - Politics
 tags:
   - compsci
 ---

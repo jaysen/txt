@@ -1,5 +1,7 @@
 ---
-category: Tech
+category:
+  - Tech
+  - CompSci
 tags:
   - compsci
 ---

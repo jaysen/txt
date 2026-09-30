@@ -2,6 +2,8 @@
 tags:
   - sci
   - cosmology
+category:
+  - Science
 ---
 The [Kardashev scale](https://en.wikipedia.org/wiki/Kardashev_scale) is a method for measuring a civilization's technological advancement based on the amount of energy it can harness and use. 
 

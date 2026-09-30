@@ -1,3 +1,7 @@
+---
+category:
+  - Personal
+---
 #games #chess
 
 ## chess.com

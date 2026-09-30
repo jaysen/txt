@@ -5,6 +5,9 @@ tags:
   - brain
   - rated
 rating: "4"
+category:
+  - Science
+  - CompSci
 ---
 ## links
 Joscha's Twitter: https://twitter.com/Plinz  

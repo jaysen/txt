@@ -1,3 +1,11 @@
+---
+category:
+  - Science
+tags:
+  - brain
+  - theory
+  - rated
+---
 also a book [A Thousand Brains - Jeff Hawkins](wiki/Content/Books/Non-Fiction/A%20Thousand%20Brains%20-%20Jeff%20Hawkins.md)
 
 - [Numenta](Numenta) [Jeff Hawkins](../../People/Jeff%20Hawkins.md)

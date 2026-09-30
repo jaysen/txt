@@ -5,6 +5,8 @@ tags:
   - brain
   - ai
   - anti-capitalism
+category:
+  - Science
 ---
 - https://en.wikipedia.org/wiki/Jeff_Hawkins
 - [Numenta](Numenta)

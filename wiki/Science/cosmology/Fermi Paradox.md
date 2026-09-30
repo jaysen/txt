@@ -2,6 +2,8 @@
 tags:
   - sci
   - cosmology
+category:
+  - Science
 ---
 ## what is it?
 The Fermi paradox is the contradiction between the high statistical probability that extraterrestrial civilizations exist and the complete lack of evidence or contact with them

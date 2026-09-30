@@ -10,5 +10,7 @@ tags:
   - episode
   - fiction
   - content
+category:
+  - Content
 ---
 Is our obsession with blurring the boundaries of reality a new thing, or has it always been there? Everybody’s heard of the book *Don Quixote*, but we had no idea how totally insane—and how stirringly modern—Miguel Cervante's masterpiece really was. It's a story within a story within a story that beat Seinfeld to the punch by more than 400 years.
