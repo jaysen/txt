@@ -9,6 +9,7 @@
     "mastodon": "multitext",
     "category": "multitext",
     "substack": "multitext",
-    "web-links": "multitext"
+    "web-links": "multitext",
+    "created": "date"
   }
 }
