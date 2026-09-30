@@ -13,6 +13,8 @@ tags:
   - long-form
   - youtube
 channel: "[[wiki/Content/Podcasts/Lex Fridman Podcast|Lex Fridman Podcast]]"
+category:
+  - Content
 ---
 YouTube: https://www.youtube.comlexfridman
 Podcast website: https://lexfridman.com/podcast

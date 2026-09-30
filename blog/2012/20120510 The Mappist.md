@@ -9,6 +9,7 @@ tags:
   - content
   - media
 rating: "5"
+category: Content
 ---
 The first story on this mp3, **The Mappist - Barry Lopez**, is probably one of the better suggestions i can make for a spare 34 minutes sometime this Sunday -- listen  
   

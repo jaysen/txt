@@ -1,7 +1,8 @@
 ---
 title: Rethinking Consciousness
 subtitle: A Scientific Theory of Subjective Experience
-author: [Michael S A Graziano]
+author:
+  - Michael S A Graziano
 tags:
   - books
   - content
@@ -20,7 +21,9 @@ web: https://play.google.com/store/books/details?id=vvaKDwAAQBAJ
 status: done
 rating: 5
 dateDone: 2021-03-01
-category: Science
+category:
+  - Science
+  - Content
 ---
 ![cover|200](http://books.google.com/books/content?id=vvaKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 # Rethinking Consciousness  

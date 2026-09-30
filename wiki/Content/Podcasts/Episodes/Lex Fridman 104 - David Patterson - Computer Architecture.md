@@ -6,6 +6,9 @@ tags:
   - episode
   - compsci
   - content
+category:
+  - CompSci
+  - Content
 ---
 ![](https://www.youtube.com/watch?v=naed4C4hfAg)
 

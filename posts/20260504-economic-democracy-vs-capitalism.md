@@ -1,5 +1,7 @@
 ---
-category: Politics
+category:
+  - Politics
+  - Content
 tags:
   - economic-democracy
   - anti-capitalism

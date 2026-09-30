@@ -15,6 +15,9 @@ tags:
   - rated
   - sci
 rating: "4"
+category:
+  - Content
+  - Science
 ---
 Big Picture Science is an immersive radio show and podcast that reveals the unexpected connections in science.
 

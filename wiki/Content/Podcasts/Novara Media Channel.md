@@ -9,4 +9,7 @@ tags:
   - UK
   - youtube
 rating: "4"
+category:
+  - Content
+  - Politics
 ---

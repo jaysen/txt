@@ -14,6 +14,9 @@ tags:
   - rated
 channel: "[[../Radiolab Podcasts|Radiolab Podcasts]]"
 rating: "4"
+category:
+  - Content
+  - Science
 ---
 What's gotten into you? In this hour, Radiolab uncovers a world full of parasites.
 

@@ -16,6 +16,10 @@ tags:
   - podcast
   - philosophy
 channel: "[[wiki/Content/Podcasts/Lex Fridman Podcast|Lex Fridman Podcast]]"
+category:
+  - Content
+  - CompSci
+  - Science
 ---
 ![](https://www.youtube.com/watch?v=e8qJsk1j2zE)
 

@@ -3,6 +3,8 @@ category: Personal
 aliases:
   - jaysen
   - Jaysen Naidoo
+tags:
+  - person
 ---
 # Jaysen Naidoo Bio
 Jaysen Naidoo, living in [Johannesburg](wiki/Places/Johannesburg.md), South Africa. Software developer by trade. Currently taking on contract work while working on a few public software ideas.

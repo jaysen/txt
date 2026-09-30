@@ -1,5 +1,7 @@
 ---
-category: Politics
+category:
+  - Politics
+  - Content
 tags:
   - content
   - fiction

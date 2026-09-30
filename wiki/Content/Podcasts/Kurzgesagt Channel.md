@@ -7,7 +7,9 @@ tags:
   - channel
   - sci
   - video
-category: Science
+category:
+  - Science
+  - Content
 rating: "4"
 ---
 

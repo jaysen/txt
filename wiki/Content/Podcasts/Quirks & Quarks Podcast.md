@@ -10,6 +10,9 @@ tags:
   - sci
   - content
   - media
+category:
+  - Content
+  - Science
 ---
 ![](https://i.cbc.ca/ais/63500a0d-79e2-4fb5-84fb-cef39ed1e047,1778880347184/full/max/0/default.jpg)
 

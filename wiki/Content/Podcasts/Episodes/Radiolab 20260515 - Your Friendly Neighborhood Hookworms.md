@@ -13,6 +13,9 @@ tags:
   - content
   - medical
   - health
+category:
+  - Content
+  - Science
 ---
 For most of human history, people went about their daily lives with a worm or two -or fifty- in their guts. Only in the past century, with pharmaceuticals and sanitation practices, have we made significant strides towards deworming the whole of humanity. And that’s typically been thought of as a good thing, because having too many worms in your body can–quite literally -suck the life out of you.
 

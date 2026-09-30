@@ -9,6 +9,9 @@ tags:
   - brain
   - ai
   - long-form
+category:
+  - Content
+  - Science
 ---
 [Lex Fridman Podcast](wiki/Content/Podcasts/Lex%20Fridman%20Podcast.md) Interview with [Joscha Bach](../../../People/Joscha%20Bach.md)
 

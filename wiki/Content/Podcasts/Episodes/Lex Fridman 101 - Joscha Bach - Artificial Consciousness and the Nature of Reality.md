@@ -18,6 +18,10 @@ tags:
   - philosophy
   - math
 rating: "4"
+category:
+  - Science
+  - Content
+  - CompSci
 ---
 [Lex Fridman Podcast](../Lex%20Fridman%20Podcast.md) interview with [Joscha Bach](../../../People/Joscha%20Bach.md)
 ![](https://www.youtube.com/watch?v=P-2P3MSZrBM)

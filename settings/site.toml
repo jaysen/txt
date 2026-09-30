@@ -27,8 +27,8 @@ title = "Jaysen Naidoo: PublicTxt instance"
   [[params.chipFacets]]
     key = "category"
     label = "Category"
-    states = ["include"]
-    match = ["any"]
+    states = ["include", "exclude"]
+    match = ["any", "all"]
   [[params.chipFacets]]
     key = "tag"
     label = "Tags"

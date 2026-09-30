@@ -18,7 +18,9 @@ web: https://books.google.com/books/about/The_Life_of_the_Cosmos.html?hl=&id=hV_
 status:
 rating:
 dateDone:
-category: Science
+category:
+  - Science
+  - Content
 ---
 
 ![cover|150](http://books.google.com/books/content?id=hV_nCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
