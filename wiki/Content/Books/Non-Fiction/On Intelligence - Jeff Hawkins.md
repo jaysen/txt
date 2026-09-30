@@ -12,7 +12,7 @@ tags:
 genre: []
 isbn: 1429900458 9781429900454
 coverUrl: http://books.google.com/books/content?id=Qg2dmntfxmQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-created: 20260929
+created: 2026-09-29
 web: https://play.google.com/store/books/details?id=Qg2dmntfxmQC
 status: done
 rating: "4"
