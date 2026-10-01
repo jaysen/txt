@@ -9,6 +9,13 @@ tags:
   - ai
   - dev
   - compsci
+  - youtube
+  - content
+rating: 3
+category:
+  - CompSci
+  - Content
+  - Tech
 ---
 [Kent Beck](Kent%20Beck) created [Extreme Programming](Extreme%20Programming), helped pioneer test-driven development, and was the first signatory of the [Agile Manifesto](Agile%20Manifesto). At Prodacity 2026 he talked about what craft means now that a model is writing much of the code. 
 
@@ -29,3 +36,13 @@ In this talk from *Prodacity 2026*, software pioneer *Kent Beck* discusses the e
 * **Features vs. Futures:** He introduces a model for software development: developers must alternate between delivering features and investing in "futures" (optionality). Shipping too many features without "resting between the notes" (refactoring/cleaning) leads to a state where future changes become impossible (20:00-26:35).
 * **Iterative vs. One-Shot:** Beck warns against "spec-driven development," which he equates to a new coat for waterfall methodology. He advocates for an iterative approach, emphasizing that true progress is a learning process that "throws off software as a side effect" (34:40-42:15).
 * **Reframing Success:** Drawing on insights from military leadership, he highlights the difference between **effort** (lines of code), **output** (features), **outcome** (user behavior), and **mission** (shared goals). He cautions against Goodhart’s Law: when measures like lines of code become goals, the mission suffers (44:00-48:59).
+
+
+Kent Beck discusses **formal methods** (specifically using the [Lean language](Lean%20language.md)) in the context of his experience with automated development (37:10). He expresses two primary challenges with using formal methods in software engineering:
+
+- **The "One-Shot" Problem:** Formal methods often feel like a static, "one-shot" process (37:58). If you have a formal specification and prove its properties, but then need to change even a single element of the design, you have to "wind back" your work, which acts as a drag on the iterative change he advocates for.
+- **The Implementation Gap:** There remains an persistent gap between the mathematical model (the formal specification) and the actual running code (38:40). Even after proving that properties hold for a specification, bridging that gap to create a functioning implementation in a language like _C++_ or assembly remains difficult and unresolved (38:55-39:40).
+
+## my notes
+- One shot vs iterative
+- limitations of formal methods - [Lean language](Lean%20language.md) 
