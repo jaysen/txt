@@ -1,5 +1,5 @@
 ---
-title: "Kent Beck: Software Engineering in the Age of AI - Prodacity 2026"
+title: dev'ing with a genie - a Kent Beck talk
 bookmark: https://www.youtube.com/watch?v=F8fBgDCf2Y4
 author:
 created: 2026-10-01
@@ -18,8 +18,12 @@ category:
   - Tech
 collections:
   - blog
+aliases:
+  - "Kent Beck: Software Engineering in the Age of AI"
 ---
 [Kent Beck](Kent%20Beck) created [Extreme Programming](Extreme%20Programming), helped pioneer test-driven development, and was the first signatory of the [Agile Manifesto](Agile%20Manifesto). At Prodacity 2026 he talked about what craft means now that a model is writing much of the code. 
+
+# Kent Beck: Software Engineering in the Age of AI
 
 ## In this session: 
 - Why Beck calls it the genie, and why plausible code is not working code 
