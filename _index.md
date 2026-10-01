@@ -13,7 +13,7 @@ From a long finely evolved line, 4 billion years old, like all other living thin
 - [Podcasts listing](wiki/Content/Podcasts/Podcasts.md)
 - [Books page](wiki/Content/Books/_index.md)
 
-Find out more about [Project PublicTxt](wiki/Projects/PublicTxt/Project%20PublicTxt.md) and related works, including this static to dynamic site generator, [publicTxt Pages](wiki/Projects/PublicTxt/PublicTxt-pages)
+Find out more about [Project PublicTxt](wiki/Projects/PublicTxt/Project%20PublicTxt.md) and related works, including this static to dynamic site generator, [publicTxt Pages](wiki/Projects/PublicTxt/PublicTxt-Pages)
 
 
 ---
