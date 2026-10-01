@@ -3,7 +3,7 @@
 # default whole. Meant for title and [params]; the deploy workflow's HUGO_*
 # env vars (baseURL, editURL) override this file.
 
-title = "Jaysen Naidoo: PublicTxt instance"
+title = "jaysen naidoo's public-Txt"
 
 [params]
   shortTitle = "jaysen - txt"

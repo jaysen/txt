@@ -13,7 +13,7 @@ tags:
 summary: Reverse engineering the neocortex to revolutionize AI
 ---
 ## Reverse engineering the neocortex to revolutionize AI
-The efforts of [Jeff Hawkins](../../People/Jeff%20Hawkins.md) and [Numenta](Numenta) to understand how the brain works started over 30 years ago and culminated in the publication of the Thousand Brains Theory of Intelligence. Since then, we’ve been thinking about how to apply our insights about the neocortex to artificial intelligence.
+The efforts of [Jeff Hawkins](../../People/Jeff%20Hawkins.md) and [Numenta](../../People/Numenta.md) to understand how the brain works started over 30 years ago and culminated in the publication of the Thousand Brains Theory of Intelligence. Since then, we’ve been thinking about how to apply our insights about the neocortex to artificial intelligence.
 
 In 2024, we started significantly expanding our internal research efforts and began calling for researchers around the world to follow and join this exciting project.
 
