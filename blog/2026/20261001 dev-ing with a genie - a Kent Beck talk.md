@@ -37,10 +37,10 @@ aliases:
 ![](https://www.youtube.com/watch?v=F8fBgDCf2Y4)
 
 ## Notes (ai and i)
-- In this talk from *Prodacity 2026*, software pioneer *Kent Beck* discusses the evolving nature of **software engineering in the age of AI**. He emphasizes that while AI tools (which he calls "the genie") can generate code quickly, they often produce only "plausible" results that don't actually work, requiring developers to maintain a cynical and rigorous approach to quality (6:47-10:10).
-- Uses the term **"the genie"** to refer to AI tools in software development because of the specific, often frustrating nature of the relationship between the human programmer and the AI. He explains this metaphor through three key aspects:
+- In this talk software pioneer *Kent Beck* discusses the evolving nature of **software engineering in the age of AI**. He emphasizes that while AI tools (which he calls "the genie") can generate code quickly, they often produce only "plausible" results that don't actually work, requiring developers to maintain a cynical and rigorous approach to quality (6:47-10:10).
+- Uses the term **"the genie"** to refer to AI tools in software development because of the specific, often frustrating nature of the relationship between the human programmer and the AI:
 	- **Granting Wishes vs. Delivering Wants:** Like the genie in a fable, the AI grants your exact requests, but the result is often not what you truly wanted or needed
-	- **Plausibility vs. Reality:** The AI is exceptionally good at producing "plausible" code -code that looks syntactically correct and convincing at first glance - but it often fails to actually _work_ or perform the task correctly under scrutiny
+	- **Plausibility vs. Reality:** The AI is exceptionally good at producing "plausible" code -code that looks syntactically correct and convincing at first glance - but it often fails to actually _work_ or perform the task correctly under scrutiny. (**my note on this**: It's clear it now produces largely working code - but how clean and maintainable the code is, is more of an issue)
 	- **The Need for Oversight:** Because the AI provides code quickly but unreliably, it requires the human to take an adversarial, cynical view. You cannot assume the code is trustworthy; you must act as a critic to ensure it is not just plausible, but functional
 
 - **Key Takeaways:**
@@ -48,7 +48,7 @@ aliases:
 	* **Features vs. Futures:** He introduces a model for software development: developers must alternate between delivering features and investing in "futures" (optionality). Shipping too many features without "resting between the notes" (refactoring/cleaning) leads to a state where future changes become impossible (20:00-26:35).
 	* **Iterative vs. One-Shot:** Beck warns against "spec-driven development," which he equates to a new coat for waterfall methodology. He advocates for an iterative approach, emphasizing that true progress is a learning process that "throws off software as a side effect" (34:40-42:15).
 	* **Reframing Success:** Drawing on insights from military leadership, he highlights the difference between **effort** (lines of code), **output** (features), **outcome** (user behavior), and **mission** (shared goals). He cautions against Goodhart’s Law: when measures like lines of code become goals, the mission suffers (44:00-48:59).
--  **formal methods** (specifically using the [Lean language](Lean%20language.md)) in the context of his experience with automated development (37:10). He expresses two primary challenges with using formal methods in software engineering:
+- **Formal methods** (specifically using the [Lean language](Lean%20language.md)) in the context of his experience with automated development (37:10). He expresses two primary challenges with using formal methods in software engineering:
 	- **The "One-Shot" Problem:** Formal methods often feel like a static, "one-shot" process (37:58). If you have a formal specification and prove its properties, but then need to change even a single element of the design, you have to "wind back" your work, which acts as a drag on the iterative change he advocates for.
 	- **The Implementation Gap:** There remains an persistent gap between the mathematical model (the formal specification) and the actual running code (38:40). Even after proving that properties hold for a specification, bridging that gap to create a functioning implementation in a language like _C++_ or assembly remains difficult and unresolved (38:55-39:40).
 - **One-shot vs Iterative**
