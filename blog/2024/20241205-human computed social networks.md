@@ -1,5 +1,6 @@
 ---
-category: Tech
+category:
+  - Tech
 tags:
   - social-software
 ---

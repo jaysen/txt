@@ -1,6 +1,7 @@
 ---
 bookmark: https://github.com/publictxt/publictxt-pages
-category: Project
+category:
+  - Project
 ---
 #publictxt #compsci #dev #project 
 

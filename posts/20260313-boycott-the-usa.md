@@ -1,5 +1,6 @@
 ---
-category: Politics
+category:
+  - Politics
 mastodon:
   - https://hachyderm.io/@jaysen/116220644037941917
 created: 2026-03-13

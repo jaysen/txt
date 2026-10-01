@@ -1,5 +1,6 @@
 ---
-category: Personal
+category:
+  - Personal
 aliases:
   - jaysen
   - Jaysen Naidoo

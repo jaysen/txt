@@ -1,5 +1,6 @@
 ---
-category: Science
+category:
+  - Science
 ---
 # Science home
 science things ... #sci

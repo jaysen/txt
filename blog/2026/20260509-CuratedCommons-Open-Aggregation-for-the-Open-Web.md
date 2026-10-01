@@ -1,6 +1,7 @@
 ---
 rating: "3"
-category: Project
+category:
+  - Project
 collections:
   - notes
 tags:
