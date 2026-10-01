@@ -1,5 +1,6 @@
 ---
-category: Science
+category:
+  - Science
 tags:
   - sci
 ---

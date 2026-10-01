@@ -1,6 +1,7 @@
 ---
 bookmark: https://www.freefreeforum.org/
-category: Politics
+category:
+  - Politics
 ---
 #political #economics #social #anti-capitalism #rated #economic-democracy 
 

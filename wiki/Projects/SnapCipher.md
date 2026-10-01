@@ -1,5 +1,6 @@
 ---
-category: Project
+category:
+  - Project
 ---
 
 # SnapCipher (Concept Phase)

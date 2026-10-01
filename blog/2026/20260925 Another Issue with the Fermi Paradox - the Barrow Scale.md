@@ -6,7 +6,8 @@ tags:
   - freeculture
 bookmark: https://www.youtube.com/watch?v=QW_jlUn4gA8
 rating: 3
-category: Science
+category:
+  - Science
 ---
 # Another Issue with the Fermi Paradox - the Barrow Scale
 

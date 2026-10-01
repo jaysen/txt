@@ -1,5 +1,6 @@
 ---
-category: Politics
+category:
+  - Politics
 created: 2026-04-26
 facebook: https://www.facebook.com/jaysenn/posts/pfbid0skYAH148h9RWrsp6zaQgGoGniB2TF8N24GtzHMgQ8BaNF14BUY7NswxnKb9e5r8sl
 tags:

@@ -1,5 +1,6 @@
 ---
-category: Content
+category:
+  - Content
 tags:
   - list
   - content

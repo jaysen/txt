@@ -1,5 +1,6 @@
 ---
-category: Politics
+category:
+  - Politics
 collections:
   - posts
 tags:

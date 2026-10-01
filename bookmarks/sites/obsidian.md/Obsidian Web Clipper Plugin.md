@@ -9,7 +9,8 @@ tags:
   - plugin
   - pkm
 rating: "4"
-category: Tech
+category:
+  - Tech
 ---
 ## Easily capture pages and metadata to durable files you can read offline.
 

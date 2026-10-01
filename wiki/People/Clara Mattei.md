@@ -1,5 +1,6 @@
 ---
-category: Politics
+category:
+  - Politics
 tags:
   - political
   - economics

@@ -1,6 +1,7 @@
 ---
 bookmark: https://github.com/publictxt/publictext
-category: Project
+category:
+  - Project
 tags:
   - project
   - dev

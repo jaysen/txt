@@ -1,6 +1,7 @@
 ---
 rating: "2"
-category: Science
+category:
+  - Science
 tags:
   - cosmology
   - sci
