@@ -11,7 +11,8 @@ tags:
   - content
   - audio
   - rated
-category: Content
+category:
+  - Content
 rating: "5"
 ---
 Our greatest actors transport us through the magic of fiction, one short story at a time. Sometimes funny. Always moving. *Selected Shorts* connects you to the world with a rich diversity of voices from literature, film, theater, and comedy.

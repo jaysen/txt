@@ -1,5 +1,7 @@
 ---
-category: [Project, Tech]
+category:
+  - Project
+  - Tech
 ---
 
 - [Obsidian.md](Obsidian.md.md)]

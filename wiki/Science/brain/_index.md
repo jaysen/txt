@@ -1,5 +1,6 @@
 ---
-category: Science
+category:
+  - Science
 tags:
   - sci
   - brain
@@ -24,7 +25,7 @@ tags:
 	- [Lex Fridman 025 - Jeff Hawkins - Thousand Brains Theory of Intelligence](../../Content/Podcasts/Episodes/Lex%20Fridman%20025%20-%20Jeff%20Hawkins%20-%20Thousand%20Brains%20Theory%20of%20Intelligence.md)
 	- [Lex Fridman 212 - Joscha Bach - Nature of Reality Dreams Consciousness](../../Content/Podcasts/Episodes/Lex%20Fridman%20212%20-%20Joscha%20Bach%20-%20Nature%20of%20Reality%20Dreams%20Consciousness.md)
 - Related Pages
-	- [21071003 more misc notes on the biological path to strong ai](../../../blog/2017/21071003%20more%20misc%20notes%20on%20the%20biological%20path%20to%20strong%20ai.md)
+	- [20171003 more misc notes on the biological path to strong ai](../../../blog/2017/20171003%20more%20misc%20notes%20on%20the%20biological%20path%20to%20strong%20ai.md)
 
 
 ---

@@ -1,6 +1,7 @@
 ---
 rating: "2"
-category: Politics
+category:
+  - Politics
 ---
 # Gaza, and how the west was won
 
