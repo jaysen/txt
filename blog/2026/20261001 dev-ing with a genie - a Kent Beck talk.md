@@ -19,7 +19,7 @@ category:
 collections:
   - blog
 aliases:
-  - "Kent Beck: Software Engineering in the Age of AI"
+  - Kent Beck - Software Engineering in the Age of AI
 ---
 [Kent Beck](Kent%20Beck) created [Extreme Programming](Extreme%20Programming), helped pioneer test-driven development, and was the first signatory of the [Agile Manifesto](Agile%20Manifesto). At Prodacity 2026 he talked about what craft means now that a model is writing much of the code. 
 

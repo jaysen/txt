@@ -14,14 +14,15 @@ publishDate: 2021-03-02
 totalPage: 250
 isbn: 1541675800 9781541675803
 coverUrl: http://books.google.com/books/content?id=U46vzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
-created: 20260930
+created: 2023-09-30
 web: https://books.google.com/books/about/A_Thousand_Brains.html?hl=&id=U46vzgEACAAJ
-status:
+status: done
 rating: 3
 dateDone: 2021-05-07
 category:
   - Science
   - Content
+  - CompSci
 ---
 
 ![cover|200](http://books.google.com/books/content?id=U46vzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
