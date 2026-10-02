@@ -38,6 +38,7 @@ by [Luther Blissett](../../../World/People/Luther%20Blissett.md)
 **Q** is available for free:
 - https://archive.org/details/qbliss00blis
 - https://archive.org/stream/Luther_Blissett_Q_novel/Qen_djvu.txt
+- https://digliterature.wordpress.com/wp-content/uploads/2019/03/luther_blisset_q_english.pdf
 - https://www.obooko.com/free-historical-fiction-books/Q-blissett
 
 - The announcement of the work: https://www.lutherblissett.net/index_en.html
