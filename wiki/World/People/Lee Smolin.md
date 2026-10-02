@@ -1,9 +1,9 @@
 ---
 tags:
   - sci
-  - "#cosmology"
-  - "#person"
-  - "#author"
+  - cosmology
+  - person
+  - author
 category:
   - Science
 ---
