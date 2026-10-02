@@ -41,6 +41,7 @@ by [Luther Blissett](../../../World/People/Luther%20Blissett.md)
 - https://digliterature.wordpress.com/wp-content/uploads/2019/03/luther_blisset_q_english.pdf
 - https://www.obooko.com/free-historical-fiction-books/Q-blissett
 
+From [www.lutherblisset.net](https://www.lutherblissett.net/):
 - The announcement of the work: https://www.lutherblissett.net/index_en.html
 - The Anti-copyright stance of **Q**'s authors: https://www.lutherblissett.net/archive/441_en.html
 

@@ -16,7 +16,10 @@ Thanks to the Seppuku, ‘Luther Blissett’ will go through different rebirths,
 
 But, before his death, four Bologna-based members of the LBP (Roberto Bui, Giovanni Cattabriga, Federico Guglielmi and Luca Di Meo), wrote the novel _Q_, LB’s masterpiece, which can be seen as a final contribution to the LB Project. _Q_ was published in Italy in 1999 by Einaudi under a creative commons copyleft. _Q_ has been translated into English (British and American), Spanish, German, Dutch, French, Portuguese (Brazilian), Danish, Polish, Greek, Czech, Russian, Turkish, Basque, Serbian and Korean. In August 2003 the book was also nominated for the _Guardian_ First Book Prize.
 
-
-  
 #### ![art_in_europe_ciani1](https://digliterature.wordpress.com/wp-content/uploads/2019/03/art_in_europe_ciani1.jpg?w=536&h=365)
+(from https://digliterature.wordpress.com/luther-blissett/)
+
+-----------
+- [Q - Luther Blissett](../../Content/Books/Fiction/Q%20-%20Luther%20Blissett.md)
 - [Wu Ming Foundation](Wu%20Ming%20Foundation.md)
+- https://www.lutherblissett.net/index_en.html
