@@ -16,7 +16,7 @@ isbn: 0393652629 9780393652628
 coverUrl: http://books.google.com/books/content?id=vvaKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 coverSmallUrl: http://books.google.com/books/content?id=vvaKDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api
 previewLink: http://books.google.co.za/books?id=vvaKDwAAQBAJ&printsec=frontcover&dq=Rethinking+Consciousness+-+Michael+Graziano&hl=&as_pt=BOOKS&cd=1&source=gbs_api
-created: 2026-09-30
+created: 2021-03-01
 web: https://play.google.com/store/books/details?id=vvaKDwAAQBAJ
 status: done
 rating: 5

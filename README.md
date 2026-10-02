@@ -26,5 +26,5 @@ See also:
 -----
 
 More [about PublicTxt](wiki/Projects/PublicTxt/Project%20PublicTxt.md), and its [GitHub repo](https://github.com/publictxt/publictext)
-See also notes on [bliki](wiki/Knowledge-Management/bliki.md) - blog and wiki hybrids contained in public-text repos.
+See also notes on [bliki](wiki/Computer-Science/Knowledge-Management/bliki.md) - blog and wiki hybrids contained in public-text repos.
 

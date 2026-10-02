@@ -1,5 +1,7 @@
 ---
 description: Journal and blog posts
+aliases:
+  - Blog home
 ---
 # Blog
 

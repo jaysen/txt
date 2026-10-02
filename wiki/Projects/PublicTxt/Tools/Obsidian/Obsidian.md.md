@@ -5,7 +5,7 @@ category:
 ---
 #tools #closed_source #wiki #software #pkm 
 
-- [Personal Wiki Software](../../../../Knowledge-Management/Personal%20Wiki%20Software.md)
+- [Personal Wiki Software](../../../../Computer-Science/Knowledge-Management/Personal%20Wiki%20Software.md)
 - Closed source
 - Popular
 - An ecosystem with lots of plugins
