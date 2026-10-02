@@ -1,5 +1,0 @@
-**Luther Blissett** is a "multiple name" adopted by many people all over the world since 1994, as part of a transnational activist project. This practice started in Italy when a vast network of cultural workers "borrowed" the name of a Jamaica born soccer player active in England and in Italy in the previous decade.  
-  
-Later on, the name was used as a collective pen name by a group of four Italian writers: [Roberto Bui](https://www.goodreads.com/author/show/17105165.Roberto_Bui "Roberto Bui"), Giovanni Cattabriga, Federico Guglielmi and Luca Di Meo, authors of the novel [Q - Luther Blissett](wiki/Content/Books/Fiction/Q%20-%20Luther%20Blissett.md) . Since January 2000, together with [Riccardo Pedrini](https://www.goodreads.com/author/show/640740.Riccardo_Pedrini "Riccardo Pedrini"), they have been writing under another collective pen name **[Wu Ming](https://www.goodreads.com/author/show/191397.Wu_Ming "Wu Ming")** (aka "Wu Ming Foundation").
-
-- [Wu Ming Foundation](../World/People/Wu%20Ming%20Foundation.md)

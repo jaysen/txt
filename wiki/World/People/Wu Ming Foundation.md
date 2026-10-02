@@ -1,5 +1,11 @@
 ---
 bookmark: https://www.wumingfoundation.com/giap/what-is-the-wu-ming-foundation/
+web-links:
+  - https://en.wikipedia.org/wiki/Wu_Ming
+  - https://www.goodreads.com/author/show/191397.Wu_Ming
+  - https://www.wumingfoundation.com/giap/
+category:
+  - Content
 ---
 from: https://www.wumingfoundation.com/giap/what-is-the-wu-ming-foundation/
 
@@ -9,5 +15,9 @@ We call ‘Wu Ming Foundation’ a mobile constellation of collectives, permanen
 
 We have used the name ‘Wu Ming Foundation’ since the very early days of the project, and our site – online since December 2000 – has always been called wumingfoundation.com. It was an omen. During the 2010s, the Wu Ming Foundation became a reality.
 
+
+- [Wu Ming on Goodreads](https://www.goodreads.com/author/show/191397.Wu_Ming)
+- [Wu Ming on Wikipedia](https://en.wikipedia.org/wiki/Wu_Ming)
+
 ---
-also see [Luther Blissett](wiki/Content/Luther%20Blissett.md), and [Q - Luther Blissett](wiki/Content/Books/Fiction/Q%20-%20Luther%20Blissett.md)
+also see [Luther Blissett](Luther%20Blissett.md), and [Q - Luther Blissett](wiki/Content/Books/Fiction/Q%20-%20Luther%20Blissett.md)
