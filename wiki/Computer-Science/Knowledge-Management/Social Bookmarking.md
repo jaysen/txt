@@ -9,7 +9,7 @@ category:
 ---
 - [hypothes.is](hypothes.is.md)
 - [Lemmy](Lemmy.md) (part of the [fediverse](Federated%20Social%20Software%20-%20Fediverse))
-- [Folksonomies](../../Computer-Science/Knowledge-Management/Folksonomies.md) and [human computation](human%20computation).
+- [Folksonomies](Folksonomies.md) and [human computation](human%20computation).
 
 ## projects
 - [Project PublicTxt](../../../Projects/PublicTxt/Project%20PublicTxt.md)

@@ -23,7 +23,7 @@ category:
 ---
 ![](https://www.youtube.com/watch?v=e8qJsk1j2zE)
 
-[Joscha Bach](../../../People/Joscha%20Bach.md) is a cognitive scientist, AI researcher, and philosopher. Please support this podcast by checking out our sponsors:  
+[Joscha Bach](../../../World/People/Joscha%20Bach.md) is a cognitive scientist, AI researcher, and philosopher. Please support this podcast by checking out our sponsors:  
 
   
 ## Transcript:  

@@ -5,5 +5,5 @@ category:
 ---
 #political #economics #social #anti-capitalism #rated #economic-democracy 
 
-- [Clara Mattei](../People/Clara%20Mattei.md) 
+- [Clara Mattei](../World/People/Clara%20Mattei.md) 
 - [Economic-Democracy](#)

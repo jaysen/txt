@@ -27,7 +27,7 @@ category:
 
 ![cover|200](http://books.google.com/books/content?id=U46vzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 # A Thousand Brains  - A New Theory of Intelligence
-by [Jeff Hawkins](../../../People/Jeff%20Hawkins.md)
+by [Jeff Hawkins](../../../World/People/Jeff%20Hawkins.md)
 
 ## Description: 
 "A gripping read on the nature of human, machine, and extraterrestrial intelligence" --Financial Times For all of neuroscience's advances, the field has made little progress on its biggest question: How do simple cells in the brain create intelligence? Neuroscientist Jeff Hawkins and his team discovered that the brain uses maplike structures to build a model of the world--not just one model, but hundreds of thousands of models of everything we know. This discovery allows Hawkins to answer important questions about how we perceive the world, why we have a sense of self, and the origin of high-level thought. A Thousand Brains heralds a revolution in the understanding of intelligence, whether ours, our computers', or of any life in the universe. It is a big-think book, in every sense of the word.

@@ -27,6 +27,6 @@ Economic democracy vs Capitalism
 
 ---
 ## notes
-[Clara Mattei](../wiki/People/Clara%20Mattei.md) of the [Forum for Economic Emancipation](../wiki/Social/Forum%20for%20Economic%20Emancipation.md) 
+[Clara Mattei](../wiki/World/People/Clara%20Mattei.md) of the [Forum for Economic Emancipation](../wiki/Social/Forum%20for%20Economic%20Emancipation.md) 
 
 

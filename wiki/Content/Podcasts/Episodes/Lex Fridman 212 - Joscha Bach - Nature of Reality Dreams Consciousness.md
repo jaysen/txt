@@ -13,7 +13,7 @@ category:
   - Content
   - Science
 ---
-[Lex Fridman Podcast](wiki/Content/Podcasts/Lex%20Fridman%20Podcast.md) Interview with [Joscha Bach](../../../People/Joscha%20Bach.md)
+[Lex Fridman Podcast](wiki/Content/Podcasts/Lex%20Fridman%20Podcast.md) Interview with [Joscha Bach](../../../World/People/Joscha%20Bach.md)
 
 ![](https://www.youtube.com/watch?v=rIpUf-Vy2JA)
 ## Log

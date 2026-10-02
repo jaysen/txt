@@ -27,7 +27,7 @@ category:
 
 # The Life of the Cosmos  
 
-by [Lee Smolin](../../../People/Lee%20Smolin.md)
+by [Lee Smolin](../../../World/People/Lee%20Smolin.md)
 
 ## Description: 
 A leading cosmologist at work today offers a new theory of the universe that is at once elegant and comprehensive. 4 linecuts.

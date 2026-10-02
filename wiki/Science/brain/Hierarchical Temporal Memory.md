@@ -23,10 +23,10 @@ A model for the fundamental algorithm for learning and intelligence in the [Neoc
 ### Thousand Brain Theory of Intelligence 
 Extended by a [Thousand Brain Theory of Intelligence](Thousand%20Brain%20Theory%20of%20Intelligence.md)
 
-See [Jeff Hawkins](../../People/Jeff%20Hawkins.md) and [Numenta](../../People/Numenta.md)
+See [Jeff Hawkins](../../World/People/Jeff%20Hawkins.md) and [Numenta](../../World/People/Numenta.md)
 
 ### reference
-- [On Intelligence - Jeff Hawkins](../../Content/Books/Non-Fiction/On%20Intelligence%20-%20Jeff%20Hawkins.md) book by [Jeff Hawkins](../../People/Jeff%20Hawkins.md), now of [Numenta](../../People/Numenta.md)
+- [On Intelligence - Jeff Hawkins](../../Content/Books/Non-Fiction/On%20Intelligence%20-%20Jeff%20Hawkins.md) book by [Jeff Hawkins](../../World/People/Jeff%20Hawkins.md), now of [Numenta](../../World/People/Numenta.md)
 - [HTM School](https://numenta.org/htm-school/) 
 - Hierarchical Temporal Memory:  Overview https://numenta.com/assets/pdf/biological-and-machine-intelligence/BaMI-HTM-Overview.pdf #paper
 - HTM in Anti Fragile ICT systems: https://link.springer.com/chapter/10.1007/978-3-319-30070-2_11

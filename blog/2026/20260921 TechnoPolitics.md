@@ -12,7 +12,7 @@ tags:
   - compsci
   - CoryDoctorow
 author:
-  - "[Cory Doctorow](../../wiki/People/Cory%20Doctorow.md)"
+  - "[Cory Doctorow](../../wiki/World/People/Cory%20Doctorow.md)"
 ---
 # TechnoPolitics - Cory Doctorow
 

@@ -23,10 +23,10 @@ category:
   - Content
   - CompSci
 ---
-[Lex Fridman Podcast](../Lex%20Fridman%20Podcast.md) interview with [Joscha Bach](../../../People/Joscha%20Bach.md)
+[Lex Fridman Podcast](../Lex%20Fridman%20Podcast.md) interview with [Joscha Bach](../../../World/People/Joscha%20Bach.md)
 ![](https://www.youtube.com/watch?v=P-2P3MSZrBM)
 
-[Joscha Bach](../../../People/Joscha%20Bach.md) is the VP of Research at the AI Foundation, previously doing research at MIT and Harvard. Joscha work explores the workings of the human mind, intelligence, consciousness, life on Earth, and the possibly-simulated fabric of our universe.  
+[Joscha Bach](../../../World/People/Joscha%20Bach.md) is the VP of Research at the AI Foundation, previously doing research at MIT and Harvard. Joscha work explores the workings of the human mind, intelligence, consciousness, life on Earth, and the possibly-simulated fabric of our universe.  
 
 ## Notes
 

@@ -17,7 +17,7 @@ category:
 ---
 A sidebar annotating the web, like [SideWiki](SideWiki) should have been.  
   
-[Social Bookmarking](Social%20Bookmarking.md), tagging, annotating and note sharing of the web in public or private groups, or just for yourself.  
+[Social Bookmarking](../../Knowledge-Management/Social%20Bookmarking.md), tagging, annotating and note sharing of the web in public or private groups, or just for yourself.  
   
 "Our efforts are based on the annotation standards for digital documents developed by the W3C Web Annotation Working Group. We are partnering broadly with developers, publishers, academic institutions, researchers, and individuals to develop a platform for the next generation of read-write web applications. You can follow our development progress on our roadmap. Many have contributed tools, plug-ins and integrations."  
   

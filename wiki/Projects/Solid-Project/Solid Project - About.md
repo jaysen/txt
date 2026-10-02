@@ -22,7 +22,7 @@ rating: 5
 aliases:
   - Solid Project
 ---
-Solid is an evolution of the web by its creator Sir [Tim Berners-Lee](../../People/Tim%20Berners-Lee.md). Solid realizes Tim's original vision for the Web as a medium for the secure, decentralized exchange of public and private data.
+Solid is an evolution of the web by its creator Sir [Tim Berners-Lee](../../World/People/Tim%20Berners-Lee.md). Solid realizes Tim's original vision for the Web as a medium for the secure, decentralized exchange of public and private data.
 
 My silly [Project PublicTxt](../PublicTxt/Project%20PublicTxt.md) sort of shares some mission, but was thinking of using Git repos instead of [Solid Pods](Solid%20Pods.md). (maybe there's room for overlap)
 
