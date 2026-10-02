@@ -7,16 +7,16 @@ genre: [{{genre}}]
 publisher: {{publisher}}
 publishDate: {{publishDate}}
 totalPage: {{totalPage}}
-isbn: {{isbn10}} {{isbn13}}
+isbn: [{{isbn10}}, {{isbn13}}]
 coverUrl: {{coverUrl}}
 coverSmallUrl: {{coverSmallUrl}}
-previewLink: {{previewLink}}
 created: {{DATE:YYYY-MM-DD}}
-web: {{link}}
+web-links: [{{link}}, {{previewLink}}]
 status: 
 rating:
 dateDone:
-category:
+category: Content
+---
 
 ![cover|200]({{coverUrl}})
 # {{title}}  

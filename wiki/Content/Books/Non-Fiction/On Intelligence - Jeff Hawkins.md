@@ -10,7 +10,9 @@ tags:
   - sci
   - books
 genre: []
-isbn: 1429900458 9781429900454
+isbn:
+  - 1429900458 
+  - "9781429900454"
 coverUrl: http://books.google.com/books/content?id=Qg2dmntfxmQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 created: 2016-11-05
 web: https://play.google.com/store/books/details?id=Qg2dmntfxmQC

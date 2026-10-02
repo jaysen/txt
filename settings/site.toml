@@ -11,6 +11,8 @@ title = "jaysen naidoo's public-Txt"
   author = "Jaysen Naidoo"
   mastodon = "https://hachyderm.io/@jaysen"
 
+  excludeFolders = ["settings/Templates"]
+
   [params.footer]
     text = "[PublicTxt](https://github.com/publictxt/publictext), plain-text knowledge, published with [publictxt-pages](https://github.com/publictxt/publictxt-pages)"
 

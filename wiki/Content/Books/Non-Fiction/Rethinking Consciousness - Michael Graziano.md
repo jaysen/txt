@@ -12,7 +12,9 @@ genre: []
 publisher: W. W. Norton & Company
 publishDate: 2019-09-17
 totalPage: 268
-isbn: 0393652629 9780393652628
+isbn:
+  - 0393652629 
+  - "9780393652628"
 coverUrl: http://books.google.com/books/content?id=vvaKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 coverSmallUrl: http://books.google.com/books/content?id=vvaKDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api
 previewLink: http://books.google.co.za/books?id=vvaKDwAAQBAJ&printsec=frontcover&dq=Rethinking+Consciousness+-+Michael+Graziano&hl=&as_pt=BOOKS&cd=1&source=gbs_api
