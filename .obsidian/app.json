@@ -1,8 +1,0 @@
-{
-  "useMarkdownLinks": true,
-  "alwaysUpdateLinks": true,
-  "newLinkFormat": "relative",
-  "promptDelete": false,
-  "tabSize": 4,
-  "readableLineLength": true
-}
