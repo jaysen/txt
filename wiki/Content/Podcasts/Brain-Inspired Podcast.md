@@ -5,7 +5,6 @@ author:
 created: 2026-09-28
 description:
 tags:
-  - clippings
   - podcast
   - content
   - audio

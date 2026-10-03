@@ -5,7 +5,6 @@ author:
 created: 2026-09-28
 description: A collection of (mostly) technical things every software developer should know about - mtdvio/every-programmer-should-know
 tags:
-  - clippings
   - dev
   - compsci
   - list

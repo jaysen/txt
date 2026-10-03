@@ -5,7 +5,6 @@ author:
 created: 2015-02-24
 description: Everybody’s heard of the book Don Quixote, but we had no idea how totally insane—and how stirringly modern—Miguel Cervante’s masterpiece really was.
 tags:
-  - clippings
   - podcast
   - episode
   - fiction

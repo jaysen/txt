@@ -5,7 +5,6 @@ author:
 created: 2026-09-28
 description: The Podcast for Professional Software Developers
 tags:
-  - clippings
   - podcast
   - dev
   - compsci

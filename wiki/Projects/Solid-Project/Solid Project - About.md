@@ -5,7 +5,6 @@ author:
 created: 2026-10-01
 summary: Solid is an evolution of the web by its creator Sir Tim Berners-Lee. Solid realizes Tim's original vision for the Web as a medium for the secure, decentralized exchange of public and private data.
 tags:
-  - clippings
   - social-software
   - software
   - tech

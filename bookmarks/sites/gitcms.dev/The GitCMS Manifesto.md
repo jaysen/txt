@@ -4,7 +4,6 @@ bookmark: https://gitcms.dev/manifesto
 created: 2026-09-26
 description: Why your content belongs in Git, not locked behind a database.
 tags:
-  - clippings
   - git
   - knowledge-management
   - social-software

@@ -5,7 +5,6 @@ author:
 created: 2026-09-28
 description: Brain Science Podcast
 tags:
-  - clippings
   - podcast
   - brain
   - sci

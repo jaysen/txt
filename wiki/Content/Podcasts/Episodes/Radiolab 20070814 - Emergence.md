@@ -5,7 +5,6 @@ author:
 created: 2007-08-14
 description: What happens when there is no leader? We look at the bottom-up logic of cities, Google, and even our brains.
 tags:
-  - clippings
   - podcast
   - content
   - episode

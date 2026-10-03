@@ -6,7 +6,6 @@ author:
 created: 2026-09-28
 description: Joscha Bach is a cognitive scientist, AI researcher, and philosopher
 tags:
-  - clippings
   - sci
   - brain
   - ai

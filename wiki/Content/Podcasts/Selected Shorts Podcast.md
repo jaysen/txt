@@ -4,7 +4,6 @@ author:
 created: 2026-09-28
 description: Selected Shorts is a weekly public radio show broadcast on over 150 stations to about 300,000 listeners. It is produced by Symphony Space and distributed by Public Radio International.
 tags:
-  - clippings
   - podcast
   - fiction
   - short-stories

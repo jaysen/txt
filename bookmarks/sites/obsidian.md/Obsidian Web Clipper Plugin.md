@@ -4,7 +4,6 @@ bookmark: https://obsidian.md/clipper
 created: 2026-09-25
 description: Highlight and capture web pages in your favorite browser. Save anything and everything with just one click.
 tags:
-  - clippings
   - obsidian
   - plugin
   - pkm

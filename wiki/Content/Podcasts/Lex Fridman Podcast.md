@@ -6,7 +6,6 @@ author:
 created: 2026-09-28
 description: Lex Fridman Podcast and other videos.
 tags:
-  - clippings
   - channel
   - podcast
   - content

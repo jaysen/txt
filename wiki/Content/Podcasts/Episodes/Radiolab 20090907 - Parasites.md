@@ -5,7 +5,6 @@ author:
 created: 2009-09-07
 description: Tales of lethargic farmers, zombie cockroaches, and even mind-controlled humans (kinda, maybe).
 tags:
-  - clippings
   - sci
   - bio
   - content

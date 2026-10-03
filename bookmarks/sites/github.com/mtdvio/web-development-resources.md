@@ -5,7 +5,6 @@ author:
 created: 2026-09-28
 description: A list of useful resources for Web Developers! Put it in your bookmarks and contribute something ❤️ - mtdvio/web-development-resources
 tags:
-  - clippings
   - dev
   - dev/web
   - list

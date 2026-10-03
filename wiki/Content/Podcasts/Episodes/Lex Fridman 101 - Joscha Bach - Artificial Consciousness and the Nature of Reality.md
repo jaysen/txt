@@ -5,7 +5,6 @@ author:
   - Lex Fridman
 created: 2026-09-28
 tags:
-  - clippings
   - rated
   - ai
   - sci
