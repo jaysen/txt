@@ -17,8 +17,8 @@ title = "jaysen naidoo's public-Txt"
     text = "[PublicTxt](https://github.com/publictxt/publictext), plain-text knowledge, published with [publictxt-pages](https://github.com/publictxt/publictxt-pages)"
 
   [params.categories]
-    enabled = true
-    list = ["Project", "Personal", "Tech", "Politics", "Science", "CompSci", "Content", "Other"]
+    enabled = false
+    #list = ["Project", "Personal", "Tech", "Politics", "Science", "CompSci", "Content", "Other"]
 
   # Filter chips, in this order.
   [[params.chipFacets]]
@@ -26,11 +26,12 @@ title = "jaysen naidoo's public-Txt"
     label = "Collection"
     states = ["include", "exclude"]
     match = ["any"]
-  [[params.chipFacets]]
-    key = "category"
-    label = "Category"
-    states = ["include", "exclude"]
-    match = ["any", "all"]
+  # [[params.chipFacets]]
+  #   key = "category"
+  #   label = "Category"
+  #   states = ["include", "exclude"]
+  #   match = ["any", "all"]
   [[params.chipFacets]]
     key = "tag"
     label = "Tags"
+    match = ["all", "any"]
