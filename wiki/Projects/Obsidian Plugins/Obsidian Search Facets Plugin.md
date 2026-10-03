@@ -5,7 +5,7 @@ aliases:
 ---
 #pkm #knowledge-management #dev #project #compsci #publictxt 
 
-[Obsidian.md](../../../Computer-Science/Software/Obsidian/Obsidian.md.md) Plugin for [Project PublicTxt](../../../../Projects/PublicTxt/Project%20PublicTxt.md) Facet search - duplicating the search of [PublicTxt-Pages](../../../../Projects/PublicTxt/PublicTxt-Pages.md)
+[Obsidian.md](../../../Computer-Science/Software/Obsidian/Obsidian.md.md) Plugin for [Project PublicTxt](../../../../Projects/PublicTxt/Project%20PublicTxt.md) Facet search - duplicating the search of [PublicTxt-Pages](../PublicTxt/PublicTxt-Pages/PublicTxt-Pages.md)
 
 The search page of a [PublicTxt-Hugo](https://github.com/publictxt/txt-hugo) site, inside the vault it is published from: one text box, a **Type** facet, a **Tags** facet with live counts, and page cards. Pick any combination of tags, with or without a search term, and see every page that matches all of them. The same model the site uses (sections as types, front matter tags plus inline `#hashtags` as one tag set) is what you browse while writing.
 

@@ -22,7 +22,7 @@ The core idea is simple: Desktop and Web applications that sync between local an
 The experiment is in early stages. Links to software repositories for tooling that works with these plain-text repositories to follow.
 
 ## Linked Repositories
-- [PublicTxt-Pages](PublicTxt-Pages.md) **Static-site generator with dynamic client-side layer - Python preprocessing, Hugo build, Pagefind search & JS faceted browse for PublicTxt/Obsidian repos.**
+- [PublicTxt-Pages](PublicTxt-Pages/PublicTxt-Pages.md) **Static-site generator with dynamic client-side layer - Python preprocessing, Hugo build, Pagefind search & JS faceted browse for PublicTxt/Obsidian repos.**
 	- Uses Hugo for static site generation
 	- Pagefind for search - Pagefind is a fully static search library that aims to perform well on large sites, while using as little of your users’ bandwidth as possible, and without hosting any infrastructure.
 	- Python for pre-processing

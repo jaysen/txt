@@ -2,7 +2,7 @@ Contract work and public software
 
 ## Under development
 - [Project PublicTxt](PublicTxt/Project%20PublicTxt.md)
-	- [PublicTxt-Pages](PublicTxt/PublicTxt-Pages.md)
+	- [PublicTxt-Pages](PublicTxt/PublicTxt-Pages/PublicTxt-Pages.md)
 	- [Obsidian PublicTxt Plugin](Obsidian%20Plugins/Obsidian%20Search%20Facets%20Plugin.md)
 	- [publictext.net](../../bookmarks/sites/publictext.net/publictext.net.md)
 	- [CuratedCommons](PublicTxt/CuratedCommons.md)

@@ -7,4 +7,4 @@ tags:
   - git
 ---
 - used to easily publish personal wikis to git repos
-- part of the workflow in deploying [PublicTxt-Pages](../../../../Projects/PublicTxt/PublicTxt-Pages.md) 
+- part of the workflow in deploying [PublicTxt-Pages](../../../../Projects/PublicTxt/PublicTxt-Pages/PublicTxt-Pages.md) 
