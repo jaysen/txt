@@ -34,7 +34,9 @@ The experiment is in early stages. Links to software repositories for tooling th
 	- Core libraries, and feature based services  
 	- Git and Database Infrastructure projects  
 	- Avalonia Desktop & Blazor Web Apps
-- [Obsidian-Search-Facets-Plugin](Obsidian-Search-Facets-Plugin)
+- [Obsidian Plugins for PublicTxt](Obsidian%20Plugins%20for%20PublicTxt.md)
+	- [Obsidian Search Facets Plugin](../Obsidian%20Plugins/Obsidian%20Search%20Facets%20Plugin.md)
+	- 
 
 ## Core Features
 

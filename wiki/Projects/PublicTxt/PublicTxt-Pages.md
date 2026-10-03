@@ -12,8 +12,7 @@ tags:
 ---
 #publictxt #compsci #dev #project 
 
-This project is a static-to-dynamic site generator, that creates publicTxt sites (like this one) automatically from an [Obsidian.md](wiki/Projects/PublicTxt/Tools/Obsidian/Obsidian.md.md) wiki, and publishes it using Github pages (no host or database required)
-
+This project is a static-to-dynamic site generator, that creates publicTxt sites (like this one) automatically from an [Obsidian.md](../../Computer-Science/Software/Obsidian/Obsidian.md.md) wiki, and publishing it using Github pages (no host or database required)
 ## how?
 - Static-site generator with dynamic client-side layer
 - Python preprocessing, 

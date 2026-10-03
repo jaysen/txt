@@ -5,7 +5,6 @@ author:
 created: 2026-10-01
 summary: Kent Beck created Extreme Programming, helped pioneer test-driven development, and was the first signatory of the Agile Manifesto. At Prodacity 2026 he talked about what craft means now that a model i
 tags:
-  - clippings
   - ai
   - dev
   - compsci
@@ -36,23 +35,17 @@ aliases:
 
 ![](https://www.youtube.com/watch?v=F8fBgDCf2Y4)
 
-## Notes (ai and i)
-- In this talk software pioneer *Kent Beck* discusses the evolving nature of **software engineering in the age of AI**. He emphasizes that while AI tools (which he calls "the genie") can generate code quickly, they often produce only "plausible" results that don't actually work, requiring developers to maintain a cynical and rigorous approach to quality (6:47-10:10).
-- Uses the term **"the genie"** to refer to AI tools in software development because of the specific, often frustrating nature of the relationship between the human programmer and the AI:
-	- **Granting Wishes vs. Delivering Wants:** Like the genie in a fable, the AI grants your exact requests, but the result is often not what you truly wanted or needed
-	- **Plausibility vs. Reality:** The AI is exceptionally good at producing "plausible" code -code that looks syntactically correct and convincing at first glance - but it often fails to actually _work_ or perform the task correctly under scrutiny. (**my note on this**: It's clear it now produces largely working code - but how clean and maintainable the code is, is more of an issue)
-	- **The Need for Oversight:** Because the AI provides code quickly but unreliably, it requires the human to take an adversarial, cynical view. You cannot assume the code is trustworthy; you must act as a critic to ensure it is not just plausible, but functional
-
-- **Key Takeaways:**
-	* **Craft in Augmented Development:** Beck argues that traditional craft—careful naming, decomposition, and structure—still matters, but with different leverage. It is no longer just about the act of programming, but about managing the relationship with AI-generated code (13:06-17:49).
-	* **Features vs. Futures:** He introduces a model for software development: developers must alternate between delivering features and investing in "futures" (optionality). Shipping too many features without "resting between the notes" (refactoring/cleaning) leads to a state where future changes become impossible (20:00-26:35).
-	* **Iterative vs. One-Shot:** Beck warns against "spec-driven development," which he equates to a new coat for waterfall methodology. He advocates for an iterative approach, emphasizing that true progress is a learning process that "throws off software as a side effect" (34:40-42:15).
-	* **Reframing Success:** Drawing on insights from military leadership, he highlights the difference between **effort** (lines of code), **output** (features), **outcome** (user behavior), and **mission** (shared goals). He cautions against Goodhart’s Law: when measures like lines of code become goals, the mission suffers (44:00-48:59).
+## Notes
+- Uses the term **Genie**
+	- because of the specific, often frustrating nature of the relationship between the human programmer and the AI
+	- and because **you get what you asked for, not what you need (in the long term)**
+- **Features vs. Futures** or **"The dark software factory"** where AI generates code so rapidly that it outpaces human understanding and feedback, leading to a brittle codebase that eventually becomes impossible to change (21:35-22:26, 30:46-31:17).
+	- To counter this, Beck advocates for a disciplined, **iterative approach** that mimics the "resting between the notes" concept in music. This involves oscillating between two distinct phases:
+	*   **The Sprint (Feature Implementation):** Leveraging the "genie" (AI) to quickly build out new functionality or prototypes. During this phase, velocity is prioritized, even if the resulting code is imperfect (22:45-23:12).
+	*   **The Pause (Consolidation and Refactoring):** This is the critical step for maintainability. Once a feature is shipped, the human must intentionally step in to:
+		*   **Refactor:** Eliminate duplication and improve code readability (24:45-25:02).
+		*   **Strengthen Futures:** Proactively improve the design to maintain optionality, ensuring the system remains flexible for future changes rather than becoming a "locked-in" mess (24:35-25:35).
+		*   **Verify Learning:** Use the pause as a moment to evaluate what was actually learned during the implementation, rather than just blindly pushing for the next output (32:13-33:15).
 - **Formal methods** (specifically using the [Lean language](../../wiki/Computer-Science/Languages/Lean%20language.md)) in the context of his experience with automated development (37:10). He expresses two primary challenges with using formal methods in software engineering:
 	- **The "One-Shot" Problem:** Formal methods often feel like a static, "one-shot" process (37:58). If you have a formal specification and prove its properties, but then need to change even a single element of the design, you have to "wind back" your work, which acts as a drag on the iterative change he advocates for.
 	- **The Implementation Gap:** There remains an persistent gap between the mathematical model (the formal specification) and the actual running code (38:40). Even after proving that properties hold for a specification, bridging that gap to create a functioning implementation in a language like _C++_ or assembly remains difficult and unresolved (38:55-39:40).
-- **One-shot vs Iterative**
-	- Kent Beck contrasts these two development paradigms to highlight the risks of modern "spec-driven development" (34:40-35:40):
-	- **One-Shot Development:** This approach assumes that if you write a sufficiently detailed specification, the AI (the "genie") can produce the finished, correct software in a single pass (35:28). Beck warns that this is essentially a new coat of paint on **waterfall methodology**—a rigid, linear process that historically failed because it ignores the reality that early decisions need to be informed by later feedback (35:45-36:30).
-	- **Iterative Development:** This is the alternative Beck advocates for (35:08). It involves a cycle of deploying software that provides value, observing how users interact with it, and then making informed changes to improve that value (41:28-41:48). He emphasizes that for complex, large-scale systems (like those with millions of users), you cannot simply "re-shoot" the code from scratch; you must build in a way that handles continuity and migration (42:30-43:16).
-	- Key Insight: Beck notes that the temptation to use "one-shot" methods often stems from a misunderstanding of how complex software evolves. He argues that true progress is a learning process that treats the code as a side effect, rather than just a finished product defined by a static spec (33:55-34:25).
