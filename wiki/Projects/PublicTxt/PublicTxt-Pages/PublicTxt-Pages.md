@@ -25,5 +25,5 @@ This project is a static-to-dynamic site generator, that creates publicTxt sites
 ## links
 - [Github repo](https://github.com/publictxt/publictxt-pages)
 - [Parent repo](https://github.com/publictxt/publictext) - [Project PublicTxt](Project%20PublicTxt.md)
-- [PublicTxt-Pages Issues](PublicTxt-Pages%20Issues)
+- [PublicTxt-Pages Issues](PublicTxt-Pages%20Issues.md)
 
