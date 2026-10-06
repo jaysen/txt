@@ -13,7 +13,7 @@ Spend time on and thinking about:
 
 See also:
 - [Online-things](Online-things.md)
-- [Projects](wiki/Projects/Projects.md)
+- [Projects](wiki/Projects/_index.md)
 
 
 ## Content

@@ -9,7 +9,7 @@ From a long finely evolved line, 4 billion years old, like all other living thin
 
 - [Blog](blog/_index.md)
 - [Wiki](wiki/_index.md)
-- [Projects](wiki/Projects/Projects.md)
+- [Projects](wiki/Projects/_index.md)
 - [Bio](Jaysen%20Naidoo.md)
 - [Some of my online things](Online-things.md)
 - [Podcasts](wiki/Content/Podcasts/_index.md)

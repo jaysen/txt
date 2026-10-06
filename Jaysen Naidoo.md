@@ -23,5 +23,5 @@ Spends time on and thinking about:
 - [Go game](Go%20game)
 
 See also:
-- [Projects](wiki/Projects/Projects.md)
+- [[Projects/_
 - [Online-things](Online-things.md)
