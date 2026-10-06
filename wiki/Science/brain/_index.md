@@ -1,9 +1,6 @@
 ---
 category:
   - Science
-tags:
-  - sci
-  - brain
 ---
 # Neuroscience / Brain
 #brain 
