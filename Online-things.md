@@ -14,7 +14,9 @@ category:
 - [github/jaysen](https://github.com/jaysen)
 - [stackoverflow](https://stackoverflow.com/users/714201/jaysen)
 - [my hypothes.is](https://hypothes.is/users/jaysen) user page
-- [my social bookmarks](https://pinboard.in/u:jaysen) on [pinboard.in](https://pinboard.in)
+- [my social bookmarks](https://pinboard.in/u:jaysen) on [pinboard.in](https://pinboard.in) - see [Pinboard.in](wiki/Computer-Science/Software/Social%20Software/Pinboard.in.md)
+- [my StoryGraph](https://app.thestorygraph.com/profile/jaysen) - see [StoryGraph](wiki/Computer-Science/Software/Social%20Software/StoryGraph.md)
+- [my Goodreads](https://www.goodreads.com/user/show/9196245-jaysen-naidoo)
 
 ---
 - [chess.com/member/jaysen](https://www.chess.com/member/jaysen) 
@@ -27,6 +29,7 @@ category:
 ## content
 
 - [Podcast listing](wiki/Content/Podcasts/Podcasts.md) (incomplete)
+- [Books Page](wiki/Content/Books/_index.md)
 
 ## contact
 

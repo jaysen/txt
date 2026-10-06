@@ -20,7 +20,7 @@ collections:
 aliases:
   - Kent Beck - Software Engineering in the Age of AI
 ---
-[Kent Beck](Kent%20Beck) created [Extreme Programming](Extreme%20Programming), helped pioneer test-driven development, and was the first signatory of the [Agile Manifesto](Agile%20Manifesto). At Prodacity 2026 he talked about what craft means now that a model is writing much of the code. 
+[Kent Beck](Kent%20Beck) created [Extreme Programming](../../wiki/Computer-Science/Software%20Dev/Extreme%20Programming.md), helped pioneer test-driven development, and was the first signatory of the [Agile Manifesto](Agile%20Manifesto). At Prodacity 2026 he talked about what craft means now that a model is writing much of the code. 
 
 # Kent Beck: Software Engineering in the Age of AI
 
@@ -46,6 +46,6 @@ aliases:
 		*   **Refactor:** Eliminate duplication and improve code readability (24:45-25:02).
 		*   **Strengthen Futures:** Proactively improve the design to maintain optionality, ensuring the system remains flexible for future changes rather than becoming a "locked-in" mess (24:35-25:35).
 		*   **Verify Learning:** Use the pause as a moment to evaluate what was actually learned during the implementation, rather than just blindly pushing for the next output (32:13-33:15).
-- **Formal methods** (specifically using the [Lean language](../../wiki/Computer-Science/Languages/Lean%20language.md)) in the context of his experience with automated development (37:10). He expresses two primary challenges with using formal methods in software engineering:
+- **Formal methods** (specifically using the [Lean language](../../wiki/Computer-Science/Software%20Dev/Languages/Lean%20language.md)) in the context of his experience with automated development (37:10). He expresses two primary challenges with using formal methods in software engineering:
 	- **The "One-Shot" Problem:** Formal methods often feel like a static, "one-shot" process (37:58). If you have a formal specification and prove its properties, but then need to change even a single element of the design, you have to "wind back" your work, which acts as a drag on the iterative change he advocates for.
 	- **The Implementation Gap:** There remains an persistent gap between the mathematical model (the formal specification) and the actual running code (38:40). Even after proving that properties hold for a specification, bridging that gap to create a functioning implementation in a language like _C++_ or assembly remains difficult and unresolved (38:55-39:40).
