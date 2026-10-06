@@ -7,6 +7,7 @@ collections:
   - posts
 facebook:
   - https://www.facebook.com/jaysenn/posts/pfbid02cq8T4MCFAokAVoS14BneAdVfSRPbAjVp3atDmZK9Vb2BHUHdbZDdJdMR6bew4FhXl
+updated: 2026-09-15
 ---
 # Our tools are still broken - regular reminder
 

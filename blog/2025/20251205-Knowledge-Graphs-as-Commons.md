@@ -4,6 +4,7 @@ category:
   - Tech
   - CompSci
 collections: notes
+updated: 2026-10-01
 ---
 # Knowledge Graphs as Commons
 

@@ -8,6 +8,7 @@ bookmark: https://www.youtube.com/watch?v=QW_jlUn4gA8
 rating: 3
 category:
   - Science
+updated: 2026-09-25
 ---
 # Another Issue with the Fermi Paradox - the Barrow Scale
 
