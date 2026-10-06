@@ -12,6 +12,10 @@ tags:
   - strong-ai
 summary: Reverse engineering the neocortex to revolutionize AI
 ---
+see also:
+- [Thousand Brain Theory of Intelligence](Thousand%20Brain%20Theory%20of%20Intelligence.md)
+- [A Thousand Brains - Jeff Hawkins](../../Content/Books/Non-Fiction/A%20Thousand%20Brains%20-%20Jeff%20Hawkins.md)
+
 ## Reverse engineering the neocortex to revolutionize AI
 The efforts of [Jeff Hawkins](../../World/People/Jeff%20Hawkins.md) and [Numenta](../../World/People/Numenta.md) to understand how the brain works started over 30 years ago and culminated in the publication of the Thousand Brains Theory of Intelligence. Since then, we’ve been thinking about how to apply our insights about the neocortex to artificial intelligence.
 

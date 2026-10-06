@@ -6,8 +6,18 @@ tags:
   - theory
   - rated
 ---
-also a book [A Thousand Brains - Jeff Hawkins](wiki/Content/Books/Non-Fiction/A%20Thousand%20Brains%20-%20Jeff%20Hawkins.md)
+## The Thousand Brains Theory
+Through his company [Numenta](https://numenta.com/) and the [Thousand Brains Project](https://www.thousandbrains.org/), Hawkins applies neuroscience to machine learning:
 
+- **Cortical Columns:** The neocortex has roughly 150,000 repeating units called cortical columns, each acting as an independent learning machine.
+- **Voting Consensus:** These columns build parallel models of objects and vote together to create a unified perception.
+- **Reference Frames:** The brain uses grid cells as internal maps to anchor what things feel, look, or sound like during movement. 
+
+see also 
+- a book [A Thousand Brains - Jeff Hawkins](wiki/Content/Books/Non-Fiction/A%20Thousand%20Brains%20-%20Jeff%20Hawkins.md)
+- [Thousand Brains Project](Thousand%20Brains%20Project.md)
+
+## Notes
 - [Numenta](../../World/People/Numenta.md) [Jeff Hawkins](../../World/People/Jeff%20Hawkins.md)
 - extends the [Hierarchical Temporal Memory](wiki/Science/brain/Hierarchical%20Temporal%20Memory.md) model for intelligence in the [Neocortex](wiki/Science/brain/Neocortex.md) 
 - Reference Frames
@@ -28,7 +38,7 @@ also a book [A Thousand Brains - Jeff Hawkins](wiki/Content/Books/Non-Fiction/A%
 	- instead, distant synaptic firings decreases current neuron's firing time. which is important to beat inhibitory process from neighbouring reference frames. see [Inhibitory Neurons](Inhibitory%20Neurons)
 	- the neuron is a predictive engine on its own
 
-### reference
+## References
 - ![](https://youtu.be/66nueGWIWns)
 - https://www.youtube.com/watch?v=-EVqrDlAqYo 
 - https://www.notion.so/jaysenn/Watch-Thousand-Brains-Theory-Hierarchy-Episode-16-on-YouTube-673c33009e224359ac3b1240bff36765 (in Content Database in Notion)

@@ -3,7 +3,7 @@ category:
   - Science
 tags:
   - sci
-  - "#brain"
+  - brain
 ---
 - [Consciousness](Consciousness.md)
 - **[Rethinking Consciousness - Michael Graziano](../../Content/Books/Non-Fiction/Rethinking%20Consciousness%20-%20Michael%20Graziano.md)** - Related Book
