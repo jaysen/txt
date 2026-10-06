@@ -31,7 +31,7 @@ tags:
 
 ## writing
 
-- [Knowledge-Graphs-as-Commons](../../../notes/Info%20politics/Knowledge-Graphs-as-Commons.md)
+- [20251205-Knowledge-Graphs-as-Commons](../../../../blog/2025/20251205-Knowledge-Graphs-as-Commons.md)
 - [Our tools are still broken](../../../../blog/2026/20260915%20Our%20tools%20are%20still%20broken.md)
 
 ## working on

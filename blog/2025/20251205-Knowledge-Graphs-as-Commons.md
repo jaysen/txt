@@ -7,7 +7,8 @@ collections: notes
 ---
 # Knowledge Graphs as Commons
 
-#writing #publictxt #knowledge-graphs #social-software #commons #infopolitics
+#writing #publictxt #knowledge-graphs #social-software #commons #infopolitics  #knowledge-management 
+
 
 ## We under-share
 
