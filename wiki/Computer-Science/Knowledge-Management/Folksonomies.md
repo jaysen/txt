@@ -24,7 +24,7 @@ see https://en.wikipedia.org/wiki/Folksonomy
 
 ## Common Examples
 
-- **Social Bookmarking & Media:** Platforms like [Del.icio.us](Del.icio.us) and  [Flickr](https://www.flickr.com/) or image repositories where users attach descriptive keywords to photos. 
+- **Social Bookmarking & Media:** Platforms like [Del.icio.us](../Software/Social%20Software/Del.icio.us.md) and  [Flickr](https://www.flickr.com/) or image repositories where users attach descriptive keywords to photos. 
 	- see [Social Bookmarking](Social%20Bookmarking.md)
 - **Hashtags:** Content tags used across social media platforms like X (formerly Twitter) to categorize trending discussions. 
 - **Collaborative Platforms:** Community-driven libraries or fan-fiction archives (like Archive of Our Own) that rely on community-voted tags. 
