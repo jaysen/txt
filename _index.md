@@ -3,7 +3,7 @@ category:
   - Personal
 ---
 # Jaysen Naidoo's public txt instance
-A [bliki](wiki/Computer-Science/Knowledge-Management/bliki.md) and [Project PublicTxt](wiki/Projects/PublicTxt/Project%20PublicTxt.md) instance of Jaysen Naidoo, living in Johannesburg, South Africa. Software developer by trade - currently taking on contract work while busy with a few public software projects.
+A [bliki](wiki/Computer-Science/Knowledge-Management/bliki.md) and [publicTxt](wiki/Projects/PublicTxt/Project%20PublicTxt.md) instance of Jaysen Naidoo, living in Johannesburg, South Africa. Software developer by trade - currently taking on contract work while busy with a few public software projects.
 
 From a long finely evolved line, 4 billion years old, like all other living things..
 
