@@ -15,3 +15,5 @@ IUS brings together scientists from around the world who refuse to stay silent i
 
 "To oppose militarism in all its manifestations will hopefully become a dominant preoccupation of scientists and others, indeed for everyone with a global conscience, to motivate them to feel that they must act responsibly in light of such developments that cloud the present and pose dire threats for the future."  
 **–** **Richard A Falk**
+
+https://www.iuscientists.org/

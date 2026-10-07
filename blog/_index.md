@@ -2,6 +2,7 @@
 description: Journal and blog posts
 aliases:
   - Blog home
+filter: tag-not=journal
 ---
 # Blog
 
