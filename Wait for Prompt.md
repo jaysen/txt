@@ -2,18 +2,14 @@
 collections:
   - notes
 ---
-
-
-
-
-- quick capture before proper note
+- *quick temporary capture - in progress*
 
 #brain #consciousness #sci 
 
 ## Consciousness as a running loop: how the argument developed
 
-1. **Starting point: Graziano's attention schema theory**
-   - Consciousness is a simplified model of our own attention
+1. **Starting point: [Michael-Graziano](Michael-Graziano)'s [Attention Schema Theory of Consciousness](wiki/Science/brain/Attention%20Schema%20Theory%20of%20Consciousness.md)
+   - [Consciousness](wiki/Science/brain/Consciousness.md) is a simplified model of our own attention
    - Function: plan and control attention, filter out subconscious processing
    - Evolutionarily plausible, likely emerged early
    - Fits with global workspace ideas
@@ -22,8 +18,8 @@ collections:
    - It could run on hardware other than a brain
 
 3. **"Wait for prompt" hypothesis**
-   - An LLM needs input to do anything
-   - Proposal: maybe all consciousness is like this, and senses are just prompts
+   - An [LLM](LLM) needs input to do anything. There is no background 'thinking'. If you don't prompt the inference machine, it does nothing.
+   - Proposal: maybe all consciousness is like this, and senses are just prompts. 
    - Question: would a computed mind do anything without input?
 
 4. **Challenge: two meanings of "needs input"**
@@ -44,8 +40,8 @@ collections:
 
 7. **Link to Hofstadter's *I Am a Strange Loop***
    - His view: the self is self-reference that crosses levels (from Gödel). It's about *reference*.
-   - Your view: the self is a continuously executing loop. It's about *execution*.
-   - Yours handles anesthesia better: the structure persists, but execution stops
+   - This view: the self is a continuously executing loop. It's about *execution*.
+   - This handles anesthesia better: the structure persists, but execution stops
    - Both views favor structure over substrate
 
 8. **What survives from "wait for prompt"**
