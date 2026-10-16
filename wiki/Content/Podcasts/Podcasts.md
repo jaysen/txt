@@ -5,6 +5,8 @@ tags:
   - list
   - content
   - podcast
+aliases:
+  - Podcast
 ---
 # Podcasts listing
 #podcast 
@@ -18,6 +20,7 @@ tags:
 - [Radiolab Podcasts](Radiolab%20Podcasts.md)
 - [Big Picture Science Podcast](Big%20Picture%20Science%20Podcast.md)
 - [Quirks & Quarks Podcast](Quirks%20&%20Quarks%20Podcast.md)
+- [[Be Smart]]
 - Neuroscience
 	- [Brain-Inspired Podcast](Brain-Inspired%20Podcast.md)
 	- [Brain Science Podcast](Brain%20Science%20Podcast.md)
