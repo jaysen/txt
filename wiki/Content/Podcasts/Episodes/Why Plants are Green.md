@@ -22,7 +22,7 @@ The sun emits its highest amount of energy in the green spectrum. It seems count
 
 - **Energy stability given solar input noise** : If purple competitors weren't around, you might assume plants would evolve to be black to absorb all available light energy. However, absorbing 100% of the sun's energy provides too much thermal and electronic stress. A black plant would easily overheat, damage its DNA, and suffer from extreme energy volatility.
 
-[[../Podcasts|Podcast]] channel [[../Be Smart|Be Smart]]
+[Podcast](../Podcasts.md) channel [Be Smart](../Be%20Smart)
 
 ![https://www.youtube.com/watch?v=srzniA8EKDk](https://www.youtube.com/watch?v=srzniA8EKDk "https://www.youtube.com/watch?v=srzniA8EKDk")
 
