@@ -15,6 +15,7 @@ mastodon:
   - https://hachyderm.io/@jaysen/117449353784851835
 facebook:
   - https://www.facebook.com/jaysenn/posts/pfbid02gYPhaDVMJCUfDY9oce5vxMF5yfRJUp7CrndkX9Ed2jQwWoyoH2r1RpVmMyViMaXTl
+twitter: https://x.com/jaysen/status/2111001306089554324
 ---
 The sun emits its highest amount of energy in the green spectrum. It seems counter-intuitive that plants would reject the most abundant light source, but it seems they evolved this way for 2 reasons:
 
