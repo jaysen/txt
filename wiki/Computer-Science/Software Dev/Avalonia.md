@@ -1,7 +1,7 @@
 ---
 title: "Avalonia UI: The Cross-Platform .NET UI Framework for Desktop, Mobile and Web"
 bookmark: https://avaloniaui.net/
-created: 2026-10-23
+created: 2026-09-06
 description: Build cross-platform desktop and mobile apps with .NET. One codebase for Windows, macOS, Linux, iOS, Android, and WebAssembly.
 tags:
   - clippings
