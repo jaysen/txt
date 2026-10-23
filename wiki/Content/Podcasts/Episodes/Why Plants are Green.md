@@ -10,7 +10,7 @@ tags:
   - podcast
   - youtube
 bookmark: https://www.youtube.com/watch?v=srzniA8EKDk
-channel:
+channel: "[Be Smart](../Be%20Smart)"
 mastodon:
   - https://hachyderm.io/@jaysen/117449353784851835
 facebook:

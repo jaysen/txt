@@ -7,7 +7,7 @@ updated: 2026-10-03
 
 It was designed by **Google** engineers Robert Griesemer, Rob Pike, and Ken Thompson. Officially announced in **2009**
 
-Go was built to manage modern software development challenges, offering the blazing performance of low-level languages like C++ paired with the clean readability of high-level languages like [Python](Python)
+Go was built to manage modern software development challenges, offering the blazing performance of low-level languages like C++ paired with the clean readability of high-level languages like [Python](Python.md)
 
 Go's predictable performance makes it well suited for enterprise-grade backend infrastructure
 

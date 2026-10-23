@@ -1,5 +1,5 @@
 - [CSharp](CSharp)
-- [Python](Python)
+- [Python](Python.md)
 - [FSharp](FSharp)
 - [RLang](RLang)
 - [JavaScript](JavaScript.md)

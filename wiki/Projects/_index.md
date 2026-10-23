@@ -13,8 +13,9 @@ Contract work and public software
 	- [Obsidian Search Facets Plugin](Obsidian%20Plugins/Obsidian%20Search%20Facets%20Plugin.md)
 	- [publictext.net](../../bookmarks/sites/publictext.net/publictext.net.md)
 	- [CuratedCommons](PublicTxt/CuratedCommons.md)
-	- [WikiTool](https://github.com/jaysen/WikiTool) 
 	- [Obsidian PublicTxt Plugin](Obsidian%20Plugins/Obsidian%20PublicTxt%20Plugin.md)
+- [WikiTool](https://github.com/jaysen/WikiTool) 
+- [tokolog-flet](tokolog-flet.md)
 
 ## thinking about ...
 - [SnapCipher](wiki/Projects/SnapCipher.md)
