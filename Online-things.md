@@ -13,8 +13,9 @@ category:
 ---
 - [github/jaysen](https://github.com/jaysen)
 - [stackoverflow](https://stackoverflow.com/users/714201/jaysen)
-- [my hypothes.is](https://hypothes.is/users/jaysen) user page
-- [my social bookmarks](https://pinboard.in/u:jaysen) on [pinboard.in](https://pinboard.in) - see [Pinboard.in](wiki/Computer-Science/Software/Social%20Software/Pinboard.in.md)
+- [my social bookmarks](https://pinboard.in/u:jaysen) 
+	- on [pinboard.in](https://pinboard.in) - see [Pinboard.in](wiki/Computer-Science/Software/Social%20Software/Pinboard.in.md)
+	- [my hypothes.is](https://hypothes.is/users/jaysen) user page
 - [my StoryGraph](https://app.thestorygraph.com/profile/jaysen) - see [StoryGraph](wiki/Computer-Science/Software/Social%20Software/StoryGraph.md)
 - [my Goodreads](https://www.goodreads.com/user/show/9196245-jaysen-naidoo)
 
