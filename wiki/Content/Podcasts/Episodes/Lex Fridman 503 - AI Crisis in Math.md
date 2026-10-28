@@ -43,13 +43,16 @@ Ended: [20261028](blog/2026/20261028.md)
 - Zone of Proximal Development
 	- Lev Vygotsky's term for the gap between what a learner can do alone and _with guidance_ in [Learning with AI](../../../Computer-Science/AI/Learning%20with%20AI.md)
 
-## Key Takeaways for Learning with AI
+### Key Takeaways for Learning with AI
 
 **1. Use AI as a Tutor, Not an Answer Engine**
-*   The most effective way to learn is to use AI to clarify difficult concepts. If you encounter a complex math paper or a confusing topic, use the tool to break down the language or explain specific sections. This accelerates learning by acting as a "world expert" available to teach you in your own language (3:11:30-3:12:30).
+The most effective way to learn is to use AI to clarify difficult concepts. If you encounter a complex math paper or a confusing topic, use the tool to break down the language or explain specific sections. This accelerates learning by acting as a "world expert" available to teach you in your own language (3:11:30-3:12:30).
+
 **2. Avoid the Bimodal Learning Trap**
-*   There is an observable divide in how students approach AI. The "head" of the distribution uses AI to check their understanding, quiz themselves, and verify their logic. The "tail" of the distribution uses AI to simply generate answers to finish work quickly. To be successful, you must use these tools to deepen, not bypass, your own thinking (3:19:10-3:19:40).
+There is an observable divide in how students approach AI. The "head" of the distribution uses AI to check their understanding, quiz themselves, and verify their logic. The "tail" of the distribution uses AI to simply generate answers to finish work quickly. To be successful, you must use these tools to deepen, not bypass, your own thinking (3:19:10-3:19:40).
+
 **3. Retain Personal Independence**
-*   Even when a machine can solve a problem, you should strive to retain the ability to solve it yourself. Mastering a skill—even if a tool can do it for you—is essential for personal independence and building the intuition necessary for true expertise (3:17:05-3:17:45).
+Even when a machine can solve a problem, you should strive to retain the ability to solve it yourself. Mastering a skill—even if a tool can do it for you—is essential for personal independence and building the intuition necessary for true expertise (3:17:05-3:17:45).
+
 **4. Build Strong Foundations**
-*   Do not abandon the basics. Regardless of AI's capabilities, you must still learn the fundamentals like linear algebra, calculus, and physics. Building this core intuition allows you to evaluate AI outputs critically and navigate the "uncertainty" of the future with a stronger sense of purpose (3:21:00-3:21:26, 3:25:28-3:26:20).
+Do not abandon the basics. Regardless of AI's capabilities, you must still learn the fundamentals like linear algebra, calculus, and physics. Building this core intuition allows you to evaluate AI outputs critically and navigate the "uncertainty" of the future with a stronger sense of purpose (3:21:00-3:21:26, 3:25:28-3:26:20).
