@@ -1,5 +1,5 @@
 ---
-web: https://github.com/publictxt/obsidian-txt-facets
+web: https://github.com/publictxt/obsidian-publictxt-facets
 tags:
   - dev
   - publictxt
@@ -8,8 +8,10 @@ tags:
 category:
   - Project
   - CompSci
+aliases:
+  - Obsidian Txt Facets Plugin
 ---
-one of [Obsidian Plugins for PublicTxt](wiki/Projects/PublicTxt/Obsidian%20Plugins%20for%20PublicTxt.md)
+One of [Obsidian Plugins for PublicTxt](wiki/Projects/PublicTxt/Obsidian%20Plugins%20for%20PublicTxt.md). Renamed from **Obsidian Txt Facets Plugin**
 
 ## Txt Facets — Intent
 An Obsidian plugin for browsing a vault by **facets**: chip facets with live counts (collection,

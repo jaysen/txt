@@ -13,6 +13,6 @@ tags:
 - [Obsidian Git Plugin](../../Computer-Science/Software/Obsidian/Plugins/Obsidian%20Git%20Plugin.md)
 
 ## my plugin projects
-- [Obsidian Txt Facets Plugins](../Obsidian%20Plugins/Obsidian%20Txt%20Facets%20Plugins.md)
+- [Obsidian PublicTxt Facets Plugin](../Obsidian%20Plugins/Obsidian%20PublicTxt%20Facets%20Plugin.md)
 	- replaces [Obsidian Search Facets Plugin](../Obsidian%20Plugins/Obsidian%20Search%20Facets%20Plugin.md)
 - [Obsidian PublicTxt Plugin](../Obsidian%20Plugins/Obsidian%20PublicTxt%20Plugin.md)
