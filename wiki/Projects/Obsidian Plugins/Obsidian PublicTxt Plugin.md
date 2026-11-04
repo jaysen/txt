@@ -12,6 +12,7 @@ tags:
   - dev/planned
 web: https://github.com/publictxt/obsidian-publictxt
 bookmark: https://github.com/publictxt/obsidian-publictxt
+created: 2026-11-02
 ---
 ## overview
 - Adds collaborative features - to 'connect' [Obsidian.md](wiki/Computer-Science/Software/Obsidian/Obsidian.md.md) wikis to other [PublicTxt Wikis](PublicTxt%20Wikis)
