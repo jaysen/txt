@@ -21,3 +21,7 @@ see also [Folksonomies](Folksonomies.md) and [human computation](human%20computa
 ## projects
 - [Project PublicTxt](../../../Projects/PublicTxt/Project%20PublicTxt.md)
 - [CuratedCommons](../../../Projects/PublicTxt/CuratedCommons.md)
+
+## older software / web apps
+- [Del.icio.us](../Software/Social%20Software/Del.icio.us.md)
+- [StumbleUpon](StumbleUpon)
