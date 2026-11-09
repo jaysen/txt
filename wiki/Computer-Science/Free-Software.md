@@ -8,7 +8,7 @@ tags:
   - floss
 ---
 - [CopyLeft](../Computer-Science/CopyLeft.md)
-- [Federated Social Software - Fediverse](Federated%20Social%20Software%20-%20Fediverse)
+- [Federated Social Software - Fediverse](Software/Social%20Software/Federated%20Social%20Software%20-%20Fediverse.md)
 
 - [20260915 Our tools are still broken](../../blog/2026/20260915%20Our%20tools%20are%20still%20broken.md)
 - [20240816 - The WhatsApp Mess](../../posts/2024/20240816%20-%20The%20WhatsApp%20Mess.md)
