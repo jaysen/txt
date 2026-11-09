@@ -14,6 +14,3 @@ category:
 ## projects
 - [Project PublicTxt](../../../Projects/PublicTxt/Project%20PublicTxt.md)
 - [CuratedCommons](../../../Projects/PublicTxt/CuratedCommons.md)
-
-
-- 
