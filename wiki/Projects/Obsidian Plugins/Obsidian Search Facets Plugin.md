@@ -5,7 +5,7 @@ aliases:
 ---
 #pkm #knowledge-management #dev #project #compsci #publictxt 
 
-**Superceded by [Obsidian PublicTxt Facets Plugin](Obsidian%20PublicTxt%20Facets%20Plugin.md)**
+**Superceded by [Obsidian PublicTxt Facets Plugin](../PublicTxt/PublicTxt-Obsidian/Obsidian%20PublicTxt%20Facets%20Plugin.md)**
 
 [Obsidian.md](../../../Computer-Science/Software/Obsidian/Obsidian.md.md) Plugin for [Project PublicTxt](../../../../Projects/PublicTxt/Project%20PublicTxt.md) Facet search - duplicating the search of [PublicTxt-Pages](../PublicTxt/PublicTxt-Pages/PublicTxt-Pages.md)
 
