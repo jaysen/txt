@@ -19,9 +19,9 @@ See also:
 ## Content
 
 - [Wiki](wiki/_index.md) - linked wiki pages
-- [Blog](blog/_index.md) - weblogging
+- [Blog](blog/blog%20home.md) - weblogging
 - [Notes](notes/home.md) - nothing yet
-- [Posts](posts/_index.md) - Toots, tweets, threads, micro-blogs - all can get duplicated here.
+- [Posts](posts/posts%20home.md) - Toots, tweets, threads, micro-blogs - all can get duplicated here.
 
 -----
 

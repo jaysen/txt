@@ -13,7 +13,7 @@ category:
 rating: "4"
 ---
 
-[Science](../../../_index.md) Youtube Channel
+[Science](../../../home%20page.md) Youtube Channel
 
 web: https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q
 #channel #sci #video #content

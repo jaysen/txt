@@ -7,4 +7,4 @@ category:
 ---
 web::https://facebook.com
 
-[Social Networking](../../../../_index.md) private monopoly. 
+[Social Networking](../../../../home%20page.md) private monopoly. 
