@@ -11,7 +11,7 @@ title = "jaysen naidoo's public-Txt"
   author = "Jaysen Naidoo"
   mastodon = "https://hachyderm.io/@jaysen"
 
-  excludeFolders = ["settings/Templates"]
+  excludeFolders = ["settings/Templates","community/publictext/wiki/publictxt/docs/spec/fixtures"]
   pagerSize = 15
   listOrder = "created"
 
