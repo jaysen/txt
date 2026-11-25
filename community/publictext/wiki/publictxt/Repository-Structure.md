@@ -1,0 +1,67 @@
+---
+tags:
+  - publictxt
+  - docs
+  - spec
+mirror_remote: publictext
+mirror_repo: https://github.com/publictxt/publictext
+mirror_path: wiki/publictxt/Repository-Structure.md
+mirror_branch: main
+mirror_commit: 4a7bca560ddc5e103536577b04cb9780b24ec70a
+mirror_blob: d2b6724cd0d5672cd4020209bfd83871ef9cfffc
+mirror_date: 2026-11-25T23:46:05+02:00
+---
+# Repository structure
+
+How a PublicTxt repository is laid out, following the [PublicTxt-Pages content structure](https://github.com/publictxt/publictxt-pages/blob/main/docs/SPEC.md#content-structure). The [format specification](docs/spec/publictxt-spec.md) adopts the same layout (§4) and front matter (§5); it is the formal version of this page.
+
+```txt
+_index.md                  home page
+wiki/                      reference pages, read by place
+  _index.md                a folder's own page (any depth)
+blog/                      dated posts; the date comes from the path
+  2023/12/17/post.md         day folder
+  2024/09/20240922-title.md  YYYYMMDD prefix
+  20260509-title.md          YYYYMMDD prefix, no folders
+posts/                     longer pieces
+notes/                     short notes
+bookmarks/
+  sites/<domain>/page.md   one file per web resource, with a `bookmark:` URL
+  wiki/topic.md            pages about bookmarks (no URL needed)
+media/                     shared images and audio, copied as-is
+settings/site.toml         site settings for PublicTxt-Pages (optional)
+follows/repo.md            one note per repo you follow: `url` in front matter (ADR-0014)
+community/repo/…           mirrors: pages from a repo you follow, as written there (ADR-0017)
+.github/workflows/         the publish workflow
+```
+
+Never published: `CNAME`, `.gitignore`, `.obsidian/`. `README.md`, `LICENSE` and `CONTRIBUTING.md` are published as ordinary pages; to keep them (or any other file name) off, list them in `params.skipFiles` in `settings/site.toml`. The list replaces the default, so repeat `CNAME` and `.gitignore`.
+
+## Collections
+
+Each top-level folder is a **collection** (and a section of the site). A page can join others:
+
+- `collections: [blog]` in front matter — listed under Blog too, wherever it's filed
+- a `bookmark:` URL — joins `bookmarks`, wherever it lives
+
+Collections add, never replace: a page always stays in its folder's collection.
+
+## Front matter
+
+All optional; the build derives the rest.
+
+| Key | Purpose |
+|---|---|
+| `title` | Falls back to an `# H1` that is the first non-empty line of the body, then the filename |
+| `tags` | Merged with inline `#hashtags` |
+| `collections` | Extra collections |
+| `bookmark` / `bookmarks` | The URL(s) the page is about |
+| `created` / `updated` | Override dates from the path and Git history |
+| `publish: off` | Leave the page off the site (it's still public in the repo) |
+
+## Links and media
+
+- Link with relative Markdown links: `[text](../wiki/page.md)`. `[[wikilinks]]` show as plain text.
+- Put images beside the note, or in a top-level folder like `media/`.
+
+Changing a rule here? Change the [format specification](docs/spec/publictxt-spec.md) first (ADR-0013); PublicTxt-Pages follows.
