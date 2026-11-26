@@ -8,9 +8,9 @@ mirror_remote: publictext
 mirror_repo: https://github.com/publictxt/publictext
 mirror_path: wiki/publictxt/PublicTxt.md
 mirror_branch: main
-mirror_commit: 4a7bca560ddc5e103536577b04cb9780b24ec70a
-mirror_blob: 093362ae5c3ea8dca7ac8450234dac0d60772677
-mirror_date: 2026-11-25T23:46:05+02:00
+mirror_commit: db881d2d3dc9cfd98be377b4429a03cdcfa31f9a
+mirror_blob: 4ad12a82a3a8533a582d3aae470b5af0b3d011f1
+mirror_date: 2026-11-26T02:25:47+02:00
 ---
 # PublicTxt overview
 
@@ -33,8 +33,8 @@ Community features, browser extensions, federation and graph-database backends m
 - **Plain text first** — Markdown with standard `[text](page.md)` links, readable by any static-site host with no conversion. Tags are front matter `tags:` or inline `#hashtags`.
 - **Zero-cost storage and hosting** — free Git hosting for storage, distribution and static sites.
 - **Static website generation** — [PublicTxt-Pages](projects/publictxt-pages/PublicTxt-Pages.md): push and you're live, with full-text search and facets. See [Publishing](projects/publictxt-pages/Publishing.md).
-- **Selective aggregation** — pull chosen content from other repositories into a local aggregate. In progress: [Obsidian PublicTxt Remotes](projects/obsidian-plugins/Obsidian-PublicTxt-Remotes.md) follows repos and forks their pages.
-- **Obsidian compatible** — a PublicTxt repository is an Obsidian vault. [Obsidian PublicTxt Facets](projects/obsidian-plugins/Obsidian-PublicTxt-Facets.md) brings the site's browsing into the editor.
+- **Selective aggregation** — pull chosen content from other repositories into a local aggregate. In progress: [Obsidian PublicTxt Remotes](projects/obsidian-plugins/publictxt-remotes/Obsidian-PublicTxt-Remotes.md) follows repos and forks their pages.
+- **Obsidian compatible** — a PublicTxt repository is an Obsidian vault. [Obsidian PublicTxt Facets](projects/obsidian-plugins/publictxt-facets/Obsidian-PublicTxt-Facets.md) brings the site's browsing into the editor.
 
 ## Use cases
 

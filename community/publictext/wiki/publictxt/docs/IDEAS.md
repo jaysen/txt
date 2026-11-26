@@ -3,9 +3,9 @@ mirror_remote: publictext
 mirror_repo: https://github.com/publictxt/publictext
 mirror_path: wiki/publictxt/docs/IDEAS.md
 mirror_branch: main
-mirror_commit: 4a7bca560ddc5e103536577b04cb9780b24ec70a
-mirror_blob: 14dd35d621b935931028ed8505be6fdd4339e69c
-mirror_date: 2026-11-25T23:46:06+02:00
+mirror_commit: 890ad86461e71095b129d0a418c5b55c9a94a7de
+mirror_blob: d5a016af31bbd4a71b2395434aa9326859fc337d
+mirror_date: 2026-11-26T14:15:28+02:00
 ---
 # Ideas (out of scope)
 
@@ -23,7 +23,7 @@ Parked so they don't leak into the spec or the build plan. Each has a trigger fo
 | Consensus and reputation | There is multi-author curation to rank |
 | Immutable public records or a ledger | A concrete use case needs more than signed commits |
 | Avalonia desktop app, Blazor web app ([PublicTxt.net](../projects/PublicTxt.net.md)) | A workflow can't be done with Obsidian, the CLI and the static site (ADR-0008) |
-| [PublicTxt Web](ideas/PublicTxt-Web.md): a hosted service, sites at `yoursite.publictext.net` | Someone who won't use Git wants to contribute (ADR-0008) |
+| [PublicTxt Web](ideas/PublicTxt-Web%20idea.md): a hosted service, sites at `yoursite.publictext.net` | Someone who won't use Git wants to contribute (ADR-0008) |
 | [Git features](ideas/git-features.md): user views across repos, namespaces, wiki bridges | Follows and forks are used across several real repos |
 | Default to `[[wikilinks]]` instead of Markdown links | PublicTxt-Pages converts wikilinks at sync ([plan](https://github.com/publictxt/publictxt-pages/blob/main/docs/plans/wikilinks.md)) and spec §13 q8 is settled |
 | Public, semi-public and private content | Someone needs to follow a private repo |

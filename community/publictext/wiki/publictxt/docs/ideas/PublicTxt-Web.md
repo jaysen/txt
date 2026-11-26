@@ -3,9 +3,9 @@ mirror_remote: publictext
 mirror_repo: https://github.com/publictxt/publictext
 mirror_path: wiki/publictxt/docs/ideas/PublicTxt-Web.md
 mirror_branch: main
-mirror_commit: 4a7bca560ddc5e103536577b04cb9780b24ec70a
-mirror_blob: c0becf812d729e1d653ae6a1f769aab6faecb435
-mirror_date: 2026-11-25T23:46:07+02:00
+mirror_commit: db881d2d3dc9cfd98be377b4429a03cdcfa31f9a
+mirror_blob: 410ac36a1f9d3cdaf45edd72f2b3516ad1c60711
+mirror_date: 2026-11-26T02:25:47+02:00
 ---
 # PublicTxt Web
 
@@ -26,8 +26,8 @@ The parts that exist, behind one web UI:
 | In the browser | Today |
 |---|---|
 | Write and edit pages | Obsidian or any Markdown editor |
-| Follow repos; mirror and fork their pages | [Obsidian PublicTxt Remotes](../../projects/obsidian-plugins/Obsidian-PublicTxt-Remotes.md) |
-| Browse by facets, search | [Obsidian PublicTxt Facets](../../projects/obsidian-plugins/Obsidian-PublicTxt-Facets.md), [PublicTxt-Pages](../../projects/publictxt-pages/PublicTxt-Pages.md) |
+| Follow repos; mirror and fork their pages | [Obsidian PublicTxt Remotes](../../projects/obsidian-plugins/publictxt-remotes/Obsidian-PublicTxt-Remotes.md) |
+| Browse by facets, search | [Obsidian PublicTxt Facets](../../projects/obsidian-plugins/publictxt-facets/Obsidian-PublicTxt-Facets.md), [PublicTxt-Pages](../../projects/publictxt-pages/PublicTxt-Pages.md) |
 | Publish | PublicTxt-Pages on GitHub Pages |
 
 One way to build it ([PublicTxt.net](../../projects/PublicTxt.net.md)): a Blazor WebAssembly client that opens a folder or repo into a client-side SQLite cache for fast search, with a server side that fetches followed repos and pulls them through a filter.
