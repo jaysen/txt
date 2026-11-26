@@ -9,11 +9,11 @@ Contract work and public software
 
 ## working on ...
 - [Project PublicTxt](PublicTxt/Project%20PublicTxt.md)
-	- [PublicTxt-Pages](PublicTxt/PublicTxt-Pages/PublicTxt-Pages.md)
+	- [PublicTxt-Pages](PublicTxt/Projects/PublicTxt-Pages/PublicTxt-Pages.md)
 	- [Obsidian Search Facets Plugin](Obsidian%20Plugins/Obsidian%20Search%20Facets%20Plugin.md)
 	- [publictext.net](../../bookmarks/sites/publictext.net/publictext.net.md)
-	- [CuratedCommons](PublicTxt/CuratedCommons.md)
-	- [Obsidian PublicTxt Remotes Plugin](PublicTxt/PublicTxt-Obsidian/Obsidian%20PublicTxt%20Remotes%20Plugin.md)
+	- [CuratedCommons](PublicTxt/Projects/CuratedCommons.md)
+	- [Obsidian PublicTxt Remotes Plugin](PublicTxt/Projects/PublicTxt-Obsidian/Obsidian%20PublicTxt%20Remotes%20Plugin.md)
 - [WikiTool](https://github.com/jaysen/WikiTool) 
 - [tokolog-flet](tokolog-flet.md)
 

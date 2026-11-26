@@ -1,0 +1,18 @@
+---
+category:
+  - CompSci
+  - Project
+  - Tech
+tags:
+  - obsidian
+  - plugin
+  - publictxt
+  - project
+---
+## community plugins
+- [Obsidian Git Plugin](../../../../Computer-Science/Software/Obsidian/Plugins/Obsidian%20Git%20Plugin.md)
+
+## my plugin projects
+- [Obsidian PublicTxt Facets Plugin](Obsidian%20PublicTxt%20Facets%20Plugin.md)
+	- replaces [Obsidian Search Facets Plugin](../../../Obsidian%20Plugins/Obsidian%20Search%20Facets%20Plugin.md)
+- [Obsidian PublicTxt Remotes Plugin](Obsidian%20PublicTxt%20Remotes%20Plugin.md)

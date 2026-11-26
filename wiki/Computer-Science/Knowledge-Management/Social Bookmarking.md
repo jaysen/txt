@@ -13,7 +13,7 @@ A key feature is **Collaborative Tagging**, where users assign descriptive keywo
 
 ## projects
 - [Project PublicTxt](../../../Projects/PublicTxt/Project%20PublicTxt.md)
-- [CuratedCommons](../../../Projects/PublicTxt/CuratedCommons.md)
+- [CuratedCommons](../../Projects/PublicTxt/Projects/CuratedCommons.md)
 ## software / web apps
 - [Hypothes.is](hypothes.is.md)
 - [Raindrop.io](Raindrop.io) 

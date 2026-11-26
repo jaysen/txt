@@ -22,5 +22,5 @@ Unlike frameworks that wrap native controls, Avalonia draws its own UI with Skia
 
 
 ## Projects
-- [WikiTool](wiki/Projects/PublicTxt/WikiTool.md)
+- [WikiTool](../../Projects/PublicTxt/Projects/WikiTool.md)
 - [Project PublicTxt](wiki/Projects/PublicTxt/Project%20PublicTxt.md)

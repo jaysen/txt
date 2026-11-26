@@ -37,7 +37,7 @@ tags:
 ## working on
 
 - [Project PublicTxt](../../../Projects/PublicTxt/Project%20PublicTxt.md)
-- [CuratedCommons](../../../Projects/PublicTxt/CuratedCommons.md)
+- [CuratedCommons](../../../Projects/PublicTxt/Projects/CuratedCommons.md)
 
 
 

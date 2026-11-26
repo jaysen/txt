@@ -7,14 +7,15 @@ tags:
   - publictxt-web
   - design
   - dev/planned
+  - sticky
 rating: "4"
 fork_remote: publictext
 fork_repo: https://github.com/publictxt/publictext
 fork_path: blog/2026/20261126-Learning Erlang by building a Discovery Node for PublicTxt.md
 fork_branch: main
-fork_commit: 890ad86461e71095b129d0a418c5b55c9a94a7de
-fork_blob: 85d8c7262e9bd1162e9529e17171dd593d69ce26
-fork_date: 2026-11-26T14:18:09+02:00
+fork_commit: aabc3d3a6894705bdff4aee00aafbc7c5834354a
+fork_blob: 3e702e2ea070dacf1f61f56d14f9cf5451b59755
+fork_date: 2026-11-26T17:08:48+02:00
 ---
 ## Why Erlang, why now
 
@@ -26,7 +27,7 @@ That's also my excuse to learn [Erlang](../../wiki/Computer-Science/Languages/Er
 
 PublicTxt is a decentralised, Git-backed knowledge platform. Each person keeps their notes and bookmarks as plain Markdown in their own Git repo. [CuratedCommons](../../wiki/publictxt/projects/CuratedCommons.md) is the curation layer on top: social bookmarking across many repos.
 
-The stack is free. But following hundreds or thousands of repos, keeping an index fresh and pushing updates to readers is work someone has to run. That's where [PublicTxt-Web](../../wiki/publictxt/projects/PublicTxt-Web.md) comes in: a hosted service that aggregates, indexes and, potentially, offers convenient paid hosting, without locking anyone in.
+The stack is free. But following hundreds or thousands of repos, keeping an index fresh and pushing updates to readers is work someone has to run. That's where [PublicTxt-Web](../../wiki/Projects/PublicTxt/Projects/PublicTxt-Web.md) comes in: a hosted service that aggregates, indexes and, potentially, offers convenient paid hosting, without locking anyone in.
 
 ## The shape of the solution
 

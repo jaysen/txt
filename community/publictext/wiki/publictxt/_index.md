@@ -7,9 +7,9 @@ mirror_remote: publictext
 mirror_repo: https://github.com/publictxt/publictext
 mirror_path: wiki/publictxt/_index.md
 mirror_branch: main
-mirror_commit: 890ad86461e71095b129d0a418c5b55c9a94a7de
-mirror_blob: ccac93e140bc7ffd9e4748d4bf5c5b45a99fada4
-mirror_date: 2026-11-26T14:15:28+02:00
+mirror_commit: aabc3d3a6894705bdff4aee00aafbc7c5834354a
+mirror_blob: 0dc20276045dd2d280387878290ef765a4dd0031
+mirror_date: 2026-11-26T17:10:00+02:00
 ---
 # PublicTxt documentation
 
@@ -21,7 +21,7 @@ Start with the [overview](PublicTxt.md).
 - [Roadmap](Roadmap.md) — v1 focus, component status, later phases
 - [Repository structure](Repository-Structure.md) — how a PublicTxt repository is laid out
 - [Publishing a PublicTxt site](projects/publictxt-pages/Publishing.md) — from a repository to a live site, as this one is built
-- [Related projects and tools](Related-Projects.md) — Agora, Solid, FedWiki, and what PublicTxt builds on
+- [Related projects and tools](related/Related-Projects.md) — Agora, Solid, FedWiki, and what PublicTxt builds on
 
 ## Design
 
